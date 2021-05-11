@@ -1,0 +1,98 @@
+ENGLISH
+ПЕРЕВОД
+actress	актриса
+add	надбавка
+additional payment	доплата
+administrator; manager	администратор
+advance	аванс
+agent	агент
+agronomist	агроном
+analyst	аналитик
+announcer	диктор
+anthropologist	антрополог
+application	заявление
+appointment	назначение
+archaeologist	археолог
+artist	художник
+autobiography	автобиография
+baker	пекарь
+banker	банкир
+bankrupt	банкрот
+bookbinder	переплетчик
+book-keeper	бухгалтер
+boycott	бойкот
+bribe	взятка
+bribery	взяточничество
+bricklayer	каменщик
+brigade-leader	бригадир
+brigade; team	бригада
+builder	строитель
+careerist	карьерист
+carpenter	плотник
+cash	наличность
+cashier	кассир
+charity	благотворительность
+chemist	аптекарь
+clerk	конторщик
+decree	декрет
+demotion	понижение по службе
+depositor; investor	вкладчик
+discharge pay	выходное пособие
+discharge; retiring	увольнение
+dismiss; discharge	увольнять
+(to) earn	зарабатывать
+earnings	заработок
+editor	редактор
+employer	работодатель
+employer tenant	наниматель
+enclosure; investment	вложение
+exchange	биржа
+ferryman	паромщик
+form	бланк
+gas-man; gasfilter	газовщик
+geologist	геолог
+guard (watchman)	сторож; (ночн. сторож)
+gynaecologist	гинеколог
+head physician	главный врач
+(to) hire	нанимать
+hired	наемный
+invent	изобретатель
+janitor	дворник
+journalist	журналист
+lawyer	адвокат, юрист
+leave; vacation; sale; supply; allotment	отпуск
+librarian	библиотекарь
+loader	грузчик
+maternity leave	декретный отпуск
+midwife	акушерка
+milkmaid	доярка
+permanent	бессрочный
+pilot	пилот
+porter	носильщик
+postman	почтальон
+potter	гончар
+rent	аренда
+(to) rent	арендовать
+reprimand	выговор
+rеsume	резюме
+revolt; riot	бунт
+salary	жалование
+singer	певец
+shareholder	акционер
+shepherd	пастух
+shoemaker	сапожник
+short-term	краткосрочный
+stock exchange	фондовая биржа
+strike	забастовка
+(to) strike; be on strike	бастовать
+tenant; renter	арендатор
+trainer	дрессировщик
+translator; interpreter	переводчик
+vacancy	вакансия
+vacant	вакантный
+vice-; deputy	заместитель
+wage	заработная плата
+waiter	официант
+(to) work off	отрабатывать
+unemployment	безработица
+unemployed	безработный

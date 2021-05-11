@@ -1,0 +1,117 @@
+Animal
+Transcription
+Русское название
+ant	[ ænt ]	муравей
+antelope	[ ˈæntɪləʊp ]	антилопа
+badger	[ ˈbædʒə ]	барсук
+bat	[ bæt ]	летучая мышь
+bear	[ beə ]	медведь
+beaver	[ ˈbiːvə ]	бобр
+bee	[ biː ]	пчела
+beetle	[ ˈbiːtl̩ ]	жук
+blackbird	[ ˈblækbɜːd ]	дрозд
+budgie	[ ˈbʌdʒi ]	волнистый попугайчик
+bug	[ bʌɡ ]	клоп
+bull	[ bʊl ]	бык
+butterfly	[ ˈbʌtəflaɪ ]	бабочка
+buzzard	[ ˈbʌzəd ]	канюк
+calf	[ kɑːf ]	теленок
+canary	[ kəˈneəri ]	канарейка
+cat	[ kæt ]	кот
+caterpillar	[ ˈkætəpɪlə ]	гусеница
+chicken	[ ˈtʃɪkɪn ]	цыпленок
+cock	[ ˈkɒk ]	петух
+cockroach	[ ˈkɒkrəʊtʃ ]	таракан
+cow	[ kaʊ ]	корова
+crane	[ kreɪn ]	журавль
+crocodile	[ ˈkrɒkədaɪl ]	крокодил
+crow	[ krəʊ ]	ворона
+cuckoo	[ ˈkʊkuː ]	кукушка
+deer	[ dɪə ]	олень
+dog	[ dɒɡ ]	собака
+donkey	[ ˈdɒŋki ]	осел
+duck	[ dʌk ]	утка
+duckling	[ ˈdʌkl̩ɪŋ ]	утенок
+eagle	[ ˈiːɡl̩ ]	орел
+elephant	[ ˈelɪfənt ]	слон
+elk	[ elk ]	лось
+falcon	[ ˈfɔːlkən ]	сокол
+ferret	[ ˈferɪt ]	хорёк
+flamingo	[ fləˈmɪŋɡəʊ ]	фламинго
+fly	[ flaɪ ]	муха
+fox	[ fɒks ]	лисица
+frog	[ frɒɡ ]	лягушка
+giraffe	[ dʒɪˈrɑːf ]	жираф
+gnat	[ næt ]	комар, москит
+goat	[ ɡəʊt ]	козел
+goose	[ ɡuːs ]	гусь
+gorilla	[ ɡəˈrɪlə ]	горилла
+grasshopper	[ ˈɡrɑːshɒpə ]	кузнечик
+guinea pig	[ ˈɡɪni pɪɡ ]	морская свинка
+hare	[ heə ]	заяц
+hawk	[ hɔːk ]	ястреб
+heath-cock	[ ˈhiːθkɒk ]	тетерев
+hedgehog	[ ˈhedʒhɒɡ ]	ёж
+hen	[ hen ]	курица
+heron	[ ˈherən ]	цапля
+horse	[ hɔːs ]	лошадь
+kangaroo	[ ˌkæŋɡəˈruː ]	кенгуру
+kid	[ kɪd ]	козленок
+kitten	[ ˈkɪtn̩ ]	котенок
+ladybird	[ ˈleɪdɪbɜːd ]	божья коровка
+lamb	[ læm ]	ягненок
+lark	[ lɑːk ]	жаворонок
+leech	[ liːtʃ ]	пиявка
+lion	[ ˈlaɪən ]	лев
+lizard	[ ˈlɪzəd ]	ящерица
+lynx	[ lɪŋks ]	рысь
+magpie	[ ˈmæɡpaɪ ]	сорока
+monkey	[ ˈmʌŋki ]	обезьяна
+moth	[ mɒθ ]	моль
+mouse	[ maʊs ]	мышь
+nightingale	[ ˈnaɪtɪŋɡeɪl ]	соловей
+ostrich	[ ˈɒstrɪtʃ ]	страус
+owl	[ aʊl ]	сова
+ox	[ ɒks ]	вол, бык
+parrot	[ ˈpærət ]	попугай
+partridge	[ ˈpɑːtrɪdʒ ]	куропатка
+peakcock	[ ˈpiːkɒk ]	павлин
+penguin	[ ˈpeŋɡwɪn ]	пингвин
+pheasant	[ ˈfeznt ]	фазан
+pig	[ pɪɡ ]	поросенок
+pigeon, dove	[ ˈpɪdʒən ] [ dʌv ]	голубь
+polar bear	[ ˈpəʊlə beə ]	белый медведь
+pony	[ ˈpəʊni ]	пони
+puppy	[ ˈpʌpi ]	щенок
+rabbit	[ ˈræbɪt ]	кролик
+ram	[ ræm ]	баран
+rat	[ ræt ]	крыса
+raven	[ ˈreɪvn̩ ]	ворон
+rhino, rhinoceros	[ ˈraɪnəʊ ] [ raɪˈnɒsərəs ]	носорог
+scorpion	[ ˈskɔːpɪən ]	скорпион
+seagull	[ ˈsiːɡʌl ]	чайка
+seal	[ siːl ]	тюлень
+shark	[ ʃɑːk ]	акула
+sheep	[ ʃiːp ]	овца
+snail	[ sneɪl ]	улитка
+snake	[ sneɪk ]	змея
+sparrow	[ ˈspærəʊ ]	воробей
+spider	[ ˈspaɪdə ]	паук
+squirrel	[ ˈskwɪrəl ]	белка
+starfish	[ ˈstɑːfɪʃ ]	морская звезда
+stork	[ stɔːk ]	аист
+swallow	[ ˈswɒləʊ ]	ласточка
+swan	[ swɒn ]	лебедь
+tiger	[ ˈtaɪɡə ]	тигр
+titmouse	[ ˈtɪtmaʊs ]	синица
+tortoise	[ ˈtɔːtəs ]	черепаха
+turkey	[ ˈtɜːki ]	индюк
+turtledove	[ ˈtɜːtldʌv ]	горлица
+viper	[ ˈvaɪpə ]	гадюка
+vulture	[ ˈvʌltʃə ]	гриф
+wasp	[ wɒsp ]	оса
+wild boar	[ waɪld bɔː ]	дикий кабан
+wolf	[ wʊlf ]	волк
+woodpecker	[ ˈwʊdpekə ]	дятел
+worm	[ wɜːm ]	червь
+zebra	[ ˈzebrə ]	зебра

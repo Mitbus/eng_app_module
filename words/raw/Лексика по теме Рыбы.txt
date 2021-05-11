@@ -1,0 +1,699 @@
+ENGLISH
+ПЕРЕВОД
+Acanthur	рыба-хирург
+Acara	акара
+Afer	афер
+African Bladefish	африканская рыба-нож
+African Brown Snapper	африканская черна
+African Bull Shark	африканская бычья акула
+African Pike	хепсетус (африканская гребнещука)
+Agone	европейская алоза
+Albacore	альбакор
+Alligator Gar	миссисипский панцирник, панцирная щука
+Almaco Jack	сернола-фортуна
+Amarela Piranha	пиранья амарела
+Amberjack	сернола-думерил
+American Eel	американский угорь
+American Plaice	американская камбала
+American Shad	американский шэд
+Amur Sleeper	ротан
+Anabas	анабас, ползун
+Angelshark	акула-ангел
+Angler	лягва-рыболов
+Aplocheil	панхакс (полосатая азиатская щучка)
+Arapaima	арапама, арапайма
+Archer Fish	арчер
+Arctic Grayling	сибирский хариус
+Arothron	аротрон
+Aruana	аравана
+Asian Boneytongue	склеропаг (азиатский дракон)
+Asp	жерех
+Atlantic Croaker	атлантический горбыль
+Atlantic Herring	атлантическая сельдь
+Atlantic Horsemackerel	атлантическая ставрида
+Atlantic Salmon	семга (атлантический лосось)
+Atlantic Sharpnose Shark	атлантическая длиннорылая акула
+Atlantic Spade Fish	атлантическая рыба-лопата
+Atlantic Sturgeon	атлантический осетр
+Australian Salmon	австралийский лосось, аррипа
+Baby Common Carp	молодой карп
+Baby Mirror Carp	молодой зеркальный карп
+Bagrid Catfish	косатка
+Ballan Wrasse	губан
+Baltic Vimba	балтийский рыбец
+Banded Archerfish	ленточный брызгун
+Banded Sunfish	ленточная солнечная рыба
+Bank Seabass	прибрежный морской окунь
+Barbel	усач, барбус
+Barracouta	барракута
+Barracuda	барракуда
+Barramundi	баррамунди
+Barred Hogfish	бодиан
+Barred Moray	полосатая мурена
+Batfish	платакс, нетопырь
+Bavosa	бавоса
+Beardless Barb	безбородый барбус
+Bengal Sargeant	бенгальский абудефдуф, бенгальский сержант
+Bicirrus	бикиррус
+Big Eyed Scad	большеглазая ставрида
+Bigeye Tuna	большеглазый тунец
+Big-Eyed Scadfish	большеглазая ставрида
+Bighead Carp	большеголовый карп, пестрый толстолоб
+Bigmouth Buffalo	большеротый буффало
+Bigmouth Sleeper	большеротый гобиоморус
+Big-Scalled Redfin	красноперка-угай
+Big-Spot Coral Trout	пятнистая коралловая кефаль
+Billfish	атлантический парусник
+Bitterling	горчак
+Black Banded Sunfish	черная ленточная солнечная рыба
+Black Carp	черный амур
+Black Chessa	черная чесса
+Black Cod	черная треска, угольная рыба
+Black Crappie	черный краппи
+Black Drum	морской барабанщик, темный горбыль
+Black Marlin	черный марлин
+Black Moor	черный карась
+Black Piranha	черная пиранья
+Black Seabream	черный морской карась
+Black Shark	черная акула
+Black Spot Tuskfish	пятнистый клыкастый губан
+Blackbelly Rosefish	синеротый окунь
+Blackfin Tuna	черноперый тунец
+Blackmahseer	черный махсир
+Blackmouth Catshark	черноротая кошачья акула
+Blacktip Reef Shark	черноперая рифовая акула
+Bleak	уклейка
+Blonde Ray	белый ромбовый скат
+Blue Catfish	синяя зубатка
+Blue Marlin	синий марлин
+Blue Nose Trevalla	синеносый каранг
+Blue Orfe	синий язь
+Blue Shark	синяя акула, голубая акула
+Blue Spotted Cod	синепятнистая треска
+Blue Spotted Ray	синепятнистый скат
+Blue Spotted Sunfish	синепятнистая солнечная рыба
+Blue Tilapia	синяя тилапия
+Blue Trout	синяя радужная форель
+Bluefin Trevally	синеперый каранг, синеперый каранкс
+Bluefin Tuna	синеперый тунец
+Bluefish	луфар(ь)
+Bluegill	синежаберный солнечник
+Blue-Lined Snapper	сине-полосатый луциан
+Bluespotted Seabream	синепятнистый морской лещ
+Boar Fish	рыба-вепрь
+Boccadoro	сциена (серебристый горбыль)
+Boccadoro	сциена (серебристый горбыль)
+Bodian	(пятнистый) бодиан,
+Boeseman Croaker	прама (малочешуйный горбыль)
+Boga	(большеглазый) бопс
+Bonefish	альбула
+Bonito	пеламида, малый тунец, сарда
+Bonnethead Shark	акула-молот
+Botia	клоун-вьюн
+Bottatrice	налим-боттатрик
+Bowfin	амия, ильная рыба
+Brill	камбала-ромб, калкан, камбала гладкая
+Broad Whitefish	чир, щокур
+Bronze Whaler Shark	узкозубая китовая акула
+Brook Trout	американская палия, голец, кумжа
+Brown Bullhead	амиур
+Brown Trout	ручьевая форель
+Bull Shark	тупорылая акула
+Bullhead	бычок-подкаменщик
+Bullhuss	кошачья акула, большая пятнистая акула
+Bulltrout	мальма, большеголовый тунец
+Burbot	налим-бурбот
+Butterfish	маслюк
+Butterfly Peacock Bass	циклида-павлиний глаз, басс-бабочка
+Cachorro	щука харацинида
+Cagnetto	пресноводная собачка
+Calaboose	калабан
+Canary Drum	канарская умбрина
+Captainfish	рыба-капитан
+Caribean Reefshark	карибская рифовая акула
+Carp	карп, сазан
+Castagnola	зеленушка, высокотелая рыба-ласточка
+Catla	катла (индийский сазан)
+Catopra	катопра
+Cernia	черна, гигантский мероу, бурый групер
+Chain Pickerel	полосатая щука
+Channa	змееголов-чанна
+Channel Catfish	канавная зубатка
+Chaophraya Cat	тайский сом
+Char	арктический голец
+Cheetah Trout	гепардовая форель
+Cherry Salmon	сима
+Chinaman Fish	симфорус
+Chinese Algae Eater	китайский травоед
+Chinese Carpbream	китайский лещ, бронзовый лещ
+Chinese False Gudgeon	китайский лжепескарь
+Chinese Pangasid Catfish	китайский сом
+Chinese Sucker	китайский чукучан, китайский прилипало
+Chinook Salmon	чавыча
+Chromis	хромис
+Chub	(европейский) голавль
+Chum Salmon	кета
+Cichlid	циклида, цихлида
+Clorus	хлорус
+Coastal Cutthroat	прибрежный лосось
+Cobia	кобия, нигрита
+Cobia	кобия, нигрита
+Cobite	кобита, щиповка
+Cod	(атлантическая) треска
+Coelacanth	целакант
+Coelacanth	целакант
+Coeladia	целада
+Coho Salmon	кижуч
+Comber	комбер
+Comizo Barbel	усач-комиза (исп)
+Common Bream	лещ обыкновенный
+Common Jollytail	галаксия
+Common Seabream	пагр, морской лещ, морской карась
+Common Skate	(гладкий) скат
+Comoro Grouper	коморский групер
+Conger Eel	угорь-конгер
+Coppershark	красная акула
+Coral Trout	коралловая кефаль
+Coregone	корегон
+Corkwing Wrasse	темнополосая зеленушка
+Coronation Trout	лирохвостый групер
+Corvina	сциена, волнистый горбыль, судачий горбыль
+Cotton Mouth Jack	мягкоротый каранкс
+Cowtail Stingray	скат-морской кот
+Crevalle Jack	большой каранкс
+Crucian Carp	золотой карась
+Cubera Snapper	циановый луциан
+Cubera Snapper	циановый луциан
+Cuckoo Ray	скат-кукушка
+Cuckoo Wrasse	губан-кукушка
+Dab	лиманда
+Dace	елец
+Danube Streber	дунайский чоп
+Darkfinned Barracuda	черноперая барракуда
+Dentice	зубан обыкновенный
+Derbio	синий трахинот
+Distycus	дистикус
+Dixie Chub	южный семотилус
+Dog Snapper	луциан-собака, луциан-хоку
+Dogtooth Tuna	гимносарда (зубастый тунец)
+Dolly Varden	мальма (каменный голец)
+Dolphinfish	корифена, дорадо
+Donzella	донзелла (морской юнкер)
+Dorado	корифена, дорадо
+Dusky Flathead	темный плоскоголов
+Dusky Grouper	бурый групер, гигантский мероу
+Eagle Ray	скат-орляк
+Eel	(европейский) угорь
+Eeltailed Catfish	угрехвостый сом
+Electric Eel	электрический угорь
+Elephant Ear Gourami	слоноухая гурами
+Elephant Fish	химера
+Emperor Snakehead	императорский змееголов
+European Hake	(европейский) хек
+European Hausen	белуга
+European Plaice	европейская камбала
+European River Lamprey	европейская пресноводная минога
+European Sea Bass	европейский морской окунь
+European Smelt	(европейская) корюшка, снеток
+Everglade Sunfish	болотный солнечный окунь
+Fat Snook	тучный робало
+Featherback	спинопер, читала
+Ferox Trout	колючая форель
+Finnock	кумжа, австралийский лосось
+Firemouth Cichlid	красногорлая цихлида
+Five Bearded Rockling	пятиусый морской налим
+Flat Head Mullet	плоскоголовая форель
+Flathead Catfish	плоскоголовый сом
+Flier	ушастый окунь
+Florida Gar	флоридский панцирник
+Flounder	камбала
+Flowery Cod	мраморный групер
+Forktailed Catfish	галеихт (вилохвостый панцирник)
+Fragolino	фраголино
+Freshwater Whipray	пресноводный хвостокол
+Frigate Mackerel	макрелетунец
+Fringebarbel Sturgeon	шип
+Fully Scaled Mirror Carp	крупночешуйный зеркальный карп
+Fuscar Drum	пегая умбрина
+Galapagos Shark	галапагосская акула
+Gambusia	гамбузия
+Garpike	панцирник, сарган
+Ghiozzo	черный бычок
+Ghost Carp	карп-призрак
+Giant Danio	малабарский данио
+Giant Eel	гигантский угорь
+Giant Gourami	гурами, полосатая колиза
+Giant Guarmi	гурами, полосатая колиза
+Giant Manta	гигантский морской дьявол, манта
+Giant Maori Wrasse	гигантский губан
+Giant Pangasius	гигантский пангас
+Giant Threadfin	четырехпалый пальцепер
+Giant Trevally	желтоперый каранкс
+Gibel Carp	узкий карась
+Gizzard Shad	северная доросома
+Goatfish	барабуля, султанка
+Golden Belly Barb	желтобрюхий барбус
+Golden Bighead Carp	золотой большеголовый карп
+Golden Carp	золотой карп
+Golden Catfish	золотой сом
+Golden Gray Mullet	сингиль
+Golden Orfe	золотой язь
+Golden Perch	золотой окунь
+Golden Rudd	золотая красноперка
+Golden Shiner	золотой шайнер
+Golden Tench	золотой линь
+Golden Trevally	золотой каранг
+Golden Trout	золотая форель
+Goldfish	серебряный карась, золотая рыбка
+Grass Carp	белый амур (травяной карп)
+Gray Reefshark	серая рифовая акула
+Grayling	хариус
+Greasy Cod	черноморский каменный окунь, пятнистый групер
+Greater Forkbeard	большеглазый нитеперый налим
+Greater Weever	большой дракончик
+Green Jobfish	зеленый афарей, зеленый априон
+Green Sunfish	зеленая рыба-луна
+Greenback Flounder	зеленобокая ромбосолея
+Greenland Shark	гренландская полярная акула
+Greensturgeon	сахалинский осетр, тихоокеанский осетр
+Grey Gurnard	серая тригла
+Grey Snapper	серый луциан
+Grey Triggerfish	серый спинорог
+Grey Wrasse	серый губан
+Guachanche Barracuda	барракуда гуачанча
+Gudgeon	пескарь
+Gulf Flounder	крутолобый цитарихт
+Gummy Shark	кунья акула
+Haddock	пикша
+Halibut	белокорый палтус
+Hammerhead Shark	молот-рыба
+Hampala Barb	волнистый барбус
+Hapuka	хапуку
+Hardtop Catfish	твердолобый морской сом
+Hatchet Fish	рыба-топор, колючий топорик
+Heterotis	гетеротис
+Hickory Shad	осенний помолоб
+High Backed Mahseer	высокотелый махсир
+Highfin Carpsucker	карповидный чукучан
+Hogchoker	пятнистый морской язык
+Holacanthus	пятнистый морской ангел
+Honeycomb Cod	сетчатый групер
+Houting	невшательский сиг
+Huchen	лосось дунайский
+Hump Back Red Snapper	горбатый луциан
+Hump-Headed Maori Wrasse	шишколобый губан
+Hussar	желто-красный луциан
+Hybrid Striped Bass	белый каменный окунь, полосатый лаврак
+Hystrix	рыба-еж
+Ide	язь
+Inconnu	нельма, белорыбица
+Isok Barb	карп Джульена, семиполосый барбус
+Jack Mackerel	южная ставрида, африканский каранкс
+Jaguar Guapote	ацтекская цихлида
+Java Barb	яванский барбус
+Jewel Fish	хемихромис, хромис-красавец
+Jewfish	малоглазый групер
+John Dory	солнечник, Джон Дори
+Jolthead Porgy	бахонадо, карась-болванчик
+July	пятнистая цихлида
+Jungle Perch	каменная кулия
+Kelee Shad	кильская алоза
+King Mackeral	кавалла (королевская макрель)
+Koi Carp	декоративный карп
+La Sidra Trout	форель Сидра
+Ladyfish	элопс
+Lake Chubsucker	озёрный чукучан-эримизон
+Lake Sturgeon	озерный осетр, бурый осетр
+Lake Trout	озерная форель
+Lamprologus	лампрологус
+Lane Snap	краснохвостый луциан
+Large Toothed Sawfish	рыба-пила, пилорыл
+Largemouth Bass	большеротый окунь
+Largemouth Yellowfish	большеротый желтый групер
+Lasca	ласка
+Latterino	латерина (короткоперый спиринх)
+Leather Carp	кожистый карп, голый карп
+Leccia	сернола-леция
+Leerfish	лихия
+Lemon Shark	острозубая акула
+Lemon Sole	пелотрета
+Lenok	ленок
+Lesser Spotted Dogfish	пятнистая морская собака
+Lesser Weever	малый дракончик
+Linear Carp	линейный карп
+Ling	линг, мольва
+Little Gulper Shark	короткошипая акула
+Little Tunny	малый тунец
+Long Finned Sea Pike	длинноперая морская щука
+Long Nosed Emperor	длиннорылый свинорыл
+Long Tailed Ray	длиннохвостый скат
+Long Tom	клыкастый сарган, «Длинный Том»
+Longbarbel Gudgeon	длинноусый пескарь
+Longfinned Eel	длинноплавниковый угорь
+Longfinned Gurnard	темный морской петух
+Longnose Gar	длиннорылый панцирник
+Long-spined Bullhead	европейский бычок-буйвол
+Longtail Snapper	длиннохвостый луциан
+Luderick	лудерик
+Lumpsucker	пинагор
+Mackerel	макрель, скумбрия
+Mackerel Tuna	кавакава (индо-тихоокеанский тунец)
+Mad Barb	свирепый барбус
+Mahseer	махсир
+Mako Shark	акула-мако
+Malap	малап (малоротый электрический сом)
+Mango Fish	тилапия-манго
+Mango Tilapia	галилеева тилапия
+Mangrove Jack	красный луциан
+Marbled Electric Ray	гнюс, мраморный электрический скат
+Mayan Cichlid	цихлида майя
+Megrim	мегрим
+Mekong Catfish	меконговский сом
+Mekong Stingray	меконговский электрический скат
+Menola	мендола (средиземноморская смарида)
+Milkfish	ханос, молочная рыба, белянка
+Minnow	гольян
+Mirror Carp	зеркальный карп
+Moderlieschen	овсянка, верховка
+Monkfish	морской черт, удильщик
+Moonfish	вомер, рыба-полумесяц, рыба-луна, селена
+Moray	мурена
+Mormora	мармир, шишан
+Mormyrus	мормир, слонорыл
+Morwong	морвонг
+Moses Perch	моисеев окунь, моисеев луциан
+Mottled Eel	пятнистый угорь
+Mottled Grouper	пятнистый групер
+Mountain Whitefish	горный сиг, валек Вильямсона
+Mozambique Tilapia	мозамбикская тилапия
+Mud Carp	ильный карп
+Muksun	муксун
+Mullet	кефаль
+Mulloway	японский серебристый горбыль
+Murray Cod	муррейская треска
+Muskelunge	щука-маскинонг
+Nassau Grouper	багамский групер
+Needlefish	сарган, стронгилура, (плоская) рыба-игла
+Neoceratodus	баррамунда, рогозуб
+Niger Trigger	краснозубый спинорог
+Night Sergeant	ночной абудефдуф, ночной сержант
+Nile Perch	нильский окунь
+Nile Tilapia	нильская тилапия
+North African Catfish	африканский сом
+Northern Pipefish	северная морская игла
+Northern Saratoga	австралийская аравана
+Norway Pout	тресочка Эсмарка
+Norwegian Topknot	норвежская камбала
+Nose Carp	подуст (носатый карп)
+Notopterus	нотоптер, читала
+Nurse Shark	усатая акула-нянька
+Ocean Perch	морской окунь
+Ocean Sunfish	обыкновенная луна-рыба, рыба-солнце
+Ombrina	умбрица, светлая умбрина
+Opah	опах, солнечная рыба
+Oranda	карась оранда
+Orange File Fish	оранжевый спинорог
+Orata	золотистый спар, дорада, денис
+Oriental Weather Fish	восточный вьюн
+Oscar	оскар, астронотус
+Ostracion	желтый кузовок, желтый аракан
+Oxye	мраморный бычок
+Pacific Tarpon	(индо-)тихоокеанский тарпон
+Pacu	паку
+Paddlefish	веслонос
+Pandora	пандора, красный пагель
+Paradise Fish	макропод, губанчик
+Pargo	северный берикс
+Parrotfish	рыба-попугай, ножезуб
+Payara	пайяра
+Peled	пелядь
+Perch	окунь
+Pesce Castagna	атлантический морской лещ
+Pesce Gatto	карликовый амур
+Pesce San Pietro	солнечник
+Picua	пика (морская щучка)
+Pigfish	корокоро
+Pike	щука
+Piked Dogfish	катран, колючая акула
+Pinfish	колючая чопа
+Pink Salmon	горбуша
+Piraiba Catfish	камакума
+Piraputanga	пирапутанга
+Plaice	морская камбала
+Plector	плектор, пестрый сладкогуб
+Pollack	серебристая сайда
+Pompano	помпано
+Poor Cod	(средиземноморский) капеллан
+Porbeagle (Shark)	сельдевая акула
+Port Jackson Shark	порт-джексоновская акула
+Porthole Catfish	длинноусый сом
+Pouting	французская тресочка
+Powan	американский сиг, сельдевидный сиг
+Pumpkinseed	солнечная рыба
+Pungas	пангас (желтохвостый сом)
+Purple Labeo	пурпурный лабео, африканский карп
+Purple Wrasse	пурпурный губан
+Queenfish	ставрида-королева
+Quillback	карпиодес
+Rainbow Runner	элагат
+Rainbow Trout	микижа (радужная форель)
+Red Bellied Piranha	краснобрюхая пиранья
+Red Bellied Tilapia	краснобрюхая тилапия
+Red Cod	красная треска
+Red Drum	красный горбыль
+Red Emperor	трехполосый луциан
+Red Grouper	красный групер
+Red Gurnard	куму (морская кукушка)
+Red Gurnard Perch	красный морской петух
+Red Seabream	красный морской лещ
+Red Throat Emperor	большой летрин
+Red Tinbarb	красноперый серебристый лещ
+Red-Banded Seabream	малиновый морской лещ
+Redbreasted Sunfish	малиновая солнечная рыба
+Redbreasted Tilapia	малиновая тилапия
+Redd Snapper	берикс (красный луциан)
+Redear Sunfish	красноухий окунь
+Redeye Bass	красноглазый каменный окунь
+Redfin Pickerel	красноперая щука
+Redtailed Catfish	краснохвостый сом
+Rhone Streber	французский чоп
+Ringed Jewel Fish	пятнистый (хеми)хромис
+Rinho Fish	ложная алутера
+Rio Grande Cichlid	цихлида Рио Гранде
+Ripsaw Catfish	сом-пила, черный сом
+River Blackfish	речная даллия, речная гирелла
+River Redhorse	речная моксостома
+Riverchub	речной голавль
+Roach	плотва
+Roach/Bream Hybrid	гибрид плотва/лещ
+Rock Cook Wrasse	малоротый губан
+Rock Seabass	морской каменный окунь, филадельфийский окунь
+Rockbass	американский каменный окунь
+Rohu	лабео-роху
+Roosterfish	длинноперая ставрида, рыба-павлин
+Rosy Jobfish	нитеперый снэппер
+Ruby Snapper	этелис
+Rudd	красноперка
+Rudd/Bream Hybrid	гибрид чебак/лещ
+Ruffe	ерш
+Saddled Coral Trout	коралловый лосось
+Sailfish	парусник
+Saithe	сайда
+Salpa	сальпа
+Sand Flathead	песчаный плоскоголов
+Sand Perch	чанчита (песчаный окунь)
+Sand Whiting	песчаная силлага
+Sandbar Shark	песчаная акула
+Sandeel	песчанка
+Sandie	конголли
+Sandy Ray	круглый скат
+Sarago	белый морской лещ, белый сарг, саргус
+Sarother	мозамбикский саротер
+Sauger	канадский судак
+Savetta	саветта
+Scad	ставрида
+Scarlet Seaperch	красный морской окунь
+Schneider	быстрянка
+Schwan	серебристый барбус
+Sciarrano	цветной каменный окунь
+Scorfano	(калифорнийская) скорпена, морской ерш
+Sea Trout	морская форель
+Sergeant Major	абудефдуф, матросик
+Seven Gill Shark	семижаберная акула
+Sharptoothed Catfish	острозубый сом
+Shoal Bass	прибрежный окунь
+Shore Rockling	конгрио, ошибень, средиземноморский налим
+Short Finned Eel	короткоперый угорь
+Short Spined Sea Scorpion	европейский керчак
+Shortnose Sturgeon	коротконосый осетр, малый осетр
+Shubunkin	карась чубункин
+Siam Tiger	сиамский терапон
+Siamcarp	сиамский карп, гигантский барбус
+Sickle Finned Mullet	серпокрылая кефаль
+Siganus	сиган, пестряк
+Silk Snapper	шелковый луциан
+Silky Shark	плащеносная акула
+Silver Bream	серебристый лещ (густера)
+Silver Carp	толстолобик, серебристый карп
+Silver Grunt	серебряный ворчун, гуорака
+Silver Orfe	серебристый язь
+Silver Perch	серебристый окунь
+Silver Shark	трехцветная акулка
+Silver Trevally	золотая ставрида
+Silversides	атерина, алест
+Skipjack Tuna	полосатый тунец, скипджек
+Slender Piranha	узкая пиранья
+Slimey Mackerel	плоская макрель
+Smalescale Sole	мелкочешуйная солея
+Small Eyed Ray	малоглазый скат
+Small Scale Mud Carp	мелкочешуйный ильный карп
+Smallmouth Bass	малоротый окунь
+Smallmouth Yellowfish	малоротый желтый групер
+Smalltooth Sawfish	малозубый пилорыл
+Smith‘s Barb	карп Смита
+Smoothhound	собачья акула
+Snail Bullhead	сомик-кошка, амиур
+Snakefish	люмпен, рыба-сабля
+Snakehead	змееголов
+Snapper	луциан, рифовый окунь, снэппер
+Snook	робало, снук
+Sockeye Salmon	(красная) нерка
+Sole	морской язык, солея
+Solenette	малый морской язык, желтая солея
+Sooty Grunter	черный ворчун
+Southern Black Bream	южный черный лещ
+Southern Brook Lamprey	южная миного
+Southern Fiddler Ray	южный скат
+Southern Sea Garfish	южный нижнерыл
+Southern Stingray	южный электрический скат
+Spangled Emperor	звездчатый летрин
+Spanish Mackerel	испанская макрель
+Speckled Peacock Bass	пятнистый окунь-павлин
+Splake	озерный голец-кристивомер
+Spotted Algae Eater	пятнистый травоед
+Spotted Bass	пятнистый окунь
+Spotted Bream	пятнистый лещ
+Spotted Bullhead	пятнистый амиур
+Spotted Eagle Ray	пятнистый скат-орляк
+Spotted Gar	пятнистая панцирная щука
+Spotted Piranha	пятнистая пиранья
+Spotted Ray	пятнистый скат
+Spurdog	катран, колючая акула
+Squid	кальмар
+Star Abbey	севрюга
+Starry Skate	звездчатый скат
+Starry Smoothound	гладкая кунья акула
+Starry Triggerfish	звездчатый спинорог
+Steelhead	камчатская семга
+Sterlet	стерлядь
+Sting Ray	электрический скат, хвостокол
+Stomias Boa	стомия-боа (дракончик)
+Stone Loach	усатый голец, барбатула
+Stone Minnow	каменный гольян
+Striped Bass (Land Locked)	полосатый лаврак
+Striped Marlin	полосатый марлин
+Striped Mudminnow	карликовая евдошка
+Striped Red Mullet	полосатая кефаль, барабулька
+Striped Trumpeter	пятнистый терапон
+Stripey Seaperch	пятнистый морской окунь
+Sun Bass	солнечный окунь
+Swallowtailed Seaperch	вилохвостый каменный окунь
+Swamp Eel	болотный угорь
+Swordfish	рыба-меч, сабленка
+Swordfish	рыба-меч, сабленка
+Synodon	сом-кукушка
+Tadpole Fish	лягушкоголов (лягвоголов)
+Taimen	таймень
+Tambaqui	тамбак
+Tarpon	тарпон
+Tarpon	тарпон
+Tarponsnook	гребенчатый робало
+Tench	линь
+Tetradon	тетрадон, иглобрюх, рыба-шар
+Thai Mahseer	тайский махсир
+Thick Lipped Barb	толстогубый барбус
+Thin-Lipped Grey Mullet	кефаль-рамада
+Thornback Ray	колючий скат
+Three Bearded Rockling	трехусый морской налим
+Three Spined Stickleback	трехиглая колюшка
+Thresher Shark	лисья акула, акула-лисица
+Tiger Botia	тигровый вьюн
+Tiger Catfish	тигровый сом
+Tiger Grouper	тигровый групер
+Tiger Muskelunge	тигровый маскинонг
+Tiger Shark	тигровая акула
+Tiger Trout	тигровая форель
+Tigerfish	трехполосый терапон
+Tilapia Frontosa	тилапия фронтоза
+Tilapia Labiata	тилапия лабиата
+Tinfoil Barb	барбоним (серебристый барбус)
+Tomato Cod	сетчатая гаррупа
+Tope	суповая акула, кунья акула
+Topknot	карликовая камбала, топкнот, нотоклинус
+Topmouth Gudgeon	амурский чебачок
+Torsk	менек
+Trigger Fish	спинорог
+Tropheus	трофеус
+Trota Marmorata	мраморная форель
+Trout Minnow	пятнистая галаксия
+Tub Gurnard	желтая тригла, желтый морской петух
+Turbot	псетта, калкан
+Twaite Shad	финта
+Uaru	уару
+Undulate Ray	волнистый скат
+Unicornfish	рыба-единорог
+Uranoscopo	атлантический звездочет, ураноскоп
+Vairone	елец-андруга
+Valaam Whitefish	валаамский сиг
+Vendace	европейская ряпушка, балтийская ряпушка
+Venus Tuskfish	клыкастый губан
+Vermilion Snapper	алый луциан
+Vimba	сырть, рыбец
+Viviparous Blenny	бельдюга
+Vundu Catfish	сампа, сом-вунду
+Wahoo	ваху (колючая пеламида)
+Walking Catfish	лягушковый кларий
+Wallago	валлага
+Walleye	судак-пучеглаз
+Warsaw Grouper	черный групер
+Wels Catfish	сом обыкновенный
+Westslope Cutthroat	лосось
+Wheaterfish	вьюн
+White Bass	белый окунь
+White Bream	белый лещ (густера)
+White Catfish	белый сом
+White Crappie	белый краппи
+White Grunt	белая ронка
+White Guarmi	белый гурами
+White Marlin	белый марлин
+White Shark	белая акула, акула-людоед
+White Spotted Dogfish	пятнистая колючая акула
+White Sturgeon	белый осетр
+Whitefish	озерный сиг
+Whitespotted Char	кунджа
+Whitetip Reefshark	рифовая акула
+Whiting	мерланг
+Widehead Catfish	широкоголовый сом
+Wild Carp	дикий карп
+Wimple Piranha	катирина
+Witch	атлантическая длинная камбала
+Wolf Fish	(полосатая) зубатка
+Wreckfish	американский полиприон, бурый каменный окунь
+Yellow Bass	желтый окунь
+Yellow Bullhead	желтый сомик
+Yellow Cheek	желтощек
+Yellow Eyed Mullet	ава (желтоглазая кефаль)
+Yellow Mouth Grouper	желторотый групер
+Yellow Perch	полосатый окунь, желтый окунь
+Yellow Tailed Snapper	желтохвостый луциан
+Yellowfin Bream	желтоперый лещ
+Yellowfin Surgeonfish	желтоперая рыба-хирург
+Yellowfin Tuna	желтоперый тунец
+Yellowstone Cutthroat	красногорлый лосось
+Zander	судак
+Zebra Catfish	полосатый сом
+Zebra Seabream	полосатый морской лещ
+Zebra Shark	зебровая акула
+Ziege	чехонь
+Zingel	чоп обыкновенный
+Zope	синец

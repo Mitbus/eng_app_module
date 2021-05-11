@@ -1,0 +1,1417 @@
+ENGLISH TERM
+ПЕРЕВОД
+A
+abscess	абсцесс, гнойник
+absolute risk reduction	снижение абсолютного риска
+abstract	реферат, краткий обзор, резюме; мн.ч. - тезисы
+acellular	ацеллюлярный; бесклеточный
+acquired immunity	приобретенный иммунитет
+acquired immunodeficiency syndrome (AIDS)	cиндром приобретённого иммунодефицита (СПИД)
+active immunity	активный иммунитет
+acute	острый
+acute flaccid paralysis (AFP)	острый вялый паралич (ОВП)
+acute gastrointestinal infection (AGII)	острая кишечная инфекция (ОКИ)
+acute respiratory disease (ARD)	острое респираторное заболевание (ОРЗ)
+acute respiratory infection (ARI)	острая респираторная инфекция (ОРИ)
+acute respiratory viral infection (ARVI)	острая респираторная вирусная инфекция (ОРВИ)
+additive interaction	аддитивное взаимодействие
+adenine (A)	аденин (А)
+adherence (to treatment)	приверженность (лечению)
+adjuvant (about vaccine)	адъювант (о вакцине)
+administrative structure	административная структура
+adverse event	неблагоприятная побочная реакция; побочный эффект; осложнение
+adverse event following immunization (AEFI)	неблагоприятное проявление после иммунизации (НППИ); поствакцинальное побочное проявление; поствакцинальное осложнение
+adverse events following immunization	поствакцинальные побочные проявления
+AEFI (adverse events following immunization)	неблагоприятные проявления после иммунизации
+AFP (acute flaccid paralysis)	ОВП (острый вялый паралич)
+agglutination test	реакция агглютинации
+aggravated history	отягощенный анамнез
+aggregate risk study	исследование совокупного риска
+aggregated data	сводные данные; обобщенные данные
+AGI (acute gastrointestinal infections)	ОКИ (острые кишечные инфекции)
+agreement study	анализ соответствия
+AIDS (acquired immunodeficiency syndrome)	СПИД (cиндром приобретённого иммунодефицита)
+airborne infection	воздушно-капельная инфекция
+alanine transaminase (ALT)	аланинаминотрансферазa (AЛT)
+algorithm	алгоритм
+allergy	аллергия
+alternative hypothesis	альтернативная гипотеза
+aluminium adjuvant	адъювант на основе гидроксида алюминия
+analysis of variance	дисперсионный анализ
+anamnesis/patient history	анамнез/история болезни
+Anatomical Therapeutic Chemical Classification System (ATC)	Анатомо-терапевтическая и химическая классификация лекарственных средств; классификационная система АТС
+anisakiasis	анизакидоз (зоонозный гельминтоз)
+anthrax	сибирская язва
+anthroponosis	антропонозное заболевание
+antibiotic consumption	потребление антибиотиков
+antibiotic resistance	устойчивость к антибиотикам; антибиотикорезистентность
+antibody	антитело
+antibody titre	титр антител
+antibody-mediated immunity	иммунитет, обусловленный антителами
+antigen detection	выявление антигена
+antigenic shift	антигенный сдвиг
+antimicrobial drug	антимикробный препарат
+antimicrobial resistance	устойчивость к антимикробным препаратам
+antimicrobials	антимикробные препараты
+antiretroviral medicine/antiretroviral drug	антиретровирусный препарат
+antiretroviral treatment	антиретровирусная терапия
+antiviral	противовирусный
+antiviral resistance	устойчивость к антивирусным препаратам
+aposteme	абсцесс, гнойник
+appendix (anatomic)	червеобразный отросток/аппендикс (анат.)
+application (method)	аппликация (метод)
+applied epidemiology	прикладная эпидемиология
+arbovirus	арбовирус
+ARD (acute respiratory disease)	ОРЗ (острое респираторное заболевание)
+artificial immunity	искусственный иммунитет
+ARVI (acute respiratory viral infection)	ОРВИ (острая респираторная вирусная инфекция)
+ascariasis	аскаридоз
+aspartate transaminase (AST)	аспартатаминотрансферазa (ACT)
+associated editor	ответственный редактор
+asylum seeker	лицо, ходатайствующее о предоставлении убежища
+asymptomatic infection	бессимптомная/асимптомная инфекция
+ATC (Anatomical Therapeutic Chemical Classification System)	анатомо-терапевтическая и химическая (унифицированная) классификация лекарственных средств
+attachment/appendix (document)	приложение (к документу)
+attack rate	пораженность, коэффициент поражения
+attending physician	лечащий врач
+attenuated vaccine	аттенуированная/ослабленная вакцина
+attributable risk	добавочный (атрибутивный) риск
+avian flu (avian influenza)	грипп птиц (птичий грипп)
+avian influenza (avian flu)	птичий грипп (грипп птиц)
+B
+babesiosis	бабезиоз
+Bacillus Calmette-Guerin (BCG)	бацилла Кальметта-Герена (БЦЖ)
+bacteremia (bacteraemia)	бактериемия
+bacterial infectivity	бактериофорность
+bacterium (pl. bacteria)	бактерия
+Barents Euro Arctic Council	Совет Евро-Арктического Баренц-региона
+Barents Health Programme	Программа здравоохранения в регионе Баренцева моря
+base pair	пара нуклеотидов
+baseline (data)	исходные (отправные) данные
+BCG-vaccine	вакцина БЦЖ, вакцина против туберкулеза
+behaviour	поведение
+behavioural	поведенческий
+behavioural surveillance	поведенческий надзор
+bias	смещение (систематическая ошибка)
+biased sample	смещенная выборка
+bilateral swelling	двусторонняя припухлость
+binary data	бинарные данные
+binary outcome	бинарный исход
+biologicals	иммунобиологические препараты
+biosafety (biological safety)	биологическая безопасность
+bioterrorism	биотерроризм
+birth cohort	когорта новорожденных
+birth defect	врожденный порок развития
+birth rate	показатель рождаемости
+bite	укус
+bivariate correlation	парная корреляция
+blind method (masked method); blinding	слепой метод
+blocking antibodies	блокирующие антитела
+blood count	число форменных элементов крови; формула крови; счет кровяных телец
+blood product	препарат крови
+blood-borne infection	инфекция, передаваемая через кровь
+booster dose	ревакцинирующая доза; повторная доза антигена
+booster immunization	ревакцинация
+botulism	ботулизм
+bovine spongiform encephalitis (BSE)	губчатая энцефалопатия коров
+bridge financing	временное (промежуточное) финансирование
+brucellosis	бруцеллез
+burden of disease	бремя болезни
+burden of disease, community	бремя болезни без госпитализации
+burden of disease, hospitalisation	бремя болезни при госпитализации
+C
+campylobacteriosis	кампилобактериоз
+candidate vaccine	вакцина- кандидат
+capacity building	наращивание (укрепление) потенциала
+capsule polysaccharide	капсульный полисахарид
+carcinogenesis	канцерогенез
+carrier	носитель
+carrier state	носительство
+carrier, asymptomatic	переносчик, асимптоматичный
+carriership	носительство
+case control study	исследование "случай-контроль"
+case definition	определение случая
+case fatality; lethality	летальность
+case finding	выявление случаев/больных
+case history (case clinical history)	анамнез; история болезни; описание клинического случая
+case record	история болезни; карта больного (амбулаторная, диспансерная, стационарная)
+case report	описание случая
+case revealed/registered	случай выявленный/зарегистрированный
+case study	исследование случая
+case, clustered	случай групповой
+case, confirmed	подтвержденный случай
+case, domestic	случай местный
+case, indigenous	случай местный(случай заболевания у человека, проживающего в данной местности)
+case, possible	случай возможный
+case, probable	случай вероятный
+case, sporadic	случай единичный
+case, suspected	случай подозрения на заболевание
+case-based data	поименные данные
+case-fatality rate	показатель летальности (выраженная в процентах доля умерших лиц среди заболевших)
+case-referent study	исследование "случай-контроль"
+case-series study	исследование серии случаев
+catch-up immunisation	иммунизация "вдогонку"; "наверстывающая" иммунизация
+catch-up immunization (campaign)	кампания «наверстывающей иммунизации»
+causal agent, causative agent (of disease)	этиологический (причинный) фактор; возбудитель (заболевания)
+causal link	причинная связь
+causality	причинность
+causative agent (of disease)	возбудитель (болезни)
+cause of disease	причина болезни
+cause-effect relationship	причинно-следственная связь
+CDC (Centers for Disease Control and Prevention)	Центры по контролю и профилактике заболеваний, США
+cellular immunity (cell-mediated immunity) (CMI)	клеточный иммунитет
+Centers for Disease Control and Prevention (CDC)	Центры по контролю и профилактике заболеваний, США
+central limit theorem	центральная предельная теорема
+central nervous system (CNS)	центральная нервная система (ЦНС)
+central nervous system (CNS) infection	инфекция центральной нервной системы (ЦНС)
+cephalosporin	цефалоспорин
+cerebrospinal fluid (CSF)	спинномозговая жидкость (СМЖ); цереброспинальная жидкость;
+cerebrospinal meningitis	цереброспинальный менингит
+cerebrospinal meningitis	цереброспинальный менингит
+chain of infection	механизм передачи инфекции
+chain of transmission	этапы передачи (инфекции)
+chancroid	шанкроид, мягкий шанкр
+checking assumptions	проверка необходимых условий/проверка предложений
+chemoprophylaxis	химиопрофилактика
+chickenpox	ветряная оспа
+chief doctor	главный врач
+chief public health physician	главный санитарный врач
+chief state sanitary doctor	главный государственный санитарный врач
+childhood immunization	иммунизация (вакцинопрофилактика) детей
+chi-square test	критерий хи-квадрат
+chlamydiosis	хламидиоз
+cholera	холера
+cholera vaccine	холерная вакцина
+chronic	хронический
+CI (confidence interval)	ДИ (доверительный интервал)
+class of antimicrobial drugs	класс противомикробных (антимикробных) препаратов
+clinical diagnostics	клиническая диагностика
+clinical follow-up examination	последующее клиническое обследование
+clinical manifestation	клиническое проявление
+clinical study	клиническое исследование
+clinical surveillance	клинический надзор
+clinical trial	клиническое испытание
+cluster analysis	кластерный анализ
+cluster case	групповой случай
+cluster sampling	кластерная выборка
+CNS (central nervous system)	ЦНС (центральная нервная система)
+cohort study	когортное исследование
+co-infection	коинфекция, сочетанная инфекция
+cold box	термоконтейнер
+cold chain	холодовая цепь
+cold chain system	система холодовой цепи
+cold-adapted strain	холодовой штамм
+colibacillosis	коли-инфекция, коли-бактериоз, эшерихиоз
+combined forms	сочетанные формы
+combined vaccine (combination vaccine)	комбинированная (ассоциированная или поливалентная) вакцина
+commercial sex worker (CSW)	работник коммерческого секса (РКС); лицо, предоставляющее сексуальные услуги за плату
+common source outbreak	вспышка заболевания, вызванная возбудителем из одного источника
+communicable disease (infectious disease)	инфекционное заболевание; инфекционная болезнь
+community acquired infection	внебольничная инфекция
+co-morbidity	сочетанное заболевание
+complication	осложнение
+computer-based medical records	истории болезни в электронной версии/медицинские карты в электронном формате
+concomitant diagnosis	сопутствующий диагноз
+concomitant infection (concurrent infection)	сопутствующая инфекция
+concurrent cohort study	параллельное когортное исследование
+concurrent control	параллельный контроль
+concurrent infection (concomitant infection)	сопутствующая инфекция
+confidence interval (CI)	доверительный интервал (ДИ)
+confidence level	уровень доверительной вероятности
+confidence limit	граница достоверности; граница доверительного интервала (минимальное и максимальное значения доверительного интервала или интервала достоверности)
+confirmed case	подтвержденный случай
+confounding	искажение
+confounding bias	систематическая ошибка при воздействии неучтенных факторов
+confounding factor, confounder	вмешивающийся (путающий) фактор
+congenital heart defect (CHD)	врожденный порок сердца
+congenital rubella infection (CRI)	врожденная краснушная инфекция (ВКИ)
+congenital rubella syndrome (CRS)	синдром врожденной краснухи (СВК)
+conjugate	конъюгат
+conjugated to carrier protein	конъюгированный с протеиновым носителем
+conjunctivitis	конъюнктивит
+consecutive observation	последовательное наблюдение
+constituent territory of the Russian Federation	субъект Российской Федерации
+consultation team	консультативная группа
+consumables	расходные материалы
+contact case (contact)	контактный (вторичный) случай (инфекционного заболевания); лицо, контактировавшее с источником инфекции; контакт
+contact tracing; detection of contacts	выявление контактов больного
+contagious	заразный, контагиозный
+contagious period (communicable period)	заразный (контагиозный) период
+contagiousness	контагиозность
+contaminated	зараженный
+contamination	инфицирование; контаминация
+contingency coefficient	коэффициент сопряженности
+contingency table	таблица сопряженности
+continuity correction (Yates' correction)	поправка на непрерывность (Йейтса)
+continuous data	непрерывные величины/данные
+contract	заражать
+contraction	заражение, инфицирование
+contraindication	противопоказание
+control an epidemic	сдержать распространение эпидемии
+control event rate	частота исходов в контрольной группе
+control group	контрольная группа, группа сравнения
+control of diseases	борьба с заболеваниями
+controlled clinical trial (ССТ)	контролируемое клиническое испытание
+core antigen	сердцевинный (коровый) антиген; ядерный антиген
+Correlation	корреляция
+correlation analysis	корреляционный анализ
+correlation coefficient	коэффициент корреляции
+corresponding author	автор для переписки
+cost-benefit analysis	анализ рентабельности; анализ эффективности затрат; анализ результативности затрат; затратно-выигрышный анализ
+cost-effectiveness analysis	анализ экономической эффективности; анализ результативности затрат; анализ эффективности затрат
+cost-utility analysis	анализ полезности затрат
+couch etiquette	постельный режим
+county medical officer	врач, отвечающий за санитарно-эпидемиологический надзор в регионе
+County Office for Communicable Disease Control	служба по контролю за инфекционными заболеваниями в регионе
+course facilitator	инструктор учебного курса
+Cox regression	регрессия Кокса (анализ пропорциональных рисков)
+Creutzfeldt Jakob disease	болезнь Крейтцфельда-Якоба
+CRI (congenital rubella infection)	ВКИ (врожденная краснушная инфекция)
+crisis situation	чрезвычайная ситуация
+critical appraisal	критическая оценка
+cross-over trial	перекрестное испытание
+cross-protection	перекрестный иммунитет
+cross-sectional study	поперечное (одномоментное) исследование
+croup	круп
+CRS (congenital rubella syndrome)	СВК (синдром врожденной краснухи)
+crude mortality rate	общий показатель смертности (показатель смертности населения от всех причин смерти)
+cryptosporidiosis	криптоспоридиоз
+CSW (commercial sex worker)	РКС (работник коммерческого секса)
+culture	посев
+culture-confirmed case	случай, подтвержденный методом посева; бактериологически подтвержденный случай
+culture-positive	положительный результат посева; подтвержденный методом посева
+cutaneous abscess	кожный абсцесс
+cut-off	пороговое значение; точка разделения
+cut-off point, cut-point	точка разделения
+cyclosporiasis	циклоспороз
+cytomegalovirus infection	цитомегаловирусная инфекция
+cytosine (С)	цитозин (Ц)
+D
+dark field (live blood cell) microscopy	темнопольная микроскопия
+data access	доступ к данным
+death rate (mortality rate) - an estimate of the proportion of a population that dies during a specific period	показатель смертности; коэффициент смертности (число случаев смерти в данной группе населения в определенном временном интервале, обычно из расчета на тысячу или на сто тысяч лиц данной группы)
+death-to-case ratio	соотношение числа смертей и случаев болезни (отношение числа смертей, вызванных определенной болезнью в течение определенного промежутка времени к числу случаев этой болезни, имевших место в этот же временной интервал)
+decision analysis	анализ принятия решений
+decontamination	обеззараживание; деконтаминация
+default	прерванное лечение
+defined daily dose (DDD)	установленная суточная доза (УСД)
+demographic data	демографические данные
+dengue fever	лихорадка денге
+denominator	знаменатель
+deoxyribonucleic acid (DNA)	дезоксирибонуклеиновая кислота (ДНК)
+dependent variable	зависимая переменная (переменная отклика)
+depyrogenized, pyrogen-free	апирогенный
+deratting	дератизация
+descriptive epidemiology	описательная эпидемиология
+descriptive study	описательное исследование
+designated scientific network	специализированная научная сеть
+detection (of case)	выявление (случая)
+detection rate	уровень (частота) выявления; выявляемость
+developmental delay	отставание в развитии
+device	вспомогательное устройство, приспособление
+diagnose	диагностировать
+diagnostic kit	набор диагностикумов; диагностический комплект; диагностический набор реактивов
+diagnostic tool	диагностическое средство
+diarrhoea	диарея
+dichotomous data	дихотомические данные
+diluent	растворитель
+dilution	растворение, разведение
+diphtheria	дифтерия
+diphtheria toxin	дифтерийный токсин
+diphtheria toxoid	дифтерийный анатоксин
+diphtheria, tetanus and acellular pertussis vaccine (DTaP), DPT with acellular pertussis	дифтерийно-столбнячный анатоксин и бесклеточная коклюшная вакцина (АбКДС), коклюшно-дифтерийно-столбнячная вакцина с ацеллюлярным коклюшным компонентом
+diphtheria-tetanus-pertussis vaccine (DTP)	вакцина против дифтерии-столбняка-коклюша (АКДС)
+diphyllobothriasis	дифиллоботриоз
+direct fluorescent antibody test for Treponema pallidum (DFA-TP)	прямая иммунофлюоресценция для выявления антител к T. pallidum (ПИФ-ТР)
+direct person-to-person contact	непосредственный (прямой) контакт между людьми
+Directly Observed Therapy Short-course (DOTS)	амбулаторная терапия под непосредственным наблюдением специалистов, ускоренный (короткий) курс (ДОТС)
+Directorate of Health (Iceland)	Директорат здравоохранения (Исландия)
+dirofilariasis	дирофиляриоз
+disability-adjusted life years (DALY)	скорректированные на инвалидность годы жизни (индекс DALY)
+discrete data	дискретные данные
+discriminant analysis	дискриминантный анализ
+disease mapping	картографирование заболеваемости
+disease monitoring	мониторинг заболеваемости, слежение за заболеваемостью
+disease prevention	профилактика болезней
+disease specific network (DSN)	специализированная по заболеванию сеть надзора
+disease spectrum	спектр заболевания
+disease surveillance	эпиднадзор за заболеваемостью
+disinsection	дезинсекция
+disseminated intravascular coagulation (DIC)	диссеминированное внутрисосудистое свертывание (ДВС-синдром)
+Division of Infectious Disease Control	отделение контроля за инфекционными заболеваниями
+DNA (deoxyribonucleic acid)	ДНК (дезоксирибонуклеиновая кислота)
+DNA sequencing	секвенирование ДНК
+DNA target	ДНК-мишень
+DNA virus	ДНК-содержащий вирус
+document flow	документооборот; делопроизводство
+dosage	дозировка
+dose	доза
+DOTS (Directly Observed Therapy Short-course)	ДОТС (амбулаторная терапия под непосредственным наблюдением специалистов, ускоренный (короткий) курс)
+double blind method	двойной слепой метод
+double infection	коинфицирование; микст-инфекция; коинфекция
+double reporting	двойная/продублированная отчетность
+double-blind study; double-blinded (double-masked or double-mask) study)	исследование двойным слепым методом; двойное слепое исследование
+droplet transmission	капельный путь передачи (инфекции)
+drug	лекарственный препарат, наркотик
+drug resistance	лекарственная устойчивость
+drug sensitivity	чувствительность к лекарственным средствам
+drug-organism pair	пара "препарат-организм"
+DSN (Disease Specific Network)	специализированная по заболеванию сеть надзора
+DTaP (diphtheria - tetanus - acellular pertussis vaccine)	АаКДС- вакцина против коклюша (с бесклеточным (ацеллюлярным) компонентом), дифтерии и столбняка
+DTP (diphtheria - tetanus - pertussis vaccine)	АКДС-вакцина (адсорбированная коклюшно-дифтерийно-столбнячная вакцина)
+DTwcP (diphtheria -tetanus - whole-cell pertussis vaccine)	AцКДС- вакцина против коклюша (с цельноклеточным (целлюлярным) компонентом), дифтерии и столбняка
+duplicate entering (method)	метод дублированного/двойного ввода
+duplicate technical systems for data retrieval, storage and dissemination	продублированные/двойные технические системы поиска, хранения и распространения информации
+dysentery	дизентерия
+E
+EAggEC (enteroaggregative Escherichia coli infection)	ЭАггКП (энтероаггрегативная инфекция, вызываемая кишечной палочкой)
+early warning	раннее оповещение
+early warning and response system	система раннего оповещения и реагирования
+EARSS (European Antimicrobial Resistance Surveillance System)	Европейская система надзора за устойчивостью к противомикробным препаратам (EARSS)
+ECDC (European Centre for Disease Prevention and Control)	Европейский центр профилактики и контроля заболеваний
+ECDC Advisory Forum	Консультативный форум Европейского центра профилактики и контроля заболеваний
+echinococcosis (hydatid disease)	эхинококкоз
+ecological fallacy	экологическая ошибка
+ecological study	экологическое исследование
+editorial	редакционная статья
+Editorial Board	редакционный совет
+Editorial Board member	член редакционного совета
+Editorial Office	редакция; редакционный отдел
+Editor-in-chief	главный редактор
+effect modification	модификация эффекта
+effect size	величина эффекта
+effectiveness	результативность (реальная, фактическая эффективность); действенность
+efficacy	действенность; эффект действия (предел действительного полезного воздействия (практической результативности) специфического мероприятия на определенную популяцию)
+efficacy of immunization	эффективность иммунизации (эффективность мероприятия, которая определяется по степени влияния иммунизации на уровни заболеваемости и смертности)
+efficiency	эффективность; полезный эффект (результативность в зависимости от затраченных ресурсов (времени, финансов и др.)
+efficient	эффективный; действенный
+EHEC (enterohemorrhagic Escherichia coli infection)	ЭГКП (энтерогеморрагическая инфекция, вызываемая кишечной палочкой)
+EIEC (enteroinvasive Escherichia coli infection)	ЭИКП (энтероинвазивная инфекция, вызываемая кишечной палочкой)
+EISS (European Influenza Surveillance Scheme)	Европейская сеть надзора за гриппом
+electrophoresis	электрофорез
+eligible country (GAVI eligible countries)	страна, имеющая право на получение помощи (от ГАВИ)
+eligible target group	целевая группа, отвечающая принятым критериям
+elimination (of disease)	элиминация (болезни) - исчезновение случаев заболевания на большой территории в результате прекращения передачи возбудителя инфекции, когда она не возобновляется при появлении завозного случая без проведения дополнительных противоэпидемических мероприятий
+ELISA (enzyme-linked immunosorbent assay)	ИФА (иммуноферментный (твердофазный) анализ)
+emergency immunization	экстренная иммунизация; экстренная вакцинопрофилактика
+emergency medicine	экстренная медицинская помощь
+emergency response	оперативные мероприятия
+emergency situation	чрезвычайная ситуация
+emerging infection	новая инфекция
+emerging of antibiotic resistance	появление устойчивости к антибиотикам (антибиотикорезистентности)
+emerging pathogen	новый возбудитель
+encephalitides	энцефалиты
+encephalitis	энцефалит
+encephalopathy	энцефалопатия
+endemic	эндемия
+endemic area (country)	эндемичная местность (страна)
+endemicity	эндемичность (инфекционной болезни)
+endocarditis	эндокардит
+enhanced surveillance	усиленный эпиднадзор
+enteroaggregative Escherichia coli infection (EAggEC)	энтероаггрегативная инфекция, вызванная кишечной палочкой (ЭАггКП)
+enterobiasis	энтеробиоз
+enterohemorrhagic Escherichia coli infection (EHEC)	энтерогеморрагическая инфекция, вызываемая кишечной палочкой (ЭГКП)
+enteroinvasive Escherichia coli infection (EIEC)	энтероинвазивная инфекция, вызываемая кишечной палочкой (ЭИКП)
+enteropathogenic Escherichia coli infection (EPEC)	энтеропатогенная инфекция, вызываемая кишечной палочкой (ЭПКП)
+enterotoxigenic Escherichia coli infection (ETEC)	энтеротоксигенная инфекция, вызываемая кишечной палочкой (ЭТКП)
+enterovirus	энтеровирус
+environmental health	гигиена окружающей среды; санитарное состояние окружающей среды
+environmental sampling	проба из объектов окружающей среды
+enzyme	фермент; энзим
+enzyme immunoassay (EIA)	иммуноферментный анализ (ИФА)
+enzyme-linked immunosorbent assay (ELISA)	иммуноферментный (твердофазный) анализ (ИФА)
+EPEC (enteropathogenic Escherichia coli infection)	ЭПКП (энтеропатогенная инфекция, вызванная кишечной палочкой)
+epidemic	эпидемия
+epidemic curve	эпидемическая кривая
+epidemic indications	эпидемические показания
+epidemic intelligence	надзор за эпидобстановкой
+epidemic intelligence framework	структура эпидемической разведки
+epidemic prevention	предотвращение эпидемии
+epidemiological outbreak investigation	эпидемиологическое расследование вспышки
+epidemiologically linked	по эпидемиологическим показаниям; эпидемиологически связан (с лабораторно подтвержденным случаем)
+EPIET (European Programme for Intervention Epidemiology Training)	Европейская программа обучения интервенционной эпидемиологии
+EpiNorth Journal	журнал ”ЭпиНорт”
+epiphyte	эпифитий, эпифитотий
+epizootiological	эпизоотологический
+equity in health	справедливость в здравоохранении (в отношении социальных детерминантов здоровья)
+equity in health care (in distribution of health care resources)	справедливость в медицинском обслуживании
+equivocal	сомнительный
+eradication (of disease)	ликвидация; искоренение (болезни) - глобальное прекращение передачи и исчезновение возбудителя болезни в результате проведения профилактических и противоэпидемических мероприятий
+error	ошибка
+ETEC (enterotoxigenic Escherichia coli infection)	ЭТКП (энтеротоксигенная инфекция, вызванная кишечной палочкой)
+etiology	этиология
+EuroHIV (НIV/AIDS Surveillance in Europe)	ЕвроВИЧ (Сеть эпидемиологического надзора за ВИЧ/СПИД в Европе)
+European Antimicrobial Resistance Surveillance System (EARSS)	Европейская система надзора за устойчивостью к противомикробным препаратам (EARSS)
+European Centre for Disease Prevention and Control (ECDC)	Европейский центр профилактики и контроля заболеваний
+European Commission Directorate-General for Public Health	Генеральный директорат Европейской комиссии по общественному здоровью
+European Commissioner for Health and Consumer Protection	Комиссар Европейской комиссии по здравоохранению и защите прав потребителей
+European Drug Utilization Research Group	Европейская группа по исследованию потребления лекарственных средств
+European Health Forum	Европейский форум по здравоохранению
+European Medicines Agency (ЕМЕА)	Европейское агентство по лекарственным средствам (EMEA)
+European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)	Европейский центр мониторинга наркотиков и наркотической зависимости
+European Programme for Intervention Epidemiology Training (EPIET)	Европейская программа обучения интервенционной эпидемиологии
+European Regional Office (EURO), Regional Office for Europe	Европейское региональное бюро (ЕРБ ВОЗ)
+European surveillance networks	Европейские сети по надзору
+European Surveillance of Antimicrobial Consumption (ESAC)	Европейская система надзора за использованием противомикробных препаратов (ESAC)
+European Working Group for Legionella Infection (EWGLI)	Европейская рабочая группа по легионеллезной инфекции
+Eurosurveillance (journal published by the ECDC)	Евронадзор (журнал, издаваемый ECDC)
+EuroTB (Surveillance Network of Tuberculosis in Europe)	ЕвроТБ (Европейская сеть надзора за туберкулезом)
+event rate (ER)	частота событий
+evidence based medicine	доказательная медицина
+EWGLI (European Working Group for Legionella Infection)	Европейская рабочая группа по легионеллезной инфекции
+exanthema	экзантема
+expanded programme on immunization (EPI)	расширенная программа иммунизации (РПИ)
+experimental event rate (EER)	частота исходов в группе лечения/эксперимента
+experimental study	экспериментальное исследование
+expert group	экспертная группа
+exposure	контакт с возбудителем инфекции; воздействие; подверженность (риску получения инфекции)
+extensively drug-resistant tuberculosis (XDR TB)	туберкулез с широкой лекарственной устойчивостью (ШЛУ ТБ)
+external validity	обобщаемость
+F
+face to face interview	oчный опрос, опрос лицом к лицу
+facility-based routine surveillance	рутинный эпиднадзор на базе лечебного учреждения
+factor analysis	факторный анализ
+failure	неудача, провал
+false negative	ложноотрицательный
+false positive	ложноположительный
+fatality	летальность; летальный исход
+FDA (Food and Drug Administration, USA)	Управление по контролю за пищевыми продуктами и лекарственными препаратами, США
+febrile convulsion	фебрильная судорога
+Federal penitentiary service (FPS)	Федеральная служба исполнения наказаний (ФСИН)
+Federal Service for Surveillance on Consumer Rights Protection and Human Well-being (Rospotrebnadzor)	Федеральная служба по надзору в сфере защиты прав потребителей и благополучия человека (Роспотребнадзор)
+Federal Service for Veterinary and Phytosanitary Surveillance (Rosselkhoznadzor)	Федеральная служба по ветеринарному и фитосанитарному надзору (Россельхознадзор)
+Federal State Health Institution (FSHI) "Centre of Hygiene and Epidemiology in Arkhangelsk Oblast" (Centre of Hygiene and Epidemiology in Arkhangelsk Oblast)	Федеральное государственное учреждение здравоохранения (ФГУЗ) "Центр гигиены и эпидемиологии в Архангельской области" (Центр гигиены и эпидемиологии в Архангельской области)
+fetal death (stillbirth)	внутриутробная смерть
+fever	лихорадка
+field epidemiology training	практическое обучение эпидемиологии, обучение эпидемиологии в полевых условиях
+filariasis	филяриатоз
+fingerprinting (method)	метод генетических отпечатков пальцев (метод анализа генетической структуры генома)
+first drug of choice	препарат выбора; наиболее подходящий препарат
+first line antibiotic	антибиотик первого ряда
+first line drug	препарат первого ряда
+fish tapeworm disease	дифиллоботриоз
+Fisher's exact test	точный критерий Фишера
+fixed facility	стационарное учреждение
+flavivirus infection	флавивирусная инфекция
+fluorescent antibody test / technique (FAT)	реакция иммунофлюоресценции (РИФ)
+fluoroquinolone	фторхинолон
+focal infection	очаговая (фокальная) инфекция
+Focal Point (national centre for communication with WHO)	координатор (национальный центр, назначаемый для связи с ВОЗ)
+focus (pl. foci)	очаг
+focus of infection	очаг инфекции
+follow-up	последующее наблюдение; изучение отдаленных результатов; отслеживание
+follow-up visit	последующее контрольное посещение / визит
+fomite	фомит
+Food and Drug Administration, USA (FDA)	Управление по контролю за пищевыми продуктами и лекарственными препаратами, США
+food-borne outbreak	пищевая вспышка; вспышка инфекционного заболевания, связанная с употреблением продуктов питания
+FPS (Federal penitentiary service)	ФСИН (Федеральная служба исполнения наказаний)
+frequency distribution	частотное распределение
+fulminant	молниеносный; скоротечный
+G
+gastrointestinal infection	желудочно-кишечная инфекция
+GAVI (Global Alliance for Vaccines and Immunisation)	ГАВИ (Глобальный альянс по вакцинам и иммунизации)
+gene sequencing, DNA sequencing	расшифровка последовательности ДНК, секвенирование ДНК
+general practitioner (GP)	врач общей практики
+generalizability	обобщаемость
+genetic barcode	генетический «штрих-код»
+genital chlamydial infection	половая хламидийная инфекция, генитальный хламидиоз
+genitourinary system	мочеполовая система
+genome	геном
+genomic sequencing	определение (расшифровка) нуклеотидной последовательности генома
+genotype	генотип
+geometric mean	среднее геометрическое
+germ	микроорганизм
+giardiasis	лямблиоз
+give on clinical grounds	назначить по клиническим показаниям
+Global Advisory Committee on Vaccine Safety (GACVS)	Глобальный консультативный комитет по безопасности вакцин (ГККБВ)
+Global Alliance for Vaccines and Immunisation (GAVI)	Глобальный альянс по вакцинам и иммунизации (ГАВИ)
+Global electronic reporting system for outbreaks of emerging infectious diseases and toxines (ProMED-mail)	Глобальная электронная система оповещения о вспышках инфекционных заболеваний и отравлениях токсинами (ProMED-mail)
+global health	всемирная охрана здоровья
+Global Public Health Intelligence Network (GPHIN, Canada)	Глобальная сеть по раннему оповещению в сфере общественного здравоохранения (Kанада)
+gonorrhoea	гонорея
+good clinical practice (GCP)	надлежащая клиническая практика (стандарт GCP)
+GPHIN (Global Public Health Intelligence Network, Canada)	Глобальная сеть по раннему оповещению в сфере общественного здравоохранения (Kанада)
+gradient of infection	размах инфекции
+gram-negative	грамотрицательный
+gram-positive bacterium	грамположительная бактерия
+Gram's stain	окрашивание по Граму
+granulocytic anaplasmosis	гранулоцитарный анаплазмоз
+guanine (G)	гуанин (Г)
+guidelines	руководство, рекомендации
+H
+Haemophilus influenzae infection	гемофильная инфекция
+Haemophilus influenzae type B infection (Hib infection)	инфекция, вызываемая Haemophilus influenzae типа В (Хиб-инфекция)
+haemorrhagic fever with renal syndrome (Nephropathia epidemica, HFRS)	геморрагическая лихорадка с почечным синдромом (эпидемическая нефропатия, ГЛПС)
+harm reduction	снижение вреда
+harmonic mean	гармоническое среднее
+HAV, HBV, HCV, HDV, HEV, HFV (hepatitis A, B, C, D, E, F virus)	ВГА, ВГВ, ВГС, ВГD, ВГE, ВГF (вирус гепатита А, В, C, D, E, F)
+hazard potential index (HPI)	индекс потенциального вреда
+hazardous waste	опасные отходы
+HCW (health care worker)	медицинский работник
+health authorities	органы управления здравоохранением
+health care institution	учреждение здравоохранения
+health care worker (HCW)	медицинский работник
+health education	санитарное просвещение
+health infrastructure	инфраструктура системы здравоохранения
+health institution	лечебное учреждение
+Health Protection Agency (HPA, Great Britain)	Агентство защиты здоровья (Великобритания)
+Health Protection Inspectorate (Estonia)	Инспекция защиты здоровья (Эстония)
+health service	служба здравоохранения
+healthcare practitioner	медицинский работник
+healthcare waste	медицинские отходы
+Helicobacter pylori infection	хеликобактерная инфекция
+HELICS (Hospitals in Europe Link for Infection Control through Surveillance)	Европейская сеть по контролю за внутрибольничными инфекциями через надзор
+helminthiasis	гельминтоз
+hemagglutination	гемагглютинация
+hemolytic urеmic syndrome (HUS)	гемолитико-уремический синдром (ГУС)
+hepatic cirrhosis	цирроз печени
+hepatic disorder	поражение печени
+hepatitides (pl. )	гепатиты
+hepatitis A	гепатит А
+hepatitis B	гепатит В
+hepatitis C	гепатит С
+herd immunity	иммунная прослойка населения
+herd immunity, population immunity	коллективный иммунитет
+herpes	герпес
+heterogeneity	неоднородность (гетерогенность)
+HFRS (haemorrhagic fever with renal syndrome)	ГЛПС (геморрагическая лихорадка с почечным синдромом)
+Hib infection (Haemophilus influenzae type b infection)	Хиб-инфекция (гемофильная инфекция; инфекция, вызываемая Haemophilus influenzae типа b)
+high antibiotic pressure	интенсивное использование антибиотиков
+high-grade immunity	напряженный иммунитет
+highly active antiretroviral therapy (HAART)	высокоактивная антиретровирусная терапия (ВААРТ)
+historical cohort study	ретроспективное когортное исследование; историческое когортное исследование
+historical control	исторический (непараллельный) контроль
+HIV (human immunodeficiency virus)	ВИЧ (вирус иммунодефицита человека)
+HIV- infection	ВИЧ-инфекция
+HIV-infected	ВИЧ-инфицированный
+HIV-positive (status)	ВИЧ-положительный (статус)
+homogeneity	однородность
+homogenous	гомогенный; однородный
+hospital acquired (nosocomial) infection, hospital infection	внутрибольничная (нозокомиальная) инфекция
+hospital discharge	выписка из больницы
+hospital infection	внутрибольничная инфекция
+hospital-based infectious diseases surveillance, hospital surveillance	эпиднадзор за инфекционными болезнями на базе инфекционных стационаров; эпиднадзор на базе больницы, больничный эпиднадзор
+Hospitals in Europe Link for Infection Control through Surveillance (HELICS)	Европейская сеть по контролю за внутрибольничными инфекциями через надзор
+host	хозяин (возбудителя инфекции, инвазии)
+host immunity	иммунный ответ организма
+HPA (Health Protection Agency, Great Britain)	Агентство охраны здоровья, Великобритания
+human granulocytic (monocellular) ehrlichiosis (HGE)	моноцитарный эрлихиоз человека (МЭЧ)
+human granulocytic anaplasmosis (HGA)	гранулоцитарный анаплазмоз человека (ГАЧ)
+human immunodeficiency virus (HIV)	вирус иммунодефицита человека (ВИЧ)
+human monocytic ehrlichiosis (HME)	моноцитарный эрлихиоз человека
+human papilloma virus (HPV)	вирус папилломы человека (ВПЧ)
+human T-cell lymphotropic virus (HTLV)	вирус T-клеточной лимфомы человека; Т-лимфотропный вирус человека
+humoral immunity	гуморальный иммунитет
+hydatid disease	эхинококкоз
+hymenolepiasis	гименолепидоз
+hypothesis testing	проверка гипотез
+HAART (highly active antiretroviral therapy)	ВААРТ (высокоактивная антиретровирусная терапия)
+I
+I and R gram-negative bacilli	резистентные и имеющие промежуточный уровень резистентности грамотрицательные бактерии
+ICMJE (International Committee of Medical Journal Editors)	Международный комитет редакторов медицинских журналов
+idiopathic	идиопатический
+idiopathic trombocytopenic purpura	идиопатическая тромбоцитопеническая пурпура
+idiotype	идиотип
+IDU (injecting drug user)	ПИН (потребитель инъекционных наркотиков)
+Ig G, IgM, IgA, IgE-antibodies	антитела класса IgG, IgM, IgA, IgE
+IHR (International Health Regulations)	ММСП (Международные медико-санитарные правила)
+immune activity	иммунная активность
+immune response	иммунный ответ
+immune response suppression	супрессия иммунного ответа; подавление иммунного ответа
+immunisation	иммунизация
+immunity, protective	иммунитет, защитный
+immunization campaign	прививочная кампания
+immunization card, vaccination card	прививочная карта; карта профилактических прививок
+immunization coverage	охват населения прививками
+immunization monitoring chart	график (диаграмма) прививочных мероприятий; сводная таблица прививок
+immunization point (site, centre), vaccinating centre	прививочный пункт или центр
+immunization record, vaccination card	прививочная карта; карта профилактических прививок
+immunization schedule	календарь профилактических прививок
+immunization status	прививочный статус
+immunobiological medication/drug/substance	медицинский иммунобиологический препарат
+immunoblot	иммуноблот
+immunofluorescence	иммунофлюоресцентный метод лабораторной диагностики
+immunofluorescence method	метод флюоресцирующих антител (МФА)
+immunogenicity, immunogenic activity	иммуногенность
+immunoprophylaxis	иммунопрофилактика
+immunosuppression	иммуносупрессия; подавление (угнетение) иммунитета
+immunоcompromi sed	c нарушением иммунитета; с ослабленным иммунитетом
+impetigo	импетиго
+importation of virus	завоз, занос вируса
+imported infection	завозная инфекция
+inactivated vaccine	инактивированная (убитая) вакцина
+inactivation	инактивация; обезвреживание
+incentive	заинтересованность, мотивация, стимул
+incidence	частота новых случаев болезни в популяции (отношение числа лиц, у которых в течение определенного времени развилось изучаемое состояние, ко всем обследованным в группе, где исходно этого состояния никто не имел); заболеваемость; инцидентность
+incidence rate	показатель заболеваемости; заболеваемость
+incidence, crude	заболеваемость нескорректированная
+incubation period	инкубационный период
+incubation time	инкубационный период
+independent data analysis	независимый анализ данных
+independent sample	несвязанная выборка
+indication	показание
+indicator disease	индикаторное заболевание
+indirect person-to-person contact	непрямой (опосредованный) контакт
+infant mortality rate	показатель младенческой смертности
+infected	инфицированный, зараженный
+infection control	борьба с инфекцией; инфекционный контроль
+infection control nurse	медсестра по инфекционному контролю
+infection control programme	программа по инфекционному контролю
+infection control specialist	специалист по инфекционному контролю
+infection imported	инфекция завозная
+Infectious Disease Register	регистр (официальный список, перечень) инфекционных заболеваний
+infectious disease threat	угроза инфекционных заболеваний
+infectious period	инфекционный период
+infectiousness	контагиозность
+infectivity	инфективность
+inflammation	воспаление
+inflammatory reaction	воспалительная реакция
+influenza	грипп
+influenza virus	вирус гриппа
+influenza-like disease	гриппоподобное заболевание
+influenza-like illness (ILI)	гриппоподобное заболевание
+information technology (IT) systems	системы информационных технологий (ИТ)
+inhalation	вдыхание
+in-house	местный, местного происхождения
+in-house ELISA	ИФА, компоненты для которого получены в учреждении
+in-house kit	созданный в учреждении набор для лабораторных исследований
+in-house reporting form	форма внутренней отчетности
+injecting drug user (IDU)	потребитель инъекционных наркотиков (ПИН)
+injection (intradermal, subcutaneous, intramuscular, intravenous)	инъекция (внутрикожная, подкожная, внутримышечная, внутривенная)
+injection site reaction	реакция в месте инъекции
+injection-driven epidemic	эпидемия, связанная с инъекционным путем передачи
+inmate	заключенный; лицо, находящееся в местах лишения свободы
+innate immunity	наследственный иммунитет
+Institut de Veille Sanitaire (InVS, France)	Институт санитарного мониторинга (Франция)
+interaction	взаимодействие
+interferon-gamma release assay (IGRA)	анализ высвобождения гамма-интерферона (ИГРА)
+intermediate vaccine store	промежуточный вакцинный склад
+internal daily verification list	ежедневный внутренний список верификации
+internal medicine specialist, internist	специалист по внутренним болезням, терапевт
+internal validity	достоверность исследования
+International Health Regulations (IHR)	Международные медико-санитарные правила (ММСП)
+interquartile range (IQR)	межквартильный размах (статистической выборки); межквартильный интервал; межквартильный диапазон
+interval data	количественные данные
+interval estimate	интервальная оценка
+interview	опроc
+intracellular pathogen	внутриклеточный возбудитель
+intrauterine infection	внутриутробная инфекция
+invasiveness	инвазивность
+IPV (inactivated polio vaccine)	ИПВ (инактивированная вакцина против полиомиелита)
+iridocyclitis	иридоциклит
+isolate	изолят (микроорганизма)
+isolation	выделение микроорганизма; изоляция больного
+J
+jet injector, needle-free injector	безыгольный инъектор
+Joint United Nations Programme on HIV/AIDS (UNAIDS)	Объединенная программа ООН по ВИЧ/СПИД (ЮНЭЙДС)
+K
+key word	ключевое слово
+kit	комплект, набор
+Kruskal-Wallis test	критерий Краскела-Уоллиса
+kurtosis	эксцесс; эксцесс распределения
+L
+labeling	эффект ярлыка
+laboratory capacity	возможности лабораторной диагностики
+laboratory confirmation	лабораторное подтверждение (предполагаемого диагноза, случаев заболевания)
+laboratory diagnostics	лабораторная диагностика
+laboratory surveillance	эпиднадзор на основе лабораторных данных
+late presenter	случай позднего выявления
+latent infection	латентная инфекция, cкрытая инфекция
+latex agglutination test	реакция агглютинации латексных частиц; реакция латекс-агглютинации
+legal document	нормативный, правовой акт
+legionellosis	легионеллёз
+leishmaniasis	лейшманиоз
+leptospirosis	лептоспироз
+lethal outcome	летальный исход
+lifelong immunity	пожизненный иммунитет
+likelihood ratio	отношение правдоподобия
+liquid phase immunoassay	иммунный анализ в жидкой фазе
+list	перечень, список
+listeriosis	листериоз
+live birth	живорожденный
+live vaccine	живая вакцина
+logistic regression	логистическая регрессия
+long term registration	длительная регистрация
+longitudinal study	продольное исследование
+loose stool	частый жидкий стул
+low fever	субфебрильная температура
+low threshold support centre (LTSC)	низкопороговый центр поддержки
+LTSC (low threshold support centre)	низкопороговый центр поддержки
+Lyme borreliosis	Лайм-боррелиоз, боррелиоз, болезнь Лайма
+Lyme disease	болезнь Лайма, клещевой боррелиоз
+М
+malaria	малярия
+management board	руководящий совет
+management of patients	ведение больных
+mandatory notification	обязательное уведомление; обязательная регистрация
+mandatory reporting	обязательная отчетность
+Mantel-Haenszel test	критерий Мэнтела-Хансцеля
+Mantoux test	проба Манту
+mass media	средства массовой информации (СМИ)
+mastitis	мастит
+MDR (multidrug resistance)	МЛУ (множественная лекарственная устойчивость)
+MDR TB (multidrug resistant tuberculosis)	МЛУ ТБ (туберкулез с множественной лекарственной устойчивостью)
+mean	среднее арифметическое
+mean duration of stay in a hospital	средний срок пребывания в стационаре
+mean rank	средний ранг
+measles	корь
+measles - mumps - rubella vaccine (MMR)	вакцина против кори-паротита-краснухи (КПК)
+measles vaccine	коревая вакцина; вакцина против кори
+measurement bias	систематическая ошибка вследствие измерений
+measures of central tendency	центральные тенденции (средние величины)
+measures of variability	меры рассеяния
+median	медиана; срединный
+medical and preventive treatment facility	лечебно-профилактическое учреждение (ЛПУ)
+medical assistant	фельдшер
+medical chart	история болезни
+medical epidemiologist	врач-эпидемиолог
+medical history	анамнез
+medical officer	врач
+medical records	медицинская документация
+medical worker	медицинский работник, медработник
+member of the Editorial Board (EB-member)	член редакционного совета
+membrane antigen	поверхностный антиген; мембранный антиген
+memorandum of understanding	меморандум о намерениях
+men who have sex with men (MSM)	мужчины, практикующие секс с мужчинами (МСМ)
+meningitis	менингит
+meningococcal conjugate vaccine	менингококковая конъюгированная вакцина
+meningococcal disease	менингококковое заболевание
+meningococcal infection	менингококковая инфекция
+meningococcal nasopharyngitis	менингококковый назофарингит
+meningococcemia	менингококцемия
+meningoencephalitis	менингоэнцефалит
+meta-analysis	мета-анализ
+methodological quality	методологическое качество
+microcell culture	микрокультура клеток
+microsporia	микроспория
+mild disease	легкая форма заболевания
+minimum inhibitory concentration (MIC)	минимальная ингибирующая концентрация (МИК)
+Ministry of Public Health and Social Development (Minzdravsotsrazvitija, Russian Federation)	Министерство здравоохранения и социального развития (Минздравсоцразвития) Российской Федерации
+MMR (measles - mumps -rubella) vaccine	КПК (вакцина против кори-паротита-краснухи)
+mobile vaccination team	выездная прививочная бригада
+mode	мода (cтат.); способ; метод; принцип
+molluscipoxvirus	вирус контагиозного моллюска
+monitoring	мониторинг
+monodose	разовая доза; однодозовая; монодозная
+mononucleosis	мононуклеоз
+monovalent vaccine	моновалентная вакцина
+morbidity	заболеваемость
+mortality	смертность
+mortality rate (death rate)	коэффициент смертности (показатель, отражающий часть населения, которая умирает за определенный период времени)
+MSIS (Norwegian Surveillance System for Communicable Diseases)	Норвежская система надзора за инфекционными заболеваниями
+MSM (men who have sex with men)	МСМ (мужчины, практикующие секс с мужчинами)
+multidose vial, multidose container	многодозовый флакон
+multidrug resistance (MDR)	множественная лекарственная устойчивость (МЛУ)
+multidrug resistant tuberculosis	туберкулез с множественной лекарственной устойчивостью
+multiple linear regression	множественный линейный регрессионный анализ
+multiplicative interaction	мультипликативное взаимодействие
+multivariable analysis	многофакторный анализ; многомерный анализ (анализ с одной зависимой переменной и несколькими независимыми переменными)
+multivariable modelling	многофакторное моделирование
+multivariate analysis	многомерный анализ (анализ с несколькими зависимими переменними и неколькими независимыми переменными)
+mumps	эпидемический паротит
+municipal	муниципальный, городской
+municipal medical officer	врач, отвечающий за санитарно-эпидемиологический надзор в городе
+mutation	мутация
+mycobacterium (pl. mycobacteria)	микобактерия
+N
+national IHR focal point	национальный координатор по ММСП
+national priority project	приоритетный национальный проект
+natural (innate) immunity	естественный (врожденный) иммунитет
+NCI (nosocomial infection)	нозокомиальная инфекция
+NCM (Nordic Council of Ministers)	Совет министров северных стран
+necrotising fasciitis	некротический фасциит
+needle (and syringe) destroyer	устройство для разрушения игл (и шприцев)
+needle remover (mechanical), needle puller	иглосъемник (механический)
+needle-stick injury, needle stick	травма от укола иглой
+negative (result) for acid-fast bacilli	отрицательный (результат) на кислотоустойчивые бактерии
+negative predictive value	прогностическая ценность отрицательного результата
+negative study	исследование с отрицательным результатом
+neonatal infection	инфекция новорожденных; неонатальная инфекция
+neonatal mortality rate	показатель смертности новорожденных; показатель неонатальной смертности
+neonatal period	неонатальный период
+neonatal screening	неонатальный скрининг
+nested case control study	исследование "случай-контроль" внутри когортного исследования
+nested PCR	ПЦР методом "гнезд", «гнездовая» полимеразная цепная реакция
+neutralization test (NT)	реакция нейтрализации
+neutropenia	нейтропения
+newborn	новорожденный
+NGO (non-governmental organization)	НПО (неправительственная организация)
+NIPH (Norwegian Institute of Public Health)	НИОЗ (Норвежский институт общественного здравоохранения)
+nominal data	качественные (номинальные) данные
+noncompliance	нарушение режима (терапии)
+non-governmental organization (NGO)	неправительственная организация (НПО)
+non-independent group (paired samples)	зависимая группа (парные выборки)
+non-parametric test	непараметрический критерий
+non-polio AFP	cлучай ОВП, неполиомиелитный; неполиомиелитный вялый паралич
+non-responder	не вырабатывающий иммунного ответа oрганизм
+non-susceptible	нечувствительный
+Nordic Council of Ministers (NCM)	Совет министров северных стран
+normal (Gaussian) distribution	нормальное (Гауссово) распределение
+Northern Dimension	Северное измерение
+Norwegian Childhood Vaccination Register (SYSVAK)	Норвежский регистр вакцинации детей
+Norwegian Institute of Public Health (NIPH)	Норвежский институт общественного здравоохранения (НИОЗ)
+Norwegian Ministry of Health and Care Services	Министерство здравоохранения и социальных услуг Норвегии
+Norwegian Surveillance System for Communicable Diseases (MSIS)	Норвежская система надзора за инфекционными заболеваниями
+nosocomial (hospital acquired, health care acquired) infection	нозокомиальная (внутрибольничная) инфекция
+nosocomial infection	внутрибольничная инфекция (ВБИ)
+notifiable infection	регистрируемая инфекция; инфекция, подлежащая регистрации
+notification	уведомление
+nucleocapsid	нуклеокaпсид
+null hypothesis	нулевая гипотеза
+number needed to treat (NNT)	число больных, которых необходимо лечить
+number of persons seeking medical care	число лиц, обращающихся за медицинской помощью; обращаемость за медицинской помощью
+numerical data	количественные данные
+O
+OAT (outbreak assistance team)	группа помощи при расследовании вспышки
+observation	наблюдение
+observational study	обсервационное исследование
+observed and predicted data	эмпирические и предполагаемые данные
+occupational disease	профессиональное заболевание
+odds	шансы
+odds ratio (ОR)	отношение шансов (ОШ)
+oedema, pl -mata	отёк
+off-site facility	объект, находящийся вне базового учреждения
+omphalitis	омфалит
+oncogenicity	онкогенность
+on-site facility	объект, находящийся на территории базового учреждения
+open access journal	свободно доступный журнал, журнал в бесплатном доступе
+operation system	функциональная, рабочая, операционная система
+opisthorchiasis	описторхоз
+opportunistic	условно-патогенный; вызываемый условно-патогенными микроорганизмами; оппортунистический
+opportunistic infection	оппортунистическая инфекция (инфекция, возбудитель которой, находясь в организме человека, не вызывает заболевание, но становится патогенным при особых условиях, в том числе при иммунодефиците)
+OPV (oral polio vaccine)	ОПВ (оральная вакцина против полиомиелита)
+OR (odds ratio)	ОШ (отношение шансов)
+oral	оральный; пероральный
+oral polio vaccine (OPV)	оральная вакцина против полиомиелита (ОПВ)
+orchitis	орхит
+ordinal data	порядковые данные
+origin	происхождение
+ornithosis	орнитоз
+osteomyelitis	остеомиелит
+otitis	отит
+outbreak	вспышка
+outbreak assistance team (OAT)	группа помощи при расследовании вспышки
+outbreak control	мероприятия по борьбе со вспышкой; купирование вспышки
+outbreak investigation	расследование вспышки
+outbreak response focal point	организация (учреждение), ответственная(ое) за проведение мероприятий при вспышке
+outcome	результат; исход
+outer membrane	внешняя мембрана
+outpatient clinic	поликлиника
+out-patient clinic	амбулатория; поликлиника; клиника для амбулаторных больных
+output requirement	требование к результату
+outreach immunization	иммунизация на выезде (иммунизация, проводимая вне лечебного учреждения, в местах наиболее удобных для посещения местным населением)
+outreach work	"аутрич"-работа; уличная работа
+overdose	передозировка
+P
+paired serology	серологическое исследование парных сывороток
+pandemic	пандемия
+pandemic flu	пандемический грипп
+pandemic preparedness	готовность к пандемии
+pandrug-resistant (PDR) bacteria	панрезистентные бактерии (в отношении которых не имеется активных антибиотиков)
+panencephalitis	панэнцефалит
+parainfluenza virus	вирус парагриппа
+parametric test	параметрический критерий
+paratyphoid fever	паратиф
+parenteral	парентеральный
+parotitis epidemica	эпидемический паротит
+partial correlation	парциальная, частичная, неполная корреляция
+passive hemagglutination test	реакция пассивной гемагглютинации
+passive immunity	пассивный иммунитет
+pathogen	патогенный микроорганизм; возбудитель болезни
+pathogenesis	патогенез
+patient	пациент, больной
+patient cohort	контингент больных
+PCR (polymerase chain reaction)	ПЦР (полимеразная цепная реакция)
+PCV (proportion of the cases vaccinated)	доля привитых больных
+pediculosis	педикулез
+peer review	внешнее рецензирование
+people living with HIV/AIDS (PLWHA)	люди, живущие с ВИЧ/СПИД (ЛЖВС)
+perinatal mortality rate	частота перинатальной смертности
+periodicity	периодичность (эпидемического процесса)
+persistence of antigens	персистенция антигенов
+personal identifiers	персональные данные
+pertussis, whooping cough	коклюш
+phenotype	фенотип
+phlebitis	флебит
+physical examination	врачебный/медицинский осмотр; клинический осмотр
+pilot project	пилотный (экспериментальный, поисковый) проект
+pilot study	пилотное исследование
+placebo	плацебо
+placebo-controlled clinical trial	плацебо-контролируемое клиническое испытание
+plague	чума
+PLWHA (people living with HIV/AIDS)	ЛЖВС (люди, живущие с ВИЧ/СПИД)
+pneumococcal heptavalent conjugate vaccine (PCV7)	пневмококковая семивалентная конъюгированная вакцина
+pneumococcal polysaccharide vaccine	пневмококковая полисахаридная вакцина
+pneumocystosis	пневмоцистоз
+pneumonia	пневмония
+point estimate	точечная оценка
+point prevalence	моментная распространенность, точечная превалентность
+point prevalence study	исследование моментной распространенности; одномоментное (поперечное) исследование
+Poisson distribution	распределение Пуассона
+Poisson regression	регрессия Пуассона
+polio free status	статус страны (региона, территории), свободной от полиомиелита
+poliomyelitis	полиомиелит
+polymerase chain reaction (PCR)	полимеразная цепная реакция (ПЦР)
+poor immune (serologic) response	слабый иммунный (серологический) ответ
+population	популяция; население; генеральная совокупность (стат.)
+population attributable risk	популяционный добавочный риск
+population immunity	коллективный иммунитет
+positive predictive value	прогностическая ценность положительного результата
+positive result for acid-fast bacilli	положительный результат на кислотоустойчивые бактерии
+positive study	исследование с положительным результатом
+post-exposure immunoprophylaxis	иммунопрофилактика лиц, контактировавших с источником возбудителя инфекции (постэкспозиционная иммунопрофилактика)
+postimmunization syndrome	поствакцинальный синдром
+postpartum period	послеродовой период
+postvaccinal complication	поствакцинальное осложнение
+PPV (positive predictive value)	позитивная прогностическая ценность
+PPV (proportion of the population vaccinated)	доля привитого населения
+precaution	мера предосторожности
+predicable outcome	прогнозируемый итог
+predictive value	прогностическая ценность
+premature labour	преждевременные роды
+prenatal period	пренатальный период; предродовой период
+preparation	препарат
+preparedness plan	план подготовки
+pre-school institution	дошкольное учреждение (детские сад, ясли, интернат для детей сирот)
+prescribed daily dose (PDD)	рекомендуемая (назначаемая) суточная доза
+presumptive diagnosis	предположительный диагноз
+pre-vaccine	довакцинальный
+prevalence	распространенность, поражённость (суммарная совокупность случаев клинически выраженных заболеваний и/или носительства возбудителя какой-либо инфекционной (паразитарной) болезни среди населения определенной территории в определенный отрезок времени); превалентность
+prevalence rate	показатель распространенности, показатель поражённости (общее число лиц, пораженных болезнью (как манифестными формами, так и случаи носительства возбудителя) в определенный промежуток времени, деленное на численность группы риска в данный момент или за данный период времени); распространенность (болезни)
+prevention	профилактика
+preventive intervention	профилактическое мероприятие
+primary health care (PHC)	первичная медико-санитарная помощь (ПМСП)
+primary healthcare	первичное звено здравоохранения
+primary prevention	первичная профилактика
+primary vaccine failure	первичная вакцинальная неудача
+primer	праймер
+prion	прион
+prion diseases	болезни, вызываемые прионами
+prior history of disease	анамнез заболевания
+probability	вероятность
+probable case	вероятный случай
+probiotic	пробиотик
+procedure	процедура, манипуляция
+product lot	серия препарата
+ProMED-mail (Global electronic reporting system for outbreaks of emerging infectious diseases and toxines)	ProMED-mail (Глобальная электронная система оповещения о вспышках инфекционных заболеваний и отравлениях токсинами)
+proof-reader	корректор
+prophylaxis	профилактика
+proportion of cases vaccinated (PCV)	доля привитых больных (ДПБ)
+proportion of population vaccinated (PPV)	доля привитого населения (ДПН)
+prospective study	проспективное исследование
+protective level of antibodies	защитный уровень антител
+Pseudomonas aeroginosa	синегнойная палочка
+pseudotuberculosis	псевдотуберкулез
+public domain software	бесплатное программное обеспечение
+public health	общественное здравоохранение
+public health decision making	принятие решений в области здравоохранения
+public health emergency of international concern	чрезвычайная ситуация в области общественного здравоохранения, имеющая международное значение
+public health sector	государственный сектор здравоохранения
+puerperal period	послеродовой период
+pulsed field gel electrophoresis (PFGE)	гель-электрофорез в пульсирующем поле
+p-value	величина р
+pyoderma	пиодермия
+pyodermatitis	пиодерматит
+pyodermatosis	пиодерматоз
+pyoinflammatory	гнойно-воспалительный
+Q
+Q-fever	лихорадка Ку
+quadruple vaccine	тетравакцина; четырехвалентная вакцина
+qualitative data	качественные данные
+qualitative immunoassay	качественный иммунный анализ
+quantitative data	количественные данные
+quantitative immunoassay	количественный иммунный анализ
+quarantine	карантин
+questionnaire	вопросник; анкета
+R
+R gram-negative bacilli	устойчивые грамотрицательные бактерии
+rabies	бешенство
+rabies vaccine	антирабическая вакцина
+random error	случайная ошибка
+random sample	случайная выборка
+random selection	случайный отбор
+random variation	случайная изменчивость
+randomization	рандомизация
+randomized controlled clinical trial	рандомизированное контролируемое клиническое испытание
+range	диапазон; интервал; область распространения; размах вариации
+rank distribution	ранговое распределение
+rapid assessment	быстрая оценка; экспресс-оценка
+rapid blood-based dot-blot test	экпресс-анализ крови методом "точка-пятно"
+rapid response	быстрое реагирование
+rash disease	заболевание, сопровождающееся сыпью; экзантемное заболевание
+rash macular-papular	сыпь пятнисто-папулезная
+rate	частота, показатель
+ratio	отношение; пропорция
+RCT (randomized controlled study)	рандомизированное контролируемое испытание
+reactogenecity (of vaccine)	реактогенность (вакцины)
+real-time PCR	полимеразная цепная реакция в режиме реального времени
+reassortment	реассортация
+recall bias	систематическая ошибка, связанная с воспроизведением информации (о факторах риска)
+receiver operating characteristic (ROC) curve	характеристическая кривая
+recombinant vaccine	рекомбинантная вакцина
+recovery, clinical	выздоровление, клиническое
+reemerging infection	возвращающаяся инфекция
+reference and coordination point	справочный и координирующий центр
+reference laboratory	референтная лаборатория (встречается и менее корректное название "референс-лаборатория"; РЛ используется для обозначения отсылочных лабораторий, в которые основная лаборатория, работающая непосредственно с пациентом, отсылает образец пациента для определения параметров, не определяемых в основной лаборатории); экспертная лаборатория
+reference level	контрольный уровень
+refugee	беженец
+regression	регрессия
+regression to the mean	смещение к среднему
+relative risk (RR)	относительный риск (ОР)
+relative risk reduction	снижение относительного риска
+reliability analysis	анализ воспроизводимости
+reportable disease	регистрируемое заболевание
+reporting delay	поздняя регистрация
+reporting system	система учета
+representative sampling	репрезентативная выборка
+reproductive number (of cases)	воспроизведенное число (случаев)
+reservoir	резервуар
+residual	остаток; остаточный
+resistance	устойчивость; резистентность
+respiratory infection	респираторная инфекция
+respiratory syncytial virus (RSV)	респираторно-синцитиальный вирус (РСВ)
+respondent driven sampling (RDS)	выборка на основе предложений респондентов
+restriction fragment length polymorphism typing (fingerprinting)	типирование по полиморфизму длин рестрикционных фрагментов (генотипирование)
+retrospective study	ретроспективное исследование
+reveal	выявить
+ribonucleic acid (RNA)	рибонуклеиновая кислота (РНК)
+ricketsiosis	риккетсиоз
+risk difference	разность рисков
+risk factor	фактор риска
+risk group	группа риска
+risk ratio	отношение рисков
+RNA (ribonucleic acid)	РНК (рибонуклеиновая кислота)
+ROC-curve	характеристическая кривая
+Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Well-being)	Роспотребнадзор (Федеральная служба по надзору в сфере защиты прав потребителей и благополучия человека)
+Rosselkhoznadzor (Federal Service for Veterinary and Phytosanitary Surveillance)	Россельхознадзор (Федеральная служба по ветеринарному и фитосанитарному надзору)
+rotavirus infection	ротавирусная инфекция
+Rotavirus Vaccine Accelerated Development and Introduction Plan (Rota(virus)ADIP)	План по ускоренной разработке и внедрению ротавирусной вакцины
+Rotavirus Vaccine Programme (RVP)	Программа по ротавирусным вакцинам (ПРВ)
+routine immunization (activities)	плановая иммунизация
+routine surveillance	плановый (рутинный) эпиднадзор; текущий эпиднадзор
+RSV (respiratory syncytial virus)	РСВ (респираторно-синцитиальный вирус)
+RT-PCR	ПЦР с обратной транскрипцией (ОТ-ПЦР)
+rubella	краснуха
+S
+Salm-net	Сеть надзора за сальмонеллезом
+salmonellosis	сальмонеллёз
+sample	образец, проба; выборочная совокупность, выборка (стат.)
+sample size	размер выборки
+sampling	взятие проб; выборка
+sampling bias	систематическая ошибка вследствие отбора
+sampling fraction	часть выборки
+SARS (severe acute respiratory syndrome)	ТОРС (тяжелый острый респираторный синдром)
+scabies	чесотка
+scarlet fever	скарлатина
+schedule	календарь (прививок), план, график
+scientific quality	научное качество
+screening	скрининг; обследование
+screening method	метод скрининга
+seasonal flu	cезонный грипп
+seasonal occurrence, seasonality	сезонность
+seasonal variation	сезонные изменения; сезонные колебания
+seasonality	сезонность
+second line drug	препарат второго ряда
+secondary vaccine failure	вторичная вакцинальная неудача
+self-reported	самостоятельно сообщенные
+senior medical officer	старший врач
+senior officer	старший специалист (сотрудник)
+sensitive-intermediate-resistant (SIR) categorization	категоризация чувствительности на: чувствительный-промежуточный-устойчивый
+sensitivity	чувствительность
+sensitivity analysis	анализ чувствительности
+sentinel site	пункт дозорного эпиднадзора
+sentinel surveillance	дозорный эпиднадзор; контрольно-выборочный эпиднадзор
+sepsis	сепсис
+septic	септический
+septicaemia	септицемия
+sequela	последствие; осложнение (болезни)
+sequela (pl. sequelae)	последствие; остаточное явление
+sequencing	ceквенирование
+seroconversion	сероконверсия
+serologic response	серологический ответ; серологическая реакция
+serologic status, serostatus	серологический статус
+serological surveillance, serosurveillance	серологический эпиднадзор (эпиднадзор за инфекционными болезнями на основе выявления серологическими методами иммунологических маркеров заболевания среди групп населения)
+seroprevalence	серопревалентность, распространенность серологических маркеров
+seroprevalence study	исследование серопревалентности
+serosurvey	серологический скрининг
+serotype	серотип
+serotype specific antisera	типоспецифические антисыворотки
+serum sample	образец сыворотки
+serum, pl. sera	сыворотка
+severe acute respiratory syndrome (SARS)	тяжелый острый респираторный синдром (ТОРС)
+severe illness	тяжелая форма заболевания
+sexual intercourse	половой акт
+sexual transmission	передача половым путем
+sexually transmitted disease (STD)	заболевание, передаваемое половым путем (ЗППП)
+sexually transmitted infection (STI)	инфекция, передаваемая половым путем (ИППП)
+Shigella flexneri	шигелла Флекснера
+Shigella sonnei	шигелла Зонне
+shigellosis	шигеллёз, дизентерия
+shingles	опоясывающий герпес; опоясывающий лишай
+short-term professional	временный сотрудник
+side effect	побочный эффект
+sign test	критерий знаков
+significance level	уровень значимости
+significance test	критерий для проверки статистических гипотез
+significant	значимый (статистически)
+simple linear regression	простой линейный регрессионный анализ
+single blind method	простой слепой метод
+single genome analysis	анализ индивидуальных геномов
+single-dose vial	однодозовый флакон
+single-use syringe	одноразовый шприц
+SIR categorization (sensitive-intermediate-resistant)	категоризация чувствительности на: чувствительный-промежуточный-устойчивый
+skewness	асимметрия
+smallpox	натуральная оспа
+smallpox vaccine	противооспенная вакцина
+smear	мазок
+smoothed	сглаженный
+smoothed monthly use	сглаженные показатели ежемесячного применения
+somatic	соматический
+SOP (standard operating procedures)	СОП (стандартные операционные процедуры)
+spacing of vaccine, vaccine spacing	интервалы между введением доз вакцины
+specialist in infectious diseases	инфекционист
+speciality	специальность, специализация
+specific immunity	напряженность иммунитета
+specificity	специфичность
+specimen	проба; образец
+specimen carrier	термосумка для транспортировки проб
+specimen-based data	результаты исследования пробы (образца) материала
+spot map	точечная карта
+spotted fever	сыпной тиф
+SPSS (Statistical Package for Social Sciences)	пакет статистических программ SPSS
+Statistical Package for the Social Sciences (SPSS)	пакет статистических программ для социальных наук (SPSS)
+SSI (Statens Serum Insitut, Denmark)	Государственный институт сывороток, Дания
+SSI (surgical site infection)	инфекция операционной раны; инфекция в области хирургического вмешательства
+stakeholder	заинтересованная сторона
+standard case definition	стандартное определение случая (заболевания)
+standard deviation	стандартное отклонение
+standard disposable syringes, conventional disposable syringes	стандартные одноразовые шприцы
+standard error of the mean	стандартная ошибка средней
+standard operating procedures (SOP)	стандартные операционные процедуры (СОП)
+start-up team	инициативная группа
+State Agency ”Public Health Agency” (Latvia)	Государственное Агенство "Агенство общественного здоровья" (Латвия)
+state epidemiologist	государственный эпидемиолог (в cеверных странах); главный эпидемиолог
+Statens Serum Insitut (SSI, Denmark)	Государственный институт сывороток (Дания)
+statistical power	статистическая мощность (исследования)
+statistical significance	статистическая значимость
+statistical test	статистический критерий
+STD (sexually transmitted disease)	ЗППП (заболевание, передаваемое половым путем)
+steam autoclaving	автоклавирование, стерилизация паром
+sterilizables	стерилизуемый инструментарий
+sterilizables	стерилизуемый инструментарий
+sterilizer drum	стерилизационный барабан; бикс
+STI (sexually transmitted infection)	ИППП (инфекция, передаваемая половым путем)
+sting (insect)	укус (насекомого)
+stockpile	резервный запас
+stockpiling	формирование резервных запасов
+stockpiling	формирование резервных запасов
+storage	хранение
+strain	штамм
+stratified analysis	стратификационный анализ
+Student's t-test	t-критерий Стьюдента
+study design	план исследования; структура исследования
+study population	исследуемая группа населения
+study protocol	протокол исследования
+study sample	выборка исследования
+subcutaneous administration	подкожное введение (препарата)
+substitution treatment	заместительная терапия
+sudden infant death syndrome (SIDS)	синдром внезапной младенческой смерти (СВМС)
+summary	краткое изложение; резюме
+supplemental immunization activities	дополнительные мероприятия по иммунизации
+suppression	подавление
+surface antigen	поверхностный антиген
+surgery	хирургия, хирургическое вмешательство, операция
+surgical site	место операционной раны; место хирургического вмешательства
+surgical site infection (SSI)	инфекция операционной раны; инфекция в области хирургического вмешательства
+surveillance	надзор; эпиднадзор
+surveillance data	данные эпиднадзора
+Surveillance of Tuberculosis in Europe (EuroTB)	Европейская сеть надзора за туберкулезом (ЕвроТБ)
+surveillance report	отчет по эпиднадзору
+surveillance strategy	стратегия эпиднадзора
+surveillance, concomitant	надзор, сопутствующий
+survival analysis	анализ выживаемости
+survival curve	кривая выживаемости
+susceptibility	восприимчивость, подверженность
+susceptible	восприимчивый, чувствительный, подверженный
+suspected adverse events	предполагаемые побочные явления
+suspected case	случай, подозрительный на инфекцию; случай предполагаемой инфекции
+sustainability	устойчивость; стабильность
+Swedish Institute for Infectious Disease Control	Шведский институт контроля инфекционных заболеваний
+swine flu	свиной грипп
+syphilis	сифилис
+syringe	шприц
+systematic error	систематическая ошибка
+systematic review	систематический обзор
+systemic infection	системная инфекция
+systemic sepsis	системный сепсис
+SYSVAK (Norwegian Childhood Vaccination Register)	Норвежский регистр вакцинации детей
+T
+taeniarhynchosis	тениаринхоз
+taeniasis	тениоз
+tally sheet	учетная форма (при вакцинации)
+target age group	целевая возрастная группа (населения)
+TB (tuberculosis)	ТБ (туберкулез)
+T-cell, thymus-derived lymphocyte	Т-клетка
+technical system for storing/accessing data	система для хранения/доступа к данным
+territorial directorate	территориальное управление
+tertiary care hospital	высокоспециализированная больница
+tertiary health care	третичное здравоохранение; третичное звено здравоохранения
+tertiary prevention	третичная профилактика
+test accuracy	точность теста
+test kit	тест-система
+test system	тест-система, тест-набор
+tetanus	столбняк
+tetanus toxoid (TT)	столбнячный анатоксин (СА)
+tetravalent (vaccine)	четырехвалентная (вакцина)
+thiomersal (preservative)	тиомерсал/ мертиолят (консервант)
+third generation antibiotic	антибиотик третьего поколения
+threat to the treatment of infection	угроза эффективности лечения инфекций
+throat swab	мазок из зева
+thymine (T)	тимин (Т)
+tick-borne encephalitis	клещевой энцефалит
+time series analysis	анализ временных рядов
+tissue culture	культура ткани
+tissue specimen	гистологический препарат
+tolerance	толерантность, терпимость; переносимость
+toxigenecity	токсигенность
+toxocariasis	токсокароз
+toxoid	токсоид, анатоксин
+toxoplasmosis	токсоплазмоз
+transcriptase	транскриптаза
+transfusion recipient	реципиент крови
+transmission	передача (инфекции)
+transmission mode	механизм передачи
+transmission route	путь передачи
+treat	лечить
+trichinellosis	трихинеллез
+trichocephalosis	трихоцефалёз
+trichophytosis	трихофитоз
+trimmed mean	обрезанная средняя арифметическая
+true positive	истинно положительный
+true prevalence	истинная распространенность
+TT (tetanus toxoid)	СА (столбнячный анатоксин)
+tuberculosis (TB)	туберкулез (ТБ)
+tuberculosis pulmonary	туберкулёз лёгких, легочный туберкулез
+tuberculosis respiratory	туберкулез органов дыхания
+tuberculosis with extensive drug resistance (XDR-tuberculosis)	туберкулез с широкой лекарственной устойчивостью (ШЛУ-туберкулез)
+tuberculosis with multi-drug resistance (MDR-tuberculosis)	туберкулез с множественной лекарственной устойчивостью (МЛУ-туберкулез)
+tuberсulin skin test	туберкулиновая кожная проба
+tularemia	туляремия
+type I error (alpha-error)	ошибка первого рода (типа)
+type II error (beta-error)	ошибка второго рода (типа)
+typhoid fever	брюшной тиф
+typhus	сыпной тиф
+U
+UNAIDS (Joint United Nations Programme on HIV/AIDS)	ЮНЭЙДС (Объединенная программа ООН по ВИЧ/СПИД)
+uncover (patient, disease, infection)	выявить (больного, заболевание, инфекцию)
+underdiagnosed	нераспознанный; недиагностированный
+underdiagnosis	гиподиагностика
+underlying medical condition	фоновое заболевание
+UNICEF (United Nations Children's Fund)	ЮНИСЕФ (Детский фонд Организации объединенных наций)
+unidimentional alternative distribution	одномерное альтернативное распределение
+uniform reporting	единая система учета, единый учет
+unique identifier	индивидуальный идентификационный номер
+United Nations Children's Fund (UNICEF)	Детский фонд Организации объединенных наций (ЮНИСЕФ)
+univariate analysis	одномерный анализ
+Universal Childhood Immunization	всеобщая иммунизация детей
+updated	уточненный; обновленный; соответствующий последним данным
+urgent measure	неотложная мера
+urinary catheter	мочевыводящий катетер
+urinary tract infection	инфекция мочевыводящих путей
+urticaria	крапивница
+V
+vaccination	вакцинация
+vaccination card, immunization card, immunization record	прививочная карта; карта профилактических прививок
+vaccination certificate	свидетельство о вакцинации (прививках), сертификат профилактических прививок
+vaccination coverage	охват прививками (иммунизацией)
+vaccination coverage (rate)	охват прививками (показатель)
+vaccination failure	вакцинальная неудача
+vaccination history	прививочный анамнез
+vaccination programme	календарь профилактических прививок
+vaccination record	регистрация прививок, форма для учета прививок
+vaccination schedule, immunization schedule	календарь (профилактических) прививок
+vaccination status	прививочный статус
+vaccine administration	введение вакцины
+vaccine, anthrax	вакцина сибиреязвенная
+vaccine composition	состав вакцины
+vaccine effectiveness	эффективность вакцинации (в популяции)
+vaccine efficacy	эффективность вакцины; действенность вакцины (сокращение заболеваемости среди людей, получивших вакцину, в сравнении с заболеваемостью среди невакцинированных. Измеряется при клинических испытаниях вакцины)
+vaccine handling	обращение с вакциной
+vaccine induced	вакциноиндуцированный
+vaccine preventable diseases	вакциноуправляемые инфекции; управляемые инфекции; инфекции, предупреждаемые путем вакцинопрофилактики
+vaccine reaction	реакция на вакцину
+vaccine reactogenecity	реактогенность вакцины
+vaccine requirement	требование к вакцине
+vaccine safety	безопасность вакцины
+vaccine security	гарантия обеспеченности вакцинами
+vaccine spacing, spacing of vaccine	интервалы между введением доз вакцины
+vaccine uptake	охват прививками
+vaccine wastage factor	фактор, вызывающий потерю вакцины
+vaccine-associated	вакциноассоциированный (связанный с вакциной)
+vaccine-derived poliovirus	полиовирус вакцинного происхождения (ПВВП); полиовирус, ассоциированный с вакциной
+vaccine-induced immunity	поствакцинальный иммунитет
+validity	достоверность
+Vancouver regulations	Ванкуверские правила
+variable	переменная
+variance	дисперсия
+varicella	ветряная оспа
+variola; smallpox	натуральная оспа
+vector	переносчик (возбудителя инфекции)
+vector-borne disease	трансмиссивная болезнь
+vehicle of transmission	фактор передачи
+verotoxigenic Escherichia coli infection (VTEC)	инфекция, вызываемая веротоксин - продуцирующей E. coli
+vertical transmission	вертикальный путь передачи, передача вертикальным путем
+vial	флакон; ампула
+vial presentation	количество доз препарата во флаконе
+viral haemorrhagic fever	вирусная геморрагическая лихорадка
+viral haemorrhagic fever with renal failure (Nephropathia epidemica)	вирусная геморрагическая лихорадка с почечным синдромом (с почечной недостаточностью)
+viral hepatitis A, B, C, D, E, F	вирусный гепатит А, В, C, D, E, F
+viral infectivity	вирусофорность
+viral load	вирусная нагрузка
+viremia	виремия
+virology	вирусология
+virulence	вирулентность
+virulence gene	ген вирулентности
+virus genome	геном вируса
+virus replication	репликация (воспроизведение) вируса
+virus reservoir	резервуар для вируса
+virus-induced response	иммунный ответ на проникновение вируса
+VTEC (verotoxigenic Escherichia coli infection)	инфекция, вызываемая веротоксин - продуцирующей E. coli
+vulnerable group	уязвимая группа, группа риска
+W
+waning immunity	снижение уровня иммунитета
+wastage	потери
+waste	отходы
+waste disposal	утилизация отходов
+waste processing	обезвреживание отходов; обработка обходов
+waterborne infections	инфекции, передаваемые через воду
+Waterhouse-Friderichsen syndrome (WFS)	синдром Уотерхауза-Фридериксена
+West Nile fever	лихорадка Западного Нила
+WHA (World Health Assembly)	ВАЗ (Всемирная ассамблея здравоохранения)
+WHO (World Health Organization)	ВОЗ (Всемирная организация здравоохранения)
+WHO EURO (World Health Organization Regional Office for Europe)	Европейское региональное бюро ВОЗ (Европейское региональное бюро Всемирной организации здравоохранения)
+WHO IHR contact point	контактный пункт ВОЗ по ММСП
+WHO outbreak verification list	список верификации вспышек ВОЗ
+whole-cell vaccine	цельноклеточная вакцина
+whooping cough, pertussis	коклюш
+window period (of infection)	"период окна" (период, когда вирус в организме уже есть, а антитела ещё не выработаны в достаточном количестве и не обнаруживаются тест-системами)
+World Health Assembly (WHA)	Всемирная ассамблея здравоохранения (ВАЗ)
+World Health Organization (WHO)	Всемирная организация здравоохранения (ВОЗ)
+World Health Organization Regional Office for Europe (WHO EURO)	Европейское региональное бюро Всемирной организации здравоохранения (ЕВРО ВОЗ)
+wound botulism	раневой ботулизм
+X
+XDR	широкая лекарственная устойчивость (ШЛУ)
+XDR tuberculosis (tuberculosis with extensive drug resistance)	ШЛУ-ТБ (туберкулез с широкой лекарственной устойчивостью)
+X-ray confirmed pneumonia	рентгенологически подтвержденная пневмония
+X-ray diagnosis	рентгенологическая диагностика
+x-ray test	рентгенологическое исследование
+Y
+Yates's correction	поправка Йейтса (на непрерывность)
+yellow fever	желтая лихорадка
+yersiniosis	иерсиниоз
+Z
+zoonosis	зооноз
+zoonotic	зоонозный
+zootoxin	зоотоксин
+zoster	опоясывающий лишай
+zymosis	зимоз; ферментативное расщепление

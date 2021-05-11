@@ -1,0 +1,230 @@
+ENGLISH
+ПЕРЕВОД
+belongings	имущество
+portion	приданное
+fortune	состояние
+stuff	вещи
+fixings	принадлежности
+furniture	мебель
+aquarium	аквариум
+armchair	кресло
+armchair-sofa	кресло-диван
+bed	кровать
+bedside-table	тумбочка
+bench	скамейка
+bookcase	книжный шкаф
+buffet	буфет
+chair	стул
+cornice	карниз
+cot	кроватка
+couch	кушетка
+cradle	колыбель, люлька
+cuppoard	кухонный шкаф
+curbstone	тумба
+desk	парта
+divan	диван
+door	дверца
+hammock	гамак
+jalousie	жалюзи
+kitchen cosy nook	кухонный уголок
+lamp shade	абажур
+locker	комод
+matress	матрац
+mirror	зеркало
+pad	пуфик
+rocker	кресло-качалка
+safe	сейф
+screen	ширма
+shelf	полка
+sideboard	сервант
+sofa	софа
+soft furniture	мягкая мебель
+stool	табурет
+table	стол
+three-leaved mirror	трельяж
+vase	ваза
+wardrobe	гардероб
+children's goods	детские товары
+cot	кроватка детская
+dummy	соска
+nipple	соска на бутылке
+pacifier	пустышка
+rattle	погремушка
+pots and pans	кухонная посуда
+baking sheet	форма для выпечки
+bank	банка
+bolter	сито
+bottle	бутылка
+brazier	мангал
+bucket	ведро
+butt	бочка
+butter dish	масленка
+chopsticks	палочки для еды
+coffe-pot	кофейник
+colander	дуршлаг
+cooper	котел
+corkscrew	штопор
+cup	чашка
+dish	блюдо
+fork	вилка
+frying pan	сковорода
+glass	стакан
+grater	терка
+herring-dish	селедочница
+jug	кувшин
+kettle	чайник
+knife	нож
+ladle	ковш, половник
+lid	крышка
+mug	кружка
+napkin	салфетка
+pepper-pot	перечница
+plate	тарелка
+pot	горшок
+pressure cooker	скороварка
+rolling pin	скалка для теста
+salad-dish	салатник
+salt cellar	солонка
+saucepan	кастрюля
+saucer	блюдце
+scoop	черпак
+skewer	шампур
+spoon	ложка
+sugar bowl	сахарница
+support	подставка
+tall wine glass	фужер
+teapot	чайник для заварки
+tea-strainer	ситечко
+thermos	термос
+tin	жестяная банка
+tray	поднос
+trowel	лопатка
+vase	ваза
+wine-glass	рюмка
+inventory	инвентарь
+air freshener	освежитель
+basin	таз
+besom	веник
+broom	метла
+brush	щетка
+camber-pot	горшок ночной
+clock	часы
+clothes-brush	щетка для одежды
+clothes-pin	прищепка
+dustpan	совок
+flasket	корзина для белья
+fry brush	мухобойка
+hanger	вешалка
+hangers	плечики
+pot flower	горшок цветочный
+rug	коврик
+step-ledder	стремянка
+swap	швабра
+heater and lighting facilities	обогреватель, светильник
+bulb	лампочка
+candle	свеча
+candlestick	подсвечник
+chandelier	люстра
+electric fire	камин электрич.
+flash-light	фонарик
+lamp	светильник, лампа
+lamp-bracket	бра
+lantern	фонарь
+match	спичка
+night-lamp	ночник
+radiator	радиатор, батарея
+socket	розетка
+stove	печь
+switch	выключатель
+furnishings	бытовой прибор
+blender	Блендер
+bottle-opener	открывалка
+circling-irons	щипцы для волос
+coffee maker	кофеварка
+coffee-grinder	кофемолка
+combine	комбайн
+conditioner	кондиционер
+dish-washing machine	посудомойка
+drawing out	вытяжка
+electrolighter	электрозажигалка
+fridge	холодильник
+gas-stove	плита газовая
+geyser	колонка(водонагревательн.)
+hair-drier	фен
+immersion heater	кипятильник
+iron	утюг
+juice squeezer	соковыжималка
+machine washing	машина стиральная
+meat grinder	мясорубка
+mixer	миксер
+oven	духовка
+oven microwave	печь микроволновая
+player	проигрыватель
+radio tape recorder	магнитола
+radio receiver	радиоприемник
+sewing-machine	швейная машинка
+tape recorder	магнитофон
+TV set	телевизор
+vacuum cleaner	пылесос
+ventilator	вентилятор
+video recorder	видеомагнитофон
+Walkman	плейер
+linen	белье
+bed-clothes	постельное белье
+bedding	постель
+blanket	одеяло
+blanket cover	пододеяльник
+coverlet	покрывало
+napkin	салфетка
+pillow	подушка
+sheet	простыня
+swaddling band	пеленка
+table-cloth	скатерть
+tea-cloth	салфетка чайная
+tea-towel	полотенце кухонное
+towel	полотенце
+turkish towel	полотенце махровое
+stationery	канцтовары
+alidad	транспортир
+badge	бейдж, значок
+ball-point pen	шариковая ручка
+blot	клякса
+calling card	визитка
+cap	колпачок
+chalk	мелок
+clip	зажим
+commonplace-book	общая тетрадь
+compass	циркуль
+copy-book	школьная тетрадь
+core	стержень
+crayon	цветной мелок
+diary	дневник
+(daily)diary	ежедневник
+drawing-pad	альбом для рисования
+drawing-pin	кнопка
+eraser	ластик
+folder	папка
+folder-file	папка-файл
+globe	глобус
+glue	клей
+ink	чернила
+marker	маркер
+notebook	блокнот
+organizer	органайзер
+pad	блокнот
+pallette	палитра
+paper clip	скрепка
+pen(holder)	ручка
+pencil	карандаш
+pencil-box	пенал
+pen-sharpener	точилка
+plasticine	пластилин
+puncher	дырокол
+ruler	линейка
+Scotch tape	скотч
+soft-tip pen	фломастер
+stapler	степлер
+stroke	штрих
+triagle	треугольник
+tweezers	пинцет
+writingbook	тетрадь

@@ -1,0 +1,115 @@
+РУССКОЕ НАЗВАНИЕ
+ПЕРЕВОД
+игрок	player
+вратарь / голкипер	goal keeper
+защитник	back
+полузащитник / хавбек	halfback
+чистильщик	sweeper
+нападающий / форвард	forward
+центральный нападающий / центрфорвард	centre forward
+левый нападающий	left wing
+правый нападающий	right wing
+плеймейкер	playmaker
+игрок основного состава	a player in the team
+запасной игрок	substitute
+сидеть в запасе	to be on the bench
+судья в поле / рефери	referee
+главный судья	main referee
+боковой / судья на линии / лайнсмен	linesman
+свисток	whistle
+начало игры	the kick off
+первый тайм	the first half
+перерыв	half time
+второй тайм	the second half
+добавленное время	added time
+финальный свисток	the final whistle
+мяч	the ball
+ворота	the goal
+штанга	the goalpost
+перекладина	the crossbar
+крестовина	the top angle
+сетка	the net
+мяч в сетке	the ball is in the net
+центр поля	the centre spot
+центральная линия	the centre line
+штрафная площадка	the penalty area
+вратарская	the 6 yard box
+флажок	the flag
+аут	out
+мяч в ауте	the ball is out
+мяч в игре	the ball is in play
+вне игры / офсайд	offside
+гол	a goal
+забить гол	to score a goal
+нет гола	no goal
+пенальти / одиннадцатиметровый	penalty kick
+бить пенальти	to take a penalty
+бить штрафной	to take a free kick
+свободный удар	indirect free kick
+штрафной удар	free kick
+удар от ворот	a goal kick
+угловой удар	a corner
+подать угловой	to take a corner
+бросать из аута	to throw in
+вбрасывание	a throw in
+счёт	the score
+победа	victory
+поражение	a defeat
+ничья	a draw
+стенка	a wall
+стенка из пяти человек	a five-man wall
+рикошет	a deflection
+сделать навес / навесить	to bend the ball
+тактика	tactics
+тренировка	training
+разминка	warming-up
+тренировочный процесс	the training process
+техника	technique
+техническое мастерство	technical skill
+дриблинг	dribbling
+финт	a dummy
+отбор мяча	a tackle
+передача / пас	a pass
+передать мяч / дать пас	to pass
+играть персонально с / опекать	to mark someone
+взвинтить темп игры	to speed up the game
+прибавить скорости в игре	to speed up the game
+снизить темп игры	to slow down the game
+играть на контрактаках	to play counterattacking football
+играть в открытый футбол	to play open football
+играть на удержание счёта	to close the game down
+играть в нападении	to play attacking football
+играть в защите	to play defensively
+травма	an injury
+серьёзная травма	a serious injury
+лёгкая травма	a slight injury
+замена	a substitution
+нарушение правил	a foul
+предупреждение	a warning
+жёлтая карточка	a yellow card
+красная карточка	a red card
+удаление	a sending off
+удар	a kick
+прострел	a centre
+простреливать	to centre the ball
+удар головой	a header
+играть головой	to head the ball
+игра головой	heading the ball
+играть рукой	to handle the ball
+игра рукой	handball
+принять мяч на грудь	to chest the ball
+обработать мяч	to keep the ball
+ударить щёчкой	to kick with the inside of the foot
+ударить пыром / носком	to toe the ball
+ударить пяткой	to backheel
+ударить шведкой	to kick with the outside of the foot
+команда	team
+тренер	coach
+сборная страны	national team
+болельщик	a fan
+болеть за	to support
+чемпионат (России / Италии) по футболу	the (Russian / Italian) football championship
+премьер лига	the premier league
+первая лига	the first league
+чемпионат мира / кубок мира	the world championship / cup
+чемпионат / кубок Европы	the European championship / cup

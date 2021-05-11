@@ -1,0 +1,166 @@
+ENGLISH
+ПЕРЕВОД
+acid rain	кислотный дождь
+air	воздух
+alkalinity	щелочность
+atmosphere	атмосфера
+be threatened with extinction	быть под угрозой вымирания
+biodegradability	способность к биологическому распаду
+biosphere	биосфера
+blizzard	вьюга
+(to) bloom; blossom	расцветать
+bog	болото
+burdock	репейник
+by-product	побочный продукт
+carbon dioxide / co2	углекислый газ/двуокись углерода
+carbon monoxide	окись углерода
+catchment level	уровень водосбора
+chamomile	ромашка
+clay	глина
+сhlorine	хлор
+chop down	срубать, вырубать
+cloud	туча
+coast	берег
+shell; mussel	ракушка
+conservation of natural resources	охрана природных ресурсов
+crawfish	рак
+crones	крона
+decay; rot	гниль
+deforestation	обезлесение
+depletion	истощение
+desertification	опустынивание
+dirt	грязь
+ditch	канава
+diversion of flow of rivers	переброска рек
+downpour	ливень
+dragonfly	стрекоза
+drizzle	изморось
+drought	засуха
+dump	свалка
+dumping	захоронение, дампинг
+earth	земля
+ecosystem	экосистема
+effluent	сточные воды
+elements	стихия
+emissions	выходы/выбросы
+endangered species	исчезающий вид
+environmental сontamination earthquake cliff	загрязнение окружающей среды
+environmental emergency	чрезвычайная экологическая ситуация
+environmental protection	охрана окружающей среды
+flood; overflow river	разлив реки
+flooding	наводнение
+flook	стая
+flower	цветок
+foliage	листва
+forest	лес
+fossil fuel	ископаемое топливо
+frost	заморозок
+fume	дым, выхлоп
+fungus (fungi)	грибок (грибки)
+glade	поляна
+global environment facility (gef)	глобальный экологический фонд
+gloom	мрак, тьма
+grass	трава
+greenhouse effect	парниковый эффект
+green belt	полоса зеленых насаждений
+grove	роща
+habitat	место, среда обитания
+hazardous wastes	опасные отходы
+heat	жара
+herbicide	гербицид
+hill	холм
+humidity	влажность
+hurricane	ураган
+hydrocarbons	углеводороды
+ice	лед
+ice floe	льдина
+icy cold	стужа
+incineration	сжигание отходов
+island	остров
+lake	озеро
+landfill	свалка мусора
+list of endangered species	красная книга
+marsh	болото
+maximum allowable emissions	предельно допустимые выбросы
+meadow	луг
+mean daily sample	среднесуточная проба
+moon	луна
+moonrise	восход луны
+mountain ridge	горный хребет
+multiple use	комплексное использование (ресурсов)
+natural calamity	стихийное бедствие
+negligence	халатность
+nightingale	соловей
+noise pollution / standards	шумовое загрязнение/нормы шумового загрязнения
+non-point source of pollution	неточечный источник загрязнения
+occupational disease	профессиональное заболевание
+oil slick	нефтяная пленка (на воде)
+ozone depleting substances (ods)	озоноразрушающие вещества
+ozone hole	озоновая дыра
+ozone layer	озоновый слой
+peninsula	полуостров
+permafrost	вечная мерзлота
+pesticide	пестицид
+phenomenon	явление
+pine	сосна
+plain	равнина
+plant	растение
+plume	шлейф
+poacher	браконьер
+pollutant	загрязняющее вещество
+precipice	обрыв
+(p)reserve, sanctuary	заповедник
+prey upon	охотиться
+quality assurance / quality control (qa/qc)	обеспечение качества/контроль качества
+radioactive wastes	радиоактивные отходы
+ravine	овраг
+recycling	вторичное использование, рекуперация, рециркуляция
+reduce the threat	снижать угрозу
+relief	рельеф
+renewable energy	возобновляемая энергия
+reservoir	водоем
+resources	ресурс
+right in the sun	на солнцепеке
+ripen	созревать
+river	река
+rock	скала
+runoff	сток, отвод
+salinity	соленость, засоление
+sampling	отбор проб
+sand	песок
+sea	море
+sediment, precipitation	осадки
+sewage system	система очистки сточных вод
+sewage	стоки, нечистоты
+shrubbery	кустарник
+sky	небо
+sludge, slurry	осадок, ил, шлак
+snowdrift	сугроб
+soil	почва
+solid waste management	утилизация твердых отходов
+spider	паук
+spring	родник
+stalk	стебель
+star	звезда
+stone	камень
+stream	ручей
+stuffiness	духота
+sun	солнце
+sunrise	восход солнца
+sustainable development	устойчивое развитие
+taxidermy	изготовление чучел
+thermal pollution	тепловое загрязнение
+thicket	чаща
+thunder-storm	гроза
+timber	лесоматериалы
+toxic substance	токсическое вещество
+trunk	ствол
+unleaded petrol	неэтилированный бензин
+unrenewable resources	невозобновляемые ресурсы
+vegetation	растительность
+visual pollution	визуальное загрязнение окружающей среды
+wastes	отходы
+water abstraction	водозабор
+water quality criteria	критерии качества воды
+water / air pollution	загрязнение воды / воздуха
+wave	волна

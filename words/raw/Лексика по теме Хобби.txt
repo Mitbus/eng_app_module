@@ -1,0 +1,97 @@
+ENGLISH WORD
+ПЕРЕВОД
+aerography	аэрография
+aircraft modeling	авиамоделизм
+anime	аниме
+aquaria	аквариумистика
+backgammon	нарды
+ballroom dancing	бальные танцы
+basejumping	бейсджампинг
+basketball	баскетбол
+beading	бисероплетение
+berry	собирать ягоды
+billiards	бильярд
+bowling	боулинг
+break dance	брейк данс
+breeding animals	разводить животных
+cards	карты
+carving	резьба по дереву
+cinema	кино
+circus	цирк
+chat	общение в чате
+checkers	шашки
+chess	шахматы
+computer games	компьютерные игры
+crosswords	кроссворды
+collecting antiques	коллекционирование предметов старины
+collecting antique wine	коллекционирование антикварного вина
+collecting knives	коллекционирование ножей
+collecting pens	коллекционирование ручек
+collecting stamps	коллекционирование марок
+collecting vintage cars	коллекционирование ретро автомобилей
+crosswords	кроссворды
+cycling	кататься на велосипеде
+decoupage	декупаж
+diggerstvo	диггерство
+diving	дайвинг
+domino	домино
+draw	рисовать
+embroidery	вышивание
+equestrian sport	конный спорт
+feng shui	фэншуй
+fiddle	играть на скрипке
+fishing	рыбалка
+fitness	фитнес
+football	футбол
+gardening	заниматься садоводством
+go to restaurants	ходить в рестораны
+graffiti	граффити
+hockey	хоккей
+hunting	охота
+ikebana	икебана
+karting	картинг
+kitesurfing	кайтсёрфинг
+knitting	вязание
+latin american dances	латиноамериканские танцы
+learning foreign languages	изучение иностранных языков
+motorcycle racing	гонки на мотоцикле
+mountaineering	альпинизм
+mushrooming	собирать грибы
+music	музыка
+new acquaintances	новые знакомства
+oriental dance	восточные танцы
+origami	оригами
+paraplanerism	парапланеризм
+parkour	паркур
+photo	фотография
+play the guitar	играть на гитаре
+play the piano	играть на пианино
+play the accordion	играть на баяне
+reading	чтение
+rock climbing	скалолазание
+rollers	ролики
+running	бег
+Russian folk dances	русские народные танцы
+sing	петь
+scanwords	сканворды
+sculpture	скульптура
+shopping	шоппинг
+skateboarding	скейтбординг
+skiing	лыжи
+skydiving	прыжки с парашютом
+sledge	санки
+snowboarding	сноубординг
+snowmobile	снегоход
+steam-bath	баня
+swimming	плавание
+talking on telephone	разговаривать по телефону
+tattoo	татуировка
+tennis	теннис
+theatre	театр
+tourism	туризм
+volleyball	волейбол
+watch TV	Смотреть телевизор
+windsurfing	виндсёрфинг
+winemaking	виноделие
+writing poetry	писать стихи
+yoga	йога

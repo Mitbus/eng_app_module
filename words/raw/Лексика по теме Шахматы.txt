@@ -1,0 +1,29 @@
+Chess
+[ tʃes ]
+Шахматы
+chessboard	[ ˈtʃesbɔːd ]	шахматная доска
+chessboard square	[ ˈtʃesbɔːd skweə ]	клетка шахматной доски
+piece	[ piːs ]	шахматная фигура
+space	[ speɪs ]	поле / клетка (на доске)
+king	[ kɪŋ ]	король
+queen	[ kwiːn ]	королева
+bishop	[ ˈbɪʃəp ]	слон
+knight	[ naɪt ]	конь
+rook / castle	[ rʊk ] [ ˈkɑːsl̩ ]	ладья
+pawn	[ pɔːn ]	пешка
+move	[ muːv ]	ход
+check	[ tʃek ]	шах
+checkmate	[ ˈtʃekmeɪt ]	шах и мат
+stalemate	[ ˈsteɪlmeɪt ]	пат
+to take / to capture	[ tə teɪk ] [ tə ˈkæptʃə ]	забрать фигурку противника
+to castle	[ tə ˈkɑːsl̩ ]	рокироваться
+сastling	[ˈkɑːsl̩ ɪŋ ]	рокировка
+forking	[ ˈfɔːkɪŋ ]	вилка - положение, когда две или более фигуры одного игрока находятся под боем одной фигуры другого игрока (сделать вилку)
+to move	[ tə muːv ]	ходить
+diagonally	[ daɪˈæɡənəli ]	по диагонали
+to resign	[ tə rɪˈzaɪn ]	сдаваться
+your move!	[ jə muːv ]	твой ход!
+good move!	[ ɡʊd muːv ]	хороший ход!
+novice	[ˈnɒvɪs ]	начинающий, новичок
+open file	[ˈəʊpən faɪl ]	открытая позиция
+en passant	[ ən ˈpæsənt ]	взятие на проходе – пешка может ударить пешку соперника, если та перепрыгнула через битое поле.

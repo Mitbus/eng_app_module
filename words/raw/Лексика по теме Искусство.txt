@@ -1,0 +1,535 @@
+to practice an art	заниматься искусством
+abstract art	абстракционизм
+classical art	классическое искусство
+modern art	современное искусство
+primitive art	примитивизм
+graphic art	графическое искусство, графика
+plastic arts	пластическое искусство
+art school	художественное училище
+Art Nouveau	франц. стиль модерн (художественный и архитектурный стиль конца XIX - начала XX вв.)
+antique art	античное искусство
+folk art	народное искусство
+decorative art	декоративное искусство
+applied art	прикладное искусство
+art of building	зодчество
+art castings	художественное литье
+Graphic (black-and-white) art	искусство графики
+art is long, life is short посл.	жизнь коротка, искусство вечно
+Fine Arts	изобразительные искусства (музей изобразительных искусств имени С. Д. Эрьзи - the S. Erzya Museum of Fine Arts)
+(the) Academy of Arts	Академия художеств
+pictorial art	живопись
+Stone Age art	искусство Каменного Века
+Classical Greek	древнегреческий
+Byzantine	византийский
+Flemish	фламандский
+Gothic	готический
+the Renaissance period	эпоха Возрождения
+the Baroque age	эпоха барокко
+the Romantic era	эра Романтизма
+the Neo-Classicists	неоклассицисты
+the Itinerants	Передвижники
+Impressionism	импрессионисты
+The Symbolists	символисты
+Expressionism	экспрессионизм
+Cubism	кубизм
+Pop art	поп-арт
+acrylic painting	живопись акриловой краской
+bark painting	живопись на коре
+battle piece	батальная живопись
+caricature	карикатура
+ceremonial portrait	парадный портрет
+collage	коллаж
+drawing	рисунок
+easel painting	станковая живопись
+engraving	гравюра, эстамп
+family group	семейный портрет
+full-length portrait	портрет в полный рост
+genre bas	«низкий жанр», бытовой жанр
+genre painting	жанровая живопись
+historical painting	историческая живопись
+landscape	пейзаж
+marine / seascape	морской пейзаж
+miniature	миниатюра
+mosaics	мозаика
+mural	фреска, настенная живопись
+oil painting	картина маслом
+pastel picture	рисунок пастелью
+self-portrait	автопортрет
+sketch	набросок, этюд
+still life	натюрморт
+tapestry	гобелен
+wall / mural painting	настенная живопись
+water-colour	живопись акварелью
+master	великий художник, мастер
+old masters	cтарые мастера, особенно художники XVII-XVIII вв.; картины старых мастеров
+moderns	cовременные художники
+painter	живописец, художник
+artist	художник (в широком смысле слова)
+landscape painter	пейзажист
+portrait painter (portraitist)	портретист
+painter of sea-scapes	маринист
+still life painter	художник, пишущий натюрморты
+pastel(l)ist (pastel painter)	художник, рисующий пастелью
+black-and-white artist (a painter in black-and-white)	график
+colourist	художник-колорист
+dauber	плохой художник
+draughtsman (draftsman)	рисовальщик
+art dealer	маршан; тот, кто продает и покупает картины; торговец произведениями искусства
+colour-man	торговец красками
+art-lover	любитель искусства
+art-worker	художественный деятель
+avant-garde	авангард
+be in advance of one's time	опережать свое время
+be taught painter	выучиться на художника
+become famous overnight	стать известным за одну ночь
+break with the tradition	порвать с традицией
+canvas	картина, полотно
+capture the sitter's vitality, transient expression	передать энергию модели, мимолетное выражение лица
+conform to the taste of the period	соответствовать вкусу эпохи
+depict a person, a scene of common life, the mood of...	изображать человека, бытовую сцену, настроение
+develop one's own style of painting	выработать собственный стиль письма
+die forgotten and penniless	умереть в бедности и безызвестности
+do a painting	написать картину
+expose the dark sides of life	изображать темную сторону жизни
+fashionable artist	модный художник
+mature artist	зрелый художник
+nude model	обнаженная модель
+paint from nature, memory	писать с натуры / по памяти
+paint mythological, historical subjects	писать на мифологические, исторические сюжеты
+painting	1) живопись, 2) картина
+picture	1) картина, 2) фотография
+portrait/landscape painter	портретист / пейзажист
+portray people, emotions with moving sincerity/restraint	изображать людей, эмоции с трогательной искренностью / сдержанностью
+render, interpret the personality of...	передавать характер…
+reveal the person's nature	раскрыть характер
+self-taught artist	художник-самоучка
+specialize in portraiture, still life	специализироваться в написании портретов, натюрмортов
+his painterly talents	его талант к живописи
+complete command of colour	великолепное владение цветом
+the brush	искусство художника
+brushwork	манера художника накладывать краски кистью; манера письма
+creative work	творчество
+finished technique	отточенное мастерство
+to group	подбирать гармонично краски, цвета
+handling	умение художника владеть кистью
+verve	живость и яркость (описания); сила изображения, индивидуальность художника
+exquisite work	тонкое мастерство
+paint shop	изостудия
+studio	мастерская художника
+art exhibit	художественная выставка
+exhibit	экспонат; выставлять,экспонировать
+art exhibition	художественная выставка
+art gallery	художественная галерея
+a picture gallery	картинная галерея
+a picture show	выставка картин
+show	выставка
+one-man exhibition	персональная выставка
+private exhibition	частная выставка
+at the exhibition	на выставке
+exhibition halls (rooms)	выставочные залы
+loan exhibition	выставка картин, временно предоставленных владельцами для экспозиции (музеем или отделтным лицом)
+display	выставка; выставлять, показывать
+varnishing-day	день накануне выставки (когда художники могут подправить свои картины, покрыть их лаком); вернисаж
+opening day	вернисаж
+pictures hung on the line	картины, выставленные так, что центр картины находится на уровне глаз зрителя;
+brush	кисть
+canvas	холст
+chalk	мел
+charcoal	угольный карандаш
+colour box / palette	палитра
+crayon	цветной карандаш, мелок
+drapery	драпировка
+easel	мольберт
+enamel	эмаль, финифть
+encaustic	энкаустика
+frame	рама
+fresco	фреска, фресковая живопись
+gouache	гуашь
+ink	чернила
+India ink	тушь
+Indian ink	тушь
+lacquer	лак, глазурь
+liquid	1) жидкость 2) жидкий
+oil paint	масляная краска
+paintbox	коробка с красками
+panel	тонкая доска для живописи, панно
+pigment	пигмент
+tempera	темпера
+to charcoal	рисовать углем
+vehicle	растворитель
+watercolour	акварель
+sketch-book	альбом, тетрадь для рисования
+drawing-block	тетрадь для рисования
+easel	мольберт; The easel is a frame which supports the painting during its progress. - Мольберт - это подставка, на которой устанавливается картина во время работы над ней
+to adjust (set) an easel	поставить, укрепить мольберт
+easel-picture	картина на мольберте (во время рисования)
+He continued working on his easel-pieces.	Он продолжал работу над картиной, стоявшей на мольберте
+Canvas	холст, картина, полотно (о произведении искусства: фильме, картине и т.д.)
+to stretch canvas	натягивать холст
+frame	рама; вставлять в раму
+stretcher	подрамник, на который натягивают холст
+paint brush	кисть (для рисования)
+paint oil	олифа
+paint-box	коробка красок
+a box of paints	набор красок
+colour-box	ящик с красками
+a set of (oil) paints	набор (масляных) красок
+palette knife	мастихин
+colour pan	палитра (доска для смешивания красок)
+lacquer	лак
+solvent	растворитель;
+Paint 1.	1) а) рисование б) рисунок; 2) а) краска; окраска
+to dilute paint	разводить краску
+to mix paints	смешивать краски
+to scrape paint	соскабливать краску
+to spread paint evenly	ровно распределять краску
+to spray paint	распылять краску
+paint chips	краска облетает
+paint peels	краска сходит, слезает
+Paint	б) (pl.) краски
+a box of paints	ящик с красками
+Paint 2.	а) писать красками
+to paint a portrait in oil(s)	написать портрет масляными красками
+paint from nature	рисовать/писать с натуры; Syn: depict, portray, delineate
+Paint	б) заниматься живописью
+Paint	в) расписывать красками (дом, стену, окно и т.д.)
+to paint a wall	расписать стену
+paint in	вписывать красками; The trees in the background were painted in later by a different artist. Деревья на заднем плане были дорисованы другим художником
+Paint	Syn: colour
+Sketch 1.	эскиз, набросок
+to draw, make a sketch	сделать набросок
+a composite sketch	сложный эскиз
+a rough sketch	предварительный набросок; Syn: drawing, draft, outline
+Sketch 2.	1) рисовать эскиз, делать набросок; I always sketch with pen and paper.Я всегда делаю свои наброски на бумаге ручкой
+Sketch	2) описывать в общих чертах
+preliminary sketch	предварительный набросок
+outline/study	набросок; эскиз / этюд
+to draw up an outline, to make an outline	сделать эскиз, набросок
+bare, broad, general, rough outline	приблизительный набросок; Syn: sketch, draft
+Painting	1) живопись
+Painting	а) вид изобразительного искусства
+finger painting	рисование пальцами (о маленьких детях, рисующих масляными красками)
+Flemish painting	фламандская живопись
+hard-edge painting	амер. "живопись четких контуров"
+wall painting	амер. настенная живопись (традиционный элемент пейзажа больших городов)
+water-color painting	акварельная живопись
+oil painting	1) живопись масляными красками; 2) картина, написанная масляными красками
+Painting	б) (произведение) роспись; изображение, картина
+to authenticate a painting	устанавливать подлинность картины
+to do a painting	рисовать картину
+to restore a painting	реставрировать картину
+a painting depicts, portrays, shows	картина изображает, представляет
+Painting	в) занятие живописью; рисование
+to be taught painting	обучаться живописи; Two hobbies she really enjoyed, painting and gardening. У нее было два занятия, которые ей по-настоящему нравились: рисование и садоводство. Syn: coloring
+Painting	2) окраска, малярное дело
+painting and decorating	малярные работы
+mural painting	стенная живопись
+dip painting	окрашивание окунанием
+Battle painting	батальная живопись
+Genre painting	жанровая живопись
+Anecdotal painting	разновидность жанровой живописи
+Historical painting	историческая живопись
+Landscape painting	пейзажная живопись
+Monumental painting	монументальная живопись
+Mural painting	фресковая живопись
+“plain-air” painting	пленэристическая живопись
+plain-air technique	пленэрная живопись
+in the open air	на открытом воздухе (на пленэре)
+“plain air” (фр. plein air)	пленэр (живопись на открытом воздухе вне мастерской)
+portraiture	портретная живопись; собир. портреты
+water-color painting	акварельная живопись
+Colour 1.	n; живопись color 1) цвет (обычно яркий), оттенок, тон, колер
+out of colour	выцветший, выгоревший
+(Antonym) without colour	бесцветный; перен. "серый", обыкновенный, ничем не примечательный, незаметный
+Colour	2) краска, красящее вещество, пигмент; This one is painted in dark colours. Эта картина нарисована темными красками
+colouring	1) окрашивание, раскрашивание; 2) окраска, расцветка, цвет
+Colour 2.	v.; живопись color иметь или придавать цвет; красить, раскрашивать; окрашивать
+Depict	изображать на картине, рисовать. The artist depicted him strolling through a garden. Художник изобразил его гуляющим в саду. Syn: picture, portray, paint
+Portray	рисовать портрет; изображать (кого-л.)
+Portrayal	рисование портрета, изображение
+Delineate	1) набрасывать, чертить, намечать. The exact position is delineated on the plan. На плане отмечена точное местоположение
+Delineate	2) (переносное значение) схематически изображать (то, что должно быть создано); делать набросок; набрасывать. Our laws and the whole constitution of our state having been thus delineated. Таким образом, сделан предварительный проект наших законов и конституции в целом
+Deliniation	изображение
+Draw	чертить, рисовать, набрасывать рисунок; The assignment is to draw a horse in motion. Задание - сделать набросок бегущей лошади
+to draw in pen and ink	рисовать тушью
+Drawing	1) рисование; черчение; 2) рисунок, набросок, эскиз (сделанный ручкой, карандашом или мелком); 3) чертеж
+to do, make a drawing	рисовать
+a freehand drawing	чертеж от руки
+a line drawing	чертеж; рисунок пером или карандашом
+Design	чертеж, эскиз, набросок; рисунок, узор; делать эскизы наброски, создавать узоры и т. п
+trace out	набрасывать (план, рисунок)
+dash	быстрый набросок; мазок; штрих; набрасывать краску на холст
+dot	точка; ставить точки, особая техника письма в живописи (не мазками, а точками так наз. пуантилизм)
+to block in	набрасывать (рисунок, схему). He blocked the picture in roughly. Он сделал набросок картины
+painter's paint/decorative paint	художественная краска
+water paint	водная краска
+flat paint/dull paint	матовая краска
+water-colour	1) обыкн. мн. акварель, акварельные краски 2) акварель (рисунок)
+oil-colours/ oil(s)	масляные краски
+gouache	гуашь
+crayon	цветной карандаш, цветной мелок, пастель; рисунок цветным карандашом, пастелью
+hue	краска, оттенок, тон, цвет
+colour tone	оттенок
+tint	краска, оттенок, тон, в котором преобладает белый цвет (в картине)
+half-tint	полутон
+primary colours/ simple colours/ fundamental colours	основные цвета
+cold and warm tones	холодные и теплые тона
+semi-tones	полутона
+low-toned pictutres	картины, написанные в смягченных тонах
+subdued tones	приглушенные тона
+broken tones	неровные тона
+flesh colour	телесный цвет
+pastel	пастель
+light and shade	свет и тени
+pastel	пастель
+pastel shades	пастельные тона, оттенки
+to paint in pastel	рисовать пастелью
+pastel blue	пастельно-голубой, нежно-голубой
+play of light	игра света
+line and colour	рисунок и краска
+colour scheme	палитра (колорит) художника
+palette	палитра; колорит художника; стирать уже написанную часть картины мастихином
+coloration	колорит (в живописи)
+colour scale/ scale	живоп. цветовая гамма
+colour match	цветовое согласование; цветовое уравнивание
+relations of tone and colour	соотношение тона и цвета
+colour rendition	спец. цветопередача, верность воспроизведения цвета
+effect (часто pl)	впечатление от сочетания красок на картине
+division of colours	приемы дивизионизма (живопись раздельными мазками)
+the play of colours	игра (переливы) красок
+riot of colours	изобилие, богатство красок
+intensity	яркость, глубина (красок)
+saturation	насыщенность цвета в живописи
+colourful	красочный, яркий
+colourless	бесцветный, бледный
+colourlessness	тусклость
+art gallery	художественная галерея
+exhibit	экспонат
+exhibition	выставка
+art exhibition	художественная выставка
+one-man exhibition	персональная выставка
+permanent exhibition	постоянная выставка
+special exhibition	специальная выставка
+travelling exhibition	передвижная выставка
+exhibition about	выставка, посвященная…
+exhibition hall	выставочный зал
+exposition	экспозиция
+to display	выставлять
+to go to an exhibition	пойти на выставку
+to put on exhibition / stage an exhibition	устроить выставку
+accentuate something	подчеркнуть
+arrange symmetrically, asymmetrically, in a pyramid, in a vertical format	расположить (а)симметрично, в форме пирамиды, вертикально
+be scarcely discernible	едва различимый
+blend with the landscape	сливаться, сочетаться с пейзажем
+define the nearer figures more sharply	обозначить ближайшие фигуры более резко
+emphasize contours purposely	преднамеренно акцентировать контуры
+in the background	на заднем плане
+at the bottom	внизу
+in the foreground	на переднем плане
+in the left (right)-hand corner	в левом (правом) углу
+at the top	наверху
+indicate the sitter's profession	указывать на профессию модели
+perspective	перспектива
+place the figures against the landscape background	располагать фигуры на фоне пейзажа
+Picture	картина; рисунок
+a picture by Rubens	картина Рубенса
+to draw, paint a picture	рисовать, писать картину; изображать на картине, рисовать
+a piece of art	художественное произвдение
+art work	1. художественное произведение; 2. оригинал
+a work of art	произведение искусства
+piece	картина
+battle piece	батальная картина
+conversation piece	живоп. жанровая картина (изображающая группу людей (особ. членов семьи) за каким-л. обыденным занятием)
+life-size	размер в натуральную величину (о картинах, скульптурах)
+half-life size	в половину натуральной величины
+masterpiece	шедевр
+to create a masterpiece	создать шедевр
+enduring masterpiece	бессмертный шедевр
+scene	вид, пейзаж, картина
+scenery	пейзаж (всегда в ед.ч. и только о природе)
+landscape	пейзаж; ландшафт (вид живописи и картина, изображающая пейзаж)
+city-scape/townscape	городской пейзаж
+marina / sea piece/ water piece/sea-scape	картина, изображающая морской вид, морской пейзаж, марина
+still life	натюрморт
+flower piece	натюрморт с цветами
+fruit-piece	натюрморт с фруктами
+portrait	портрет
+self-portrait	автопортрет
+half-lengh portrait	поясной портрет
+full-lengh portrait	портрет во весь рост
+shoulder-lengh portrait	погрудный портрет
+knee-lengh portrait	портрет по колено
+group portrait	групповой портрет
+equestrian portrait	конный портрет
+miniature	миниатюра (вид живописи и небольшая картина, обычно портрет)
+caricature	карикатура
+reproduction	репродукция, копия
+art reproduction	художественная репродукция
+art print	художественная репродукция, иллюстрация
+prior art	прототип
+panel	тонкая доска для живописи; панно; длинная узкая картина
+fresco	фреска, фресковая живопись
+line art	штриховой рисунок
+black-and-white	рисунок пером
+art collection	коллекция произведений искусства
+daub	плохая картина, мазня; малевать
+highlights	самая светлая часть картины
+in the foreground	на переднем плане
+in the background	на заднем плане
+in the middle ground	на втором плане
+against a background	на фоне
+chaotic	хаотичный
+cheap	дешевый
+colourless daub of paint	бесцветная мазня
+crude	кричащий
+depressing	унылый, тягостный
+disappointing	печальный
+distinguished by a marvellous sense of colour and composition	отличается потрясающим чувством цвета и композиции
+exquisite piece of painting	утонченное произведение
+fake	подделка; подлог, фальшивка
+forgery	подделка, подлог, фальсификация, фальшивка
+gaudy	яркий, безвкусный
+lyrical	лиричный
+masterpiece	шедевр
+moving	трогательный
+obscure	мрачный, тусклый
+original	оригинальный
+poetic	поэтичный
+romantic	романтичный
+unintelligible	неразборчивый
+unsurpassed masterpiece	непревзойденный шедевр
+vulgar	вульгарный
+аbstract	абстрактный
+abundance	обилие, изобилие
+accuracy	точность
+affirmation	утверждение
+air	воздух
+animation	живость
+apotheosis	апофеоз
+arrangement	расположение
+at one stroke	мгновенно
+austere	суровый, строгий
+brilliance	яркость
+brushstroke	мазок
+candid glimpses	бледные отблески
+colourful	яркий
+colouring	колорит
+combination of colours	сочетание цветов
+complete command of colours	великолепное владение цветом
+conception	замысел
+cone	конус
+craftsmanship	мастерство
+crystal-clear	чистый, прозрачный, ясный
+cuboid	кубический
+decorative	декоративный
+decorativeness	декоративность
+delicate colours	утонченные цвета
+delineation	очертание, эскиз
+density	плотность, густота
+design	композиция
+diffused light	рассеянный свет
+drama	эффект, нечто броское, эффектное
+effect	эффект, нечто броское, эффектное
+emphasis	подчеркивание, акцент
+expressiveness	выразительность
+exquisite	утонченный
+facial expression	выражение лица
+finished technique	отточенная техника
+fluid, fluent	плавный
+gamut	гамма
+geometrical abstraction	геометрическая абстракция
+harmony of colours	гармония цветов
+highlights	яркие участки изображения
+homogeneous form	однородная форма
+hyperbole	гипербола, преувеличение
+immediacy	непосредственность
+individual traits	индивидуальные черты
+infinite	безграничный
+intensity	глубина красок
+intricate	запутанный, замысловатый
+life-asserting art	жизнеутверждающее искусство
+light and shade	светотень
+line	линия
+luminous	прозрачный, светлый
+message	идейное содержание
+original	1) оригинал 2) оригинальный
+out of value	слишком темное или слишком светлое
+personification	олицетворение
+primary colours (red, blue, yellow)	основные цвета
+projection	проекция, отображение
+pure, vivid, brilliant, intense	чистые, яркие, насыщенные краски
+soft, delicate colours	мягкие, приглушенные тона
+range of colours	гамма цветов
+reproduction	репродукция
+riot of colours	богатство красок
+saturation	насыщенность
+secondary colour	сложный цвет
+semi-tones	полутона
+silhouette	силуэт
+simplicity	простота
+skill	искусство, умение
+sphere	сфера
+spirituality	одухотворенность
+splashes of colour	яркие краски
+subdued colours	приглушенные краски
+subject	сюжет в живописи
+subject matter	тема
+texture	текстура
+to acquire	овладеть
+to affect	волновать
+to anticipate	предвосхищать
+to appeal	привлекать, влечь, взывать
+to attain	достигать
+to be silhouetted against	вырисовываться на фоне
+to catch, capture, seize	схватить, передавать
+to command attention	завладеть вниманием
+to convey	передавать
+to depict	изображать
+to evoke	вызывать
+to execute	исполнять
+to fade	блекнуть
+to frame	обрамлять
+to glorify	прославлять
+to grip	захватывать внимание
+to penetrate	проникать, пронизывать
+to portray	изображать
+to produce impression	производить впечатление
+to radiate	излучать
+to render, represent	изображать
+to restore	восстанавливать
+to treat	трактовать
+tone	тон
+treatment	трактовка
+subtle / gaudy colouring	нежные / кричащие цвета
+to combine form and colour into harmonious unity	гармонично сочетать
+brilliant / low keyed colour scheme where....predominates	блестящая, сдержанная гамма, где преобладают
+muted in colour	приглушенные цвета
+delicacy of tones may be lost in a reproduction	утонченность цветов может быть утеряна в репродукции
+second-rate	второсортный, посредственный
+overrated	переоцененный, перехваленный
+revolting	отвратительный
+unremarkable	невыдающийся, обыкновенный, ничем не примечательный
+pathetic	жалкий, убогий, ничтожный
+crude	сырой, неотработанный, черновой, предварительный
+sketchy	эскизный (недоработанный, носящий незаконченный характер)
+poor	жалкий, ничтожный, низкого качества
+astonishing	удивительный, изумительный
+remarkable	замечательный, удивительный, выдающийся
+superb	великолепный, грандиозный, роскошный, превосходный
+brilliant	блестящий, выдающийся
+great	замечательный, великолепный
+outstanding	выдающийся
+second-rate	второсортный, посредственный
+overrated	переоцененный, перехваленный
+revolting	отвратительный
+unremarkable	невыдающийся, обыкновенный, ничем не примечательный
+pathetic	жалкий, убогий, ничтожный
+crude	сырой, неотработанный, черновой, предварительный
+sketchy	эскизный (недоработанный, носящий незаконченный характер)
+poor	жалкий, ничтожный, низкого качества
+astonishing	удивительный, изумительный
+remarkable	замечательный, удивительный, выдающийся
+superb	великолепный, грандиозный, роскошный, превосходный
+brilliant	блестящий, выдающийся
+great	замечательный, великолепный
+outstanding	выдающийся

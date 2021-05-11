@@ -1,0 +1,92 @@
+мебель
+furniture / piece of furniture
+абажур, плафон	lampshade
+бар (мебель)	drinks cabinet
+батарея отопления	radiator
+беспроводной Интернет	wireless Internet / Wi-Fi
+ваза	vase
+ванна	bath, bathtub, tub
+ведро	bucket
+весы	scales
+вешалка (для пальто)	coat stand
+вешалка (плечики)	coat hanger
+выключатель	light switch
+газовая плита	gas stove
+гардероб, платяной шкаф	wardrobe
+гладильная доска	ironing board
+дверной звонок	doorbell
+дверь	door
+двухместная кровать	double bed
+диван	sofa
+диван-кровать	sofa-bed
+занавески	curtains
+зеркало	mirror
+картина	picture / painting
+книжный шкаф	bookcase
+ковёр	carpet
+коврик	rug
+колонки (аудио)	loudspeakers
+комнатные растения	houseplants
+комод	chest of drawers
+компьютер	computer, PC, desktop
+кофейный столик	coffee table
+кофемолка	coffee mill
+кран (с водой)	tap
+кран с горячей водой	hot tap
+кран с холодной водой	cold tap
+кресло	armchair
+кровать	bed
+ламинат	laminated flooring
+лампа	lamp
+лампочка	lightbulb
+лампочка светодиодная	LED light (bulb)
+лампочка энергосберегающая	energy saving bulb
+магнитола	stereo
+метла, веник	broom
+микроволновая печь	microwave (oven)
+мусорное ведро	dustbin
+наволочка	pillowcase
+обои	wallpaper
+одеяло	blanket
+одноместная кровать	single bed
+окно	window
+пианино	piano
+письменный стол	desk
+планшетный компьютер	tablet computer / tablet PC
+пластиковое окно	plastic window
+плеер (МП3-плеер / Ди-Ви-Ди-плеер)	player (MP3 / DVD player)
+подушка	pillow
+подушка диванная	cushion
+половик для вытирания ног	doormat
+постер	poster
+проигрыватель	record player
+простыня	sheet
+пуховое одеяло с пододеяльником	duvet
+пылесос	vacuum (cleaner) / hoover
+радио	radio
+ремонт	renovation
+розетка (электрическая)	socket
+сервант, буфет	sideboard
+скатерть	tablecloth
+смартфон	smartphone
+стенной шкаф, буфет	cupboard
+стиральная машина	washing machine
+стол	table
+столик прикроватный	bedside table
+стул	chair
+счетчик воды	water meter
+счетчик газа	gas meter
+табурет	stool
+телевизор	TV (television)
+труба	pipe
+утюг	iron
+фен	hairdryer
+холодильник	fridge / refrigerator
+центрифуга (стиральной машины)	spin dryer
+часы	clock
+швабра	mop
+штепсель, вилка (электрическая)	plug
+шторы	blinds
+щетка	brush
+электрокамин	electric fire
+электрощит	fuse box

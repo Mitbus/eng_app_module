@@ -1,0 +1,108 @@
+ENGLISH WORD
+ПЕРЕВОД
+aerobics	аэробика
+an athlete	спортсмен
+archery	стрельба из лука
+arrow	стрела
+badminton	бадминтон
+barrel	штанга
+baseball	бейсбол
+basketball	баскетбол
+beach volleyball	пляжный волейбол
+biathlon	биатлон
+billiards	бильярд
+bow	лук
+bowling/ skittles	боулинг/кегли
+boxing	бокс
+canoeing	гребля на каноэ
+car racing	гонки
+chess	шахматы
+climbing	скалолазанье
+club	клюшка
+coach	тренер
+court	корт
+crew	команда
+cricket	крикет
+cross-country skiing / langlauf	бег на лыжах
+cue	кий
+curling	кёрлинг
+cycling	велоспорт
+darts	метание дротиков, дартс
+diving	прыжки в воду
+downhill skiing	горнолыжный спорт
+draughts	шашки
+fencing	фехтование
+figure skating	фигурное катание
+fishing	спортивная рыбалка
+fist ball	ручной мяч
+fitness centre	центр укрепления здоровья
+football/soccer	футбол
+gliding	планеризм
+goal	ворота
+golf	гольф
+googles	очки для подводного плаванья
+gym	гимнастический зал
+gymnastics	гимнастика
+handball	гандбол
+hang gliding	дельтапланеризм
+high jump	прыжки в высоту
+hockey	хоккей
+hurdle race	бег с барьерами
+ice rink	каток
+in-line skating	конькобежный спорт
+instructor	инструктор
+javelin	копье
+jogging	бег трусцой
+judo	дзюдо
+karate	карате
+long jump	прыжки в длину
+martial arts	боевые искусства
+motorbike sports	мотоциклетный спорт
+mountaineering	альпинизм
+national team	сборная страны
+net	сетка
+orienteering	спортивное ориентирование
+parachuting	парашютный спорт
+pole-vaulting	прыжки с шестом
+polo	поло
+puck	шайба
+racetrack	беговая дорожка
+racket	ракетка
+referee	судья
+riding	верховая езда
+ring	ринг
+rowing	гребля
+rugby	рэгби
+running race	состязание в беге
+sailing	парусный спорт
+shooting	стрельба
+shuttlecock	волан
+ski poles	лыжные палки
+skis	лыжи
+snooker	снукер (игра на бильярде)
+sports ground	спортивная площадка
+stadium	стадион
+stick	хоккейная клюшка
+swords	мечи, шпаги
+team	команда
+to break a record	побить рекорд
+to compete in a championship	участвовать в чемпионате
+to draw a game	свести игру вничью
+to lose the competition	проиграть соревнование
+to score points, goals	набирать очки, забивать голы
+to set records	устанавливать рекорды
+to train	тренироваться
+to win the competition	победить в соревнованиях
+to win the cup	выиграть кубок
+tobogganing	санный спорт
+tournament	турнир
+track-and-field	легкая атлетика
+triathlon	триатлон
+triple jump	тройной прыжок
+tug of war	перетягивание каната
+volleyball	волейбол
+water polo	водное поло
+waterski	водные лыжи
+weight lifting	тяжелая атлетика
+working out	занятия на снарядах
+wrestling	борьба

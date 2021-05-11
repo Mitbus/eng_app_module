@@ -1,0 +1,27 @@
+ENGLISH
+ПЕРЕВОД
+make a reservation for a room	забронировать гостиничный номер
+booking confirmation	подтверждение бронирования
+in advance	заранее
+discount	скидка
+hotel facilities	комплекс услуг, которые предлагает гостиница
+The rate includes sauna, gym, parking, safe deposit box.	B стоимость включено: посещение сауны, спортивного зала, парковка автомобиля на территории отеля, возможность пользоваться сейфом для хранения ценностей.
+check-in time	час, с наступлением которого возможно заселение в номер (устанавливается администрацией гостиницы)
+check-out time	час, до которого необходимо освободить номер в день отъезда
+pay for services	оплатить услуги
+payment in local currency	оплата в местной валюте
+pay cash	расплатиться наличными
+cater	обслуживать
+available	имеющийся в наличии
+At the moment there are no rooms available.	В данный момент свободных номеров нет
+single room	одноместный номер
+twin room	двухместный номер с двумя кроватями
+double room	двухместный номер с одной двуспальной кроватью
+Standard room	стандартный номер
+Superior room	номер повышенной комфортности
+Junior suite room	номер "полулюкс"
+Suite room	номер "люкс"
+bed and breakfast	питание: завтрак
+half board	полупансион (как правило, завтрак и ужин)
+full board	трёхразовое питание
+All inclusive	всё включено

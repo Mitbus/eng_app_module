@@ -1,0 +1,444 @@
+English Word or Phrase
+Транскрипция
+Русское название
+clothes	[ kləʊðz ]	одежда
+women's clothes	[ ˈwɪmɪnz kləʊðz ]	одежда для женщин
+men's clothes	[ menz kləʊðz ]	одежда для мужчин
+children's clothes	[ ˈtʃɪldrənz kləʊðz ]	одежда для детей
+baby clothes	[ ˈbeɪbi kləʊðz ]	детская одежда
+sports clothes	[ spɔːts kləʊðz ]	спортивная одежда
+women's clothing	[ ˈwɪmɪnz ˈkləʊðɪŋ ]	женская одежда
+ladies' clothing	[ ˈleɪdɪz ˈkləʊðɪŋ ]	дамская одежда
+men's clothing	[ menz ˈkləʊðɪŋ ]	мужская одежда
+children's clothing	[ ˈtʃɪldrənz ˈkləʊðɪŋ ]	детская одежда
+sports clothing	[ spɔːts ˈkləʊðɪŋ ]	спортивная одежда
+winter clothes	[ ˈwɪntə kləʊðz ]	зимняя одежда
+winter clothing	[ ˈwɪntə ˈkləʊðɪŋ ]	зимние вещи
+summer clothes	[ ˈsʌmə kləʊðz ]	летняя одежда
+casual clothes	[ ˈkæʒʊəl kləʊðz ]	повседневная одежда
+formal clothes	[ ˈfɔːml̩ kləʊðz ]	официальная одежда
+expensive clothes	[ ɪkˈspensɪv kləʊðz ]	дорогая одежда
+cheap clothes	[ tʃiːp kləʊðz ]	дешевая одежда
+nice clothes	[ naɪs kləʊðz ]	красивая (нарядная) одежда
+shabby clothes	[ ˈʃæbi kləʊðz ]	поношенная/потрепанная одежда
+designer clothes	[ dɪˈzaɪnə kləʊðz ]	дизайнерская одежда
+tailor-made clothes	[ ˈteɪlə meɪd kləʊðz ]	одежда, сшитая на заказ
+handmade clothes	[ hændˈmeɪd kləʊðz ]	одежда ручной работы
+ready-made clothes	[ ˈredɪ meɪd kləʊðz ]	готовая одежда (купленная в магазине)
+work clothes	[ ˈwɜːk kləʊðz ]	рабочая одежда, спецодежда
+working clothes	[ ˈwɜːkɪŋ kləʊðz ]	рабочая форма
+uniform	[ ˈjuːnɪfɔːm ]	униформа, рабочая форма
+protective clothing	[ prəˈtektɪv ˈkləʊðɪŋ ]	спецодежда, защитная одежда
+footwear	[ ˈfʊtweə ]	обувь
+headgear	[ ˈhedɡɪə ]	головной убор
+underwear	[ ˈʌndəweə ]	нижнее белье
+sportswear	[ ˈspɔːtsweə ]	спортивная одежда
+swimwear	[ ˈswɪmweə ]	купальный костюм
+sleepwear	[ sˈliːˌpwer ]	ночное белье
+clothes	[ kləʊðz ]	одежда
+clothing	[ ˈkləʊðɪŋ ]	одежда, платье
+garments	[ ˈɡɑːmənts ]	одежда, одеяние
+wear	[ weə ]	носка (одежды), одежда
+dress	[ dres ]	платье
+outfit	[ ˈaʊtfɪt ]	полный комплект одежды
+attire	[ əˈtaɪə ]	одеяние, наряд
+apparel	[ əˈpærəl ]	одежда, предмет одежды
+fashion	[ ˈfæʃn̩ ]	мода
+style	[ staɪl ]	стиль
+vogue	[ vəʊɡ ]	мода
+haute couture	[ ˈhot kuˈtjʊə ]	высокая мода
+Outer garments	[ ˈaʊtə ˈɡɑːmənts ]	Верхняя одежда
+warm coat	[ wɔːm ˈkəʊt ]	теплое пальто
+fur coat	[ fɜː ˈkəʊt ]	шуба
+sheepskin coat	[ ˈʃiːpskɪn ˈkəʊt ]	(пальто-)дубленка
+storm coat	[ stɔːm ˈkəʊt ]	плащ на теплой подкладке
+parka	[ ˈpɑːkə ]	парка (длинная куртка с капюшоном)
+snowsuit	[ ˈsnəʊ suːt ]	детский зимний комбинезон
+coat	[ ˈkəʊt ]	пальто
+topcoat	[ ˈtɒpkəʊt ]	пальто
+overcoat	[ ˈəʊvəkəʊt ]	пальто, шинель
+trench coat	[ trentʃ ˈkəʊt ]	длинное непромокаемое пальто
+raincoat	[ ˈreɪnkəʊt ]	плащ, дождевик
+waterproof coat	[ ˈwɔːtəpruːf ˈkəʊt ]	водонепроницаемое пальто, дождевик
+slicker	[ ˈslɪkə ]	непромокаемый плащ, макинтош
+leather jacket	[ ˈleðə ˈdʒækɪt ]	кожаный жакет, кожанка
+bomber jacket	[ ˈbɒmə ˈdʒækɪt ]	короткая куртка
+car coat	[ kɑː ˈkəʊt ]	полупальто
+windbreaker	[ ˈwɪndbreɪkə ]	ветровка
+windcheater	[ ˈwɪndtʃiːtə ]	ветровка
+sports jacket	[ spɔːts ˈdʒækɪt ]	спортивная куртка
+Women's clothes	[ ˈwɪmɪnz kləʊðz ]	Женская одежда
+casual dress	[ ˈkæʒʊəl dres ]	повседневная одежда (платье)
+formal dress	[ ˈfɔːml̩ dres ]	длинное вечернее платье
+summer dress	[ ˈsʌmə dres ]	летнее платье
+woolen dress	[ ˈwʊlən dres ]	шерстяное платье
+cocktail dress	[ ˈkɒkteɪl dres ]	вечернее платье
+low-cut dress	[ ləʊ kʌt dres ]	платье с глубоким вырезом
+evening dress	[ ˈiːvn̩ɪŋ dres ]	вечернее платье
+evening gown	[ ˈiːvn̩ɪŋ ɡaʊn ]	вечернее платье
+business suit	[ ˈbɪznəs suːt ]	деловой костюм
+pants suit (pant suit)	[ pænts suːt ] [ pænt suːt ]	женский брючный костюм
+uniform	[ ˈjuːnɪfɔːm ]	(рабочая) форма
+button-through dress	[ ˈbʌtn̩ θruː dres ]	платье-халат
+pinafore dress	[ ˈpɪnəfɔː dres ]	сарафан
+house dress	[ ˈhaʊs dres ]	домашнее платье
+maternity wear	[ məˈtɜːnɪti weə ]	одежда для беременных
+maternity dress	[ məˈtɜːnɪti dres ]	платье для беременных
+sweater	[ ˈswetə ]	свитер
+jersey	[ ˈdʒɜːzi ]	свитер, вязаная кофта
+cardigan	[ ˈkɑːdɪɡən ]	кардиган
+jacket	[ ˈdʒækɪt ]	куртка, пиджак
+vest	[ vest ]	жилет
+blouse	[ blaʊz ]	блузка
+shirt	[ ʃɜːt ]	рубашка
+tunic	[ ˈtjuːnɪk ]	туника, блузка или жакет (обычно с поясом)
+T-shirt	[ ˈtiː ʃɜːt ]	футболка
+tank top	[ tæŋk tɒp ]	вязаный жилет, майка на лямках (амер.)
+halter top	[ ˈhɔːltə tɒp ]	короткий топ
+skirt	[ skɜːt ]	юбка
+miniskirt	[ ˈmɪniskɜːt ]	мини-юбка
+long skirt	[ ˈlɒŋ skɜːt ]	длинная юбка
+pleated skirt	[ ˈpliːtɪd skɜːt ]	плиссированная юбка
+black skirt	[ blæk skɜːt ]	черная юбка
+pants	[ pænts ]	брюки, трусы
+slacks	[ slæks ]	широкие брюки (мужские или женские)
+trousers	[ ˈtraʊzəz ]	брюки
+jeans	[ dʒiːnz ]	джинсы
+denims	[ ˈdenɪmz ]	джинсы
+shorts	[ ʃɔːts ]	шорты
+swimsuit	[ ˈswɪmsuːt ]	купальный костюм
+swimming suit	[ ˈswɪmɪŋ suːt ]	купальный костюм
+bathing suit	[ ˈbeɪðɪŋ suːt ]	купальный костюм
+bikini	[ bɪˈkiːni ]	бикини
+jumpsuit	[ ˈdʒʌmpsuːt ]	спортивный костюм
+warm-up suit	[ ˈwɔːˌməp suːt ]	тренировочный костюм
+training suit	[ ˈtreɪnɪŋ suːt ]	тренировочный (спортивный) костюм
+Men's clothes	[ menz kləʊðz ]	Мужская одежда
+business suit	[ ˈbɪznəs suːt ]	деловой костюм
+three-piece suit	[ ˈθriː piːs suːt ]	костюм «тройка»
+tuxedo	[ tʌkˈsiːdəʊ ]	смокинг
+tail coat	[ teɪl ˈkəʊt ]	фрак
+tails	[ teɪlz ]	фрак
+black tie	[ blæk taɪ ]	черный галстук-бабочка
+white tie	[ waɪt taɪ ]	белый галстук-бабочка
+trousers	[ ˈtraʊzəz ]	брюки
+slacks	[ slæks ]	широкие брюки
+jeans	[ dʒiːnz ]	джинсы
+denims	[ ˈdenɪmz ]	джинсы
+shorts	[ ʃɔːts ]	шорты
+jacket	[ ˈdʒækɪt ]	пиджак, куртка
+blazer	[ ˈbleɪzə ]	блейзер, спортивная куртка
+vest	[ vest ]	жилет
+sweater	[ ˈswetə ]	свитер
+turtleneck sweater	[ ˈtɜːtlnek ˈswetə ]	водолазка
+pullover	[ ˈpʊləʊvə ]	пуловер, свитер
+jumper	[ ˈdʒʌmpə ]	джемпер, толстовка
+sweatshirt	[ ˈswetʃɜːt ]	толстовка, тренировочная рубашка
+shirt	[ ʃɜːt ]	рубашка
+polo shirt	[ ˈpəʊləʊ ʃɜːt ]	рубашка-поло
+T-shirt	[ ˈtiː ʃɜːt ]	футболка
+tank top	[ tæŋk tɒp ]	вязаный жилет, майка на лямках (амер.)
+warm-up suit	[ ˈwɔːˌməp suːt ]	тренировочный костюм
+training suit	[ ˈtreɪnɪŋ suːt ]	спортивный (тренировочный) костюм
+trunks	[ trʌŋks ]	трусы
+bathing trunks	[ ˈbɑːθɪŋ trʌŋks ]	плавки
+swimming trunks	[ ˈswɪmɪŋ trʌŋks ]	плавки
+swim trunks	[ swɪm trʌŋks ]	плавки
+swim briefs	[ swɪm briːfs ]	плавки
+uniform	[ ˈjuːnɪfɔːm ]	рабочая форма
+work clothes	[ ˈwɜːk kləʊðz ]	рабочая одежда
+overalls	[ ˈəʊvərɔːlz ]	рабочие брюки, комбинезон
+Underwear	[ ˈʌndəweə ]	Нижнее белье
+hosiery	[ ˈhəʊzɪəri ]	трикотажное белье
+sleepwear	[ sˈliːˌpwer ]	одежда для сна
+robe	[ rəʊb ]	халат
+underwear	[ ˈʌndəweə ]	нижнее белье
+lingerie	[ ˈlænʒəriː ]	дамское белье
+panties	[ ˈpæntɪz ]	трусики
+bra	[ brɑː ]	бюстгальтер, лифчик
+slip	[ slɪp ]	комбинация (белье)
+half slip	[ hɑːf slɪp ]	нижняя юбка
+briefs	[ briːfs ]	короткие трусы или подштанники
+underpants	[ ˈʌndəpænts ]	кальсоны; трусы (мужские)
+T-shirt	[ ˈtiː ʃɜːt ]	тенниска
+undershirt	[ ˈəndərˌʃərt ]	майка
+pantyhose	[ ˈpæntiˌhoz ]	колготки
+tights	[ taɪts ]	колготки
+leggings	[ ˈleɡɪŋz ]	леггинсы, лосины
+stockings	[ ˈstɒkɪŋz ]	чулки
+socks	[ ˈsɒks ]	носки
+slouch socks	[ slaʊtʃ ˈsɒks ]	гольфы
+knee-high socks	[ niː ˈhaɪ ˈsɒks ]	гольфы
+pajamas (BrE: pyjamas)	[ pəˈdʒɑːməz ]	пижама
+nightgown	[ ˈnaɪtɡaʊn ]	длинная ночная рубашка
+sleepshirt	[ ˈsliːpʃɜːt ]	ночная рубашка
+housecoat	[ ˈhaʊskəʊt ]	женский халат
+robe	[ rəʊb ]	халат
+bathrobe	[ ˈbɑːθrəʊb ]	купальный халат
+terry-cloth robe	[ ˈterɪklɒθ rəʊb ]	махровый халат
+Parts of clothes and their types	[ pɑːts əv kləʊðz ənd ðeə taɪps ]	Детали одежды и их виды
+collar	[ ˈkɒlə ]	воротник
+turtleneck collar	[ ˈtɜːtlnek ˈkɒlə ]	высокий, облегающий шею воротник
+shawl collar	[ ʃɔːl ˈkɒlə ]	воротник-шаль
+stand-up collar	[ ˈstænd ʌp ˈkɒlə ]	стоячий воротник
+V-neck	[ ˈviːnek ]	вырез мысом, в форме буквы
+crew neck	[ kruː nek ]	круглый вырез
+collarless	[ ˈkɒlələs ]	без воротника
+sleeve	[ sliːv ]	рукава
+long sleeve	[ ˈlɒŋ sliːv ]	длинные рукава
+short sleeve	[ ʃɔːt sliːv ]	короткие рукава
+sleeveless	[ ˈsliːvləs ]	без рукавов
+with long sleeves	[ wɪð ˈlɒŋ sliːvz ]	с длинными рукавами
+with short sleeves	[ wɪð ʃɔːt sliːvz ]	с короткими рукавами
+long-sleeved blouse	[ ˈlɒŋsliːvd blaʊz ]	блузка с длинными рукавами
+short-sleeved dress	[ ˈʃɔːtsliːvd dres ]	платье с короткими рукавами
+padded shoulders	[ ˈpædɪd ˈʃəʊldəz ]	плечики
+cuffs	[ kʌfs ]	манжеты
+pocket	[ ˈpɒkɪt ]	карман
+front pocket	[ frʌnt ˈpɒkɪt ]	передний карман
+back pocket	[ ˈbæk ˈpɒkɪt ]	задний карман
+side pocket	[ saɪd ˈpɒkɪt ]	боковой карман
+patch pocket	[ pætʃ ˈpɒkɪt ]	накладной карман
+slash pocket	[ slæʃ ˈpɒkɪt ]	прорезной карман
+inside pocket	[ ɪnˈsaɪd ˈpɒkɪt ]	внутренний карман
+Fabric and material	[ ˈfæbrɪk ənd məˈtɪərɪəl ]	Ткань и материал
+fabric	[ ˈfæbrɪk ]	ткань, материал
+cloth	[ klɒθ ]	ткань, полотно
+material	[ məˈtɪərɪəl ]	материал
+textile	[ ˈtekstaɪl ]	текстиль, ткань
+cotton	[ ˈkɒtn̩ ]	хлопок
+linen	[ ˈlɪnɪn ]	лен
+silk	[ sɪlk ]	шелк
+wool	[ wʊl ]	шерсть
+mohair	[ ˈməʊheə ]	мохер
+velvet	[ ˈvelvɪt ]	бархат
+corduroy	[ ˈkɔːdəroɪ ]	вельвет
+denim	[ ˈdenɪm ]	джинсовая ткань
+suede	[ sweɪd ]	замша
+leather	[ ˈleðə ]	кожа
+synthetics	[ sɪnˈθetɪks ]	синтетика
+nylon	[ ˈnaɪlɒn ]	нейлон
+polyester	[ ˌpɒliˈestə ]	полиэстер
+lycra	[ ˈlaɪkrə ]	лайкра
+spandex	[ ˈspændəks ]	спандекс
+artificial fur	[ ˌɑːtɪˈfɪʃl̩ fɜː ]	искусственный мех
+natural fur	[ ˈnætʃrəl fɜː ]	натуральный мех
+mink	[ mɪŋk ]	норковый мех, норка
+fox	[ fɒks ]	лисий мех
+sable	[ ˈseɪbl̩ ]	соболий мех
+chinchilla	[ tʃɪnˈtʃɪlə ]	шиншилловый мех
+beaver	[ ˈbiːvə ]	бобровый мех
+rabbit	[ ˈræbɪt ]	кроличий мех; кроличья шкурка
+astrakhan	[ ˌæstrəˈkæn ]	каракулевая шкурка
+sheepskin	[ ˈʃiːpskɪn ]	овчина
+knitted garments	[ ˈnɪtɪd ˈɡɑːmənts ]	вязаная одежда
+knitwear	[ ˈnɪtweə ]	вязаные вещи, трикотаж
+knitted cap (socks, sweater, etc.)	[ ˈnɪtɪd kæp ] [ ˈsɒks ] [ ˈswetə ]	вязаная шапка (носки, свитер и т.д.)
+embroidery	[ ɪmˈbroɪdəri ]	вышитое изделие
+embroidered dress (blouse, shirt, etc.)	[ ɪmˈbroɪdəd dres] [ blaʊz ] [ ʃɜːt ]	вышитое плате (блузка, рубашка и т.д.)
+Patterns and colors	[ ˈpætn̩z ənd ˈkʌlərz ]	Узоры и цвета
+floral pattern	[ ˈflɔːrəl ˈpætn̩ ]	цветочный узор
+floral print	[ ˈflɔːrəl prɪnt ]	набивная ткань с цветочным рисунком
+flower pattern	[ ˈflaʊə ˈpætn̩ ]	цветочный узор
+flower print	[ ˈflaʊə prɪnt ]	цветочный узор
+paisley print	[ ˈpeɪzli prɪnt ]	узор «пейсли»
+animal print	[ ˈænɪml̩ prɪnt ]	животный принт
+bright print	[ braɪt prɪnt ]	яркий «принт», рисунок
+all-over print	[ ɔːl ˈəʊvə prɪnt ]	«принт», рисунок на все изделие
+print skirt	[ prɪnt skɜːt ]	узорчатая юбка
+print shirt	[ prɪnt ʃɜːt ]	узорчатая рубашка
+printed top	[ ˈprɪntɪd tɒp ]	узорчатый топ
+printed sleeves	[ ˈprɪntɪd sliːvz ]	узорчатые рукава
+striped	[ straɪpt ]	полосатый
+checked	[ tʃekt ]	клетчатый
+checkered	[ ˈtʃekəd ]	клетчатый, в клетку
+plaid	[ plæd ]	клетчатый, в клетку
+polka dot	[ ˈpɒlkə dɒt ]	узор в горошек
+paisley	[ ˈpeɪzli ]	пейсли (разноцветный орнамент)
+bright colors (BrE: colours)	[ braɪt ˈkʌlərz ] [ ˈkʌləz ]	яркие цвета
+colorful	[ ˈkələrfəl ]	красочный
+pastel colors	[ ˈpæstl̩ ˈkʌlərz ]	пастельные цвета
+soft colors	[ sɒft ˈkʌlərz ]	мягкие (неяркие) цвета
+light-blue	[ laɪt bluː ]	светло-голубой
+dark-green	[ dɑːk ɡriːn ]	темно-зеленый
+bright-red	[ braɪt red ]	ярко-красный
+black-and-white	[ blæk ənd waɪt ]	черно-белый
+black	[ blæk ]	черный
+blue	[ bluː ]	голубой, синий
+brown	[ braʊn ]	коричневый
+gray (BrE: grey)	[ ɡreɪ ]	серый
+green	[ ɡriːn ]	зеленый
+navy	[ ˈneɪvi ]	темно-синий
+orange	[ ˈɒrɪndʒ ]	оранжевый
+pink	[ pɪŋk ]	розовый
+purple	[ ˈpɜːpl̩ ]	сиреневый
+red	[ red ]	красный
+violet	[ ˈvaɪələt ]	фиолетовый
+white	[ waɪt ]	белый
+yellow	[ ˈjeləʊ ]	желтый
+Accessories	[ əkˈsesəriz ]	Аксессуары
+bag	[ bæɡ ]	сумка
+handbag	[ ˈhændbæɡ ]	дамская сумочка
+purse	[ pɜːs ]	кошелек
+clutch	[ klʌtʃ ]	клатч, ридикюль
+briefcase	[ ˈbriːfkeɪs ]	портфель
+attache case	[ əˈtæʃeɪ keɪs ]	дипломат
+wallet	[ ˈwɒlɪt ]	бумажник, портмоне
+pocketbook	[ ˈpɒkɪtbʊk ]	кошелек, бумажник
+billfold	[ ˈbɪlfəʊld ]	(небольшой) бумажник
+purse	[ pɜːs ]	кошелек (для монет)
+coin purse	[ kɔɪn pɜːs ]	кошелек (для монет)
+make-up kit	[ ˈmeɪkʌp kɪt ]	косметичка
+cosmetic case	[ kɒzˈmetɪk keɪs ]	косметичка
+shaving kit	[ ˈʃeɪvɪŋ kɪt ]	набор для бритья
+travel kit	[ ˈtrævl̩ kɪt ]	дорожный набор
+travel bag	[ ˈtrævl̩ bæɡ ]	(дорожный) несессер
+duffel bag	[ ˈdʌfl̩ bæɡ ]	вещевой мешок
+sports bag	[ spɔːts bæɡ ]	спортивная сумка
+backpack	[ ˈbækpæk ]	рюкзак (туристический)
+rucksack	[ ˈrʌksæk ]	рюкзак (школьный)
+tote bag	[ təʊt bæɡ ]	большая сумка
+hand luggage	[ hænd ˈlʌɡɪdʒ ]	ручная кладь
+hand baggage	[ hænd ˈbæɡɪdʒ ]	ручная кладь
+cabin bag	[ ˈkæbɪn bæɡ ]	ручная кладь
+carry-on bag	[ ˈkæri ɒn bæɡ ]	ручная кладь, ручной багаж
+flight bag	[ flaɪt bæɡ ]	сумка или чемодан для авиапутешествий
+suitcase	[ ˈsuːtkeɪs ]	небольшой чемодан
+garment bag	[ ˈɡɑːmənt bæɡ ]	складной саквояж
+Pullman bag	[ ˈpʊlmən bæɡ ]	спальный мешок
+trunk	[ trʌŋk ]	дорожный сундук, кофр, чемодан
+belt	[ belt ]	пояс, ремень
+suspenders	[ səˈspendəz ]	подтяжки
+straps	[ stræps ]	накладки
+umbrella	[ ʌmˈbrelə ]	зонт
+button	[ ˈbʌtn̩ ]	пуговица
+zipper	[ ˈzɪpə ]	застежка-молния
+buckle	[ ˈbʌkl̩ ]	пряжка
+clasp	[ klɑːsp ]	пряжка, запор, застежка
+Velcro	[ ˈvelkrəʊ ]	застежка "липучка"
+hat	[ hæt ]	шляпа, головной убор
+fur hat	[ fɜː hæt ]	меховая шапка
+beret	[ ˈbereɪ ]	берет
+cap	[ kæp ]	кепка
+baseball cap	[ ˈbeɪsbɔːl kæp ]	бейсболка
+hood	[ hʊd ]	капюшон
+headband	[ ˈhedbænd ]	головная повязка (как украшение)
+helmet	[ ˈhelmɪt ]	защитный головной убор каска, шлем
+scarf	[ skɑːf ]	шарф
+kerchief	[ ˈkɜːtʃɪf ]	косынка
+silk scarf	[ sɪlk skɑːf ]	шелковый шарф
+woolen scarf	[ ˈwʊlən skɑːf ]	шерстяной шкаф
+knitted scarf	[ ˈnɪtɪd skɑːf ]	вязаный шарф
+muffler	[ ˈmʌflə ]	кашне
+shawl	[ ʃɔːl ]	платок, шаль
+gloves	[ ɡlʌvz ]	перчатки
+mittens	[ ˈmɪtn̩z ]	рукавицы
+earmuffs	[ ˈɪrˌməfs ]	наушники для защиты от холода или шума
+handkerchief	[ ˈhæŋkətʃɪf ]	носовой платок, косынка
+sunglasses	[ ˈsʌnɡlæsɪz ]	солнцезащитные очки
+glasses	[ ˈɡlɑːsɪz ]	очки
+contact lenses	[ ˈkɒntækt ˈlenzɪz ]	контактные линзы
+necktie	[ ˈnektaɪ ]	галстук, шейный платок
+tie	[ taɪ ]	галстук
+silk tie	[ sɪlk taɪ ]	шелковый галстук
+bow tie	[ baʊ taɪ ]	галстук-бабочка
+Shoes	[ ʃuːz ]	Обувь
+winter boots	[ ˈwɪntə buːts ]	зимние сапоги
+ladies' boots	[ ˈleɪdɪz buːts ]	женские сапоги
+hiking boots	[ ˈhaɪkɪŋ buːts ]	треккинговые ботинки
+rubber boots	[ ˈrʌbə buːts ]	резиновые сапоги
+walking shoes	[ ˈwɔːkɪŋ ʃuːz ]	обувь для ходьбы (на низком каблуке)
+Oxfords	[ ˈɑːksfərdz ]	полуботинки
+loafers	[ ˈləʊfəz ]	легкие кожаные туфли типа мокасин
+moccasin	[ ˈmɒkəsɪn ]	мокасины
+pumps	[ pʌmps ]	туфли-лодочки (на высоком каблуке)
+evening shoes	[ ˈiːvn̩ɪŋ ʃuːz ]	вечерние туфли
+patent leather shoes	[ ˈpeɪtnt ˈleðə ʃuːz ]	лакированные туфли
+suede shoes	[ sweɪd ʃuːz ]	замшевые туфли
+high-heel shoes	[ haɪ hiːl ʃuːz ]	туфли на высоком каблуке
+low-heel shoes	[ ləʊ hiːl ʃuːz ]	туфли на низком каблуке
+flat-heel shoes	[ flæt hiːl ʃuːz ]	туфли на сплошной подошве
+sandals	[ ˈsændl̩z ]	сандалии, босоножки
+open-toe shoes	[ ˈəʊpən təʊ ʃuːz ]	туфли с открытым носом
+slippers	[ ˈslɪpəz ]	тапочки
+mules	[ mjuːlz ]	шлепанцы
+rubber thongs	[ ˈrʌbə θɒŋz ]	резиновые сланцы
+tennis shoes	[ ˈtenɪs ʃuːz ]	теннисные туфли
+running shoes	[ ˈrʌnɪŋ ʃuːz ]	кроссовки
+sneakers	[ ˈsniːkəz ]	кроссовки
+training shoes	[ ˈtreɪnɪŋ ʃuːz ]	кроссовки
+trainers	[ ˈtreɪnəz ]	кроссовки
+athletic shoes	[ æθˈletɪk ʃuːz ]	кроссовки
+sole	[ səʊl ]	подошва
+insole	[ ˈɪnsəʊl ]	стелька
+lining	[ ˈlaɪnɪŋ ]	подкладка
+cushioning	[ ˈkʊʃn̩ɪŋ ]	мягкая стелька
+heel	[ hiːl ]	каблук
+tongue	[ tʌŋ ]	язычок (на обуви)
+buckle	[ ˈbʌkl̩ ]	пряжка
+shoe laces	[ ʃuː ˈleɪsɪz ]	шнурки
+Jewelry	[ ˈdʒuːəlri ]	Ювелирные изделия
+gold ring	[ ɡəʊld rɪŋ ]	золотое кольцо
+diamond ring	[ ˈdaɪəmənd rɪŋ ]	кольцо с бриллиантом
+engagement ring	[ ɪnˈɡeɪdʒmənt rɪŋ ]	кольцо, подаренное в честь помолвки
+wedding ring	[ ˈwedɪŋ rɪŋ ]	обручальное кольцо
+necklace	[ ˈnekləs ]	ожерелье
+bracelet	[ ˈbreɪslɪt ]	браслет
+brooch	[ brəʊtʃ ]	брошь
+earrings	[ ˈɪərɪŋz ]	серьги
+chain	[ tʃeɪn ]	цепочка
+pendant	[ ˈpendənt ]	подвеска
+charms	[ tʃɑːmz ]	амулет, брелок
+cuff links	[ kʌf lɪŋks ]	запонки
+tie tack	[ taɪ tæk ]	зажим для галстука
+tie pin	[ taɪ pɪn ]	булавка для галстука
+watch	[ wɒtʃ ]	часы
+wristwatch	[ ˈrɪstwɒtʃ ]	наручные часы
+jewelry (BrE: jewellery)	[ ˈdʒuːəlri ]	драгоценности
+precious stone	[ ˈpreʃəs stəʊn ]	драгоценный камень
+semiprecious stone	[ ˌsemiˈpreʃəs stəʊn ]	полудрагоценный камень, самоцвет
+jewel	[ ˈdʒuːəl ]	драгоценный камень
+gem	[ dʒem ]	драгоценный камень, самоцвет
+gemstone	[ dʒem ]	драгоценный камень
+diamond	[ ˈdaɪəmənd ]	алмаз, бриллиант
+ruby	[ ˈruːbi ]	рубин
+sapphire	[ ˈsæfaɪə ]	сапфир
+emerald	[ ˈemərəld ]	изумруд
+alexandrite	[ ˌæleɡˈzændraɪt ]	александрит
+opal	[ ˈəʊpl̩ ]	опал
+topaz	[ ˈtəʊpæz ]	топаз
+pearl	[ pɜːl ]	жемчуг
+Articles of clothing	[ ˈɑːtɪkl̩z əv ˈkləʊðɪŋ ]	Предметы одежды
+a piece of clothing	[ ə piːs əv ˈkləʊðɪŋ ]	предмет одежды
+an article of clothing	[ ən ˈɑːtɪkl̩ əv ˈkləʊðɪŋ ]	предмет одежды
+an item of clothing	[ ən ˈaɪtəm əv ˈkləʊðɪŋ ]	предмет одежды
+several articles / items / pieces of clothing	[ ˈsevrəl ˈɑːtɪkl̩z ] [ ˈaɪtəmz ] [ ˈpiːsɪz əv ˈkləʊðɪŋ ]	различные предметы одежды
+a set of clothes	[ ə set əv kləʊðz ]	комплект одежды
+a change of clothes	[ ə tʃeɪndʒ əv kləʊðz ]	смена белья
+a pair of trousers	[ ə peər əv ˈtraʊzəz ]	пара брюк
+a pair of jeans	[ ə peər əv dʒiːnz ]	пара джинсов
+a pair of pants	[ ə peər əv pænts ]	пара трусов
+a pair of shorts	[ ə peər əv ʃɔːts ]	пара шорт
+a pair of gloves	[ ə peər əv ɡlʌvz ]	пара перчаток
+a pair of mittens	[ ə peər əv ˈmɪtn̩z ]	пара рукавиц
+a pair of socks	[ ə peər əv ˈsɒks ]	пара носков
+a pair of shoes	[ ə peər əv ʃuːz ]	пара обуви
+a pair of boots	[ ə peər əv buːts ]	пара сапог
+a pair of slippers	[ ə peər əv ˈslɪpəz ]	пара тапочек
+Verbs	[ vɜːbz ]	Глаголы
+to wear	[ tə weə ]	носить
+to put on	[ tə ˈpʊt ɒn ]	надевать
+to take off	[ tə teɪk ɒf ]	снимать
+to dress	[ tə dres ]	одевать(ся), наряжать(ся)
+to undress	[ tu ʌnˈdres ]	раздевать(ся)
+to be dressed in a new suit	[ tə bi drest ɪn ə njuː suːt ]	быть одетым в новый костюм
+to button	[ tə ˈbʌtn̩ ]	пришивать пуговицу, застегиваться
+to unbutton	[ tu ʌnˈbʌtn̩ ]	расстегиваться
+to zip	[ tə zɪp ]	застегивать (на молнию)
+to unzip	[ tu ˌʌnˈzɪp ]	расстегивать
+to tie	[ tə taɪ ]	завязывать
+to untie	[ tu ʌnˈtaɪ ]	развязывать
+to lace	[ tə leɪs ]	шнуровать, зашнуровывать
+to unlace	[ tu ʌnˈleɪs ]	расшнуровывать
+to buckle	[ tə ˈbʌkl̩ ]	застегивать пряжку
+to unbuckle	[ tu ˌʌnˈbʌkl̩ ]	расстегивать пряжку, застежку

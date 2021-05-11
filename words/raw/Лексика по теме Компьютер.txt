@@ -1,0 +1,98 @@
+NGLISH
+ПЕРЕВОД
+ability	способность, возможность
+accurate	точный
+to affect	воздействовать
+amount of data	объем данных
+approximately	приблизительно
+to attain	достигать
+available	доступный
+broadband connection	выделенное подключение
+to browse	просматривать
+browser	браузер, окно просмотра
+to carry out	выполнять
+computer desk	компьютерный стол
+computer mouse	компьютерная мышка
+(photo)copier	ксерокс, копир
+to count	считать, сосчитать
+CPU	центральный процессор
+to crack	взломать
+dangerous	опасный
+data (datum)	данные, сведения
+defense	оборона, защита
+to deploy	использовать, употреблять
+to design	задумывать, придумывать, разрабатывать
+to determine	определить
+dial up	доступ к сети через модемное подключение
+digital	цифровой
+display	дисплей
+to download	загружать, скачать
+drive	диск, привод
+electronic device	электронное устройство
+electronic mail (e-mail)	электронная почта
+email accounts	учетные записи электронной почты
+to enable	давать возможность или право на ч-т
+to enhance	повышать, увеличивать
+essential	существенный
+except	за исключением, кроме
+fast modem	быстрый модем
+to find	находить
+flash drive (card)	флеш-диск (карта)
+floppy disk	дискета
+to handle	обращаться, иметь дело с
+hard drive	жесткий диск
+infrared	инфракрасный
+informational server	информационный сервер
+to intercept	перехватить (сигнал и т.д.)
+interface	интерфейс
+keyboard	клавиатура
+laptop	ноутбук
+to last	длиться
+layman	непрофессионал, любитель, ламер
+link	ссылка
+to log in	входить, подключаться
+to matсh	подходить, соответствовать
+message	послание
+memory	память
+monitor	монитор
+motherboard	материнская плата
+(the) net	сеть, (Интернет)
+network	сеть
+obsolete	устаревший
+operating system	операционная система
+overload	перегрузка
+to perform	выполнять, осуществлять
+player	проигрыватель
+printer	принтер
+processing unit	вычислительное устройство
+to provide	снабжать, доставлять; обеспечивать
+provider	провайдер, поставщик
+query	запрос, вопрос
+to receive	получать, принимать
+reliable	надежный
+to respond	отвечать, реагировать
+scale	масштаб
+to scan	сканировать
+scanner	сканер
+search-program	программа-поисковик
+security	безопасность
+to send	отправлять
+set of instructions	набор (свод инструкций)
+significant	значительный, важный, существенный
+site	сайт
+society	общество
+to solve	решать, разрешать; находить выход
+source	источник
+speakers	колонки
+storage	хранение
+to surf	просматривать различные сайты в сети
+system unit	системный блок
+tool	инструмент, орудие
+to type	печатать, напечатать
+to update	обновить
+user	пользователь
+virtual reality	виртуальная реальность
+voice message	голосовое послание
+voltage	напряжение
+window	окно
+www (worldwide web)	всемирная сеть

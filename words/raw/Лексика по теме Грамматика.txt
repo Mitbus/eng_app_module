@@ -1,0 +1,95 @@
+грамматика
+grammar
+аббревиатура	abbreviation
+абзац	paragraph
+акроним	acronym
+анаграмма	anagram
+антоним	antonym
+апостроф	apostrophe
+артикль	article
+будущее время	future tense
+возвратное местоимение	reflexive pronoun
+вопросительный знак	question mark
+восклицательный знак	exclamation mark / exclamation point
+время (грамматическое)	tense
+вспомогательный глагол	auxiliary verb
+второе лицо	second person
+герундий	gerund
+главное предложение	main clause
+глагол	verb
+глагол-связка	linking verb
+грамматический	grammatical
+двоеточие	colon
+действительный залог	active voice
+дефис	hyphen
+диалект	dialect
+дополнение	object
+единственное число	singular
+запятая	comma
+идиома	idiom
+изменение формы слова	inflection
+имя нарицательное	common noun
+имя собственное	proper noun
+инфинитив	infinitive
+кавычки	quotation mark
+коммуникация	communication
+круглая скобка (круглые скобки)	parenthesis (parentheses)
+лингвист	linguist
+лингвистика	linguistics
+личное местоимение	personal pronoun
+междометие	interjection
+местоимение	pronoun
+метафора	metaphor
+множественное число	plural
+морфология	morphology
+написание	spelling
+наречие	adverb
+настоящее время	present tense
+омоним	homonym
+омофон	homophone
+определение	modifier / qualifier / attribute
+падеж	case
+палиндром	palindrome
+первое лицо	first person
+подлежащее	subject
+правило	rule
+предикат	predicate
+предлог	preposition
+предложение	sentence
+предложение (простое в составе сложного)	clause
+превосходная степень	superlative
+придаточное дополнительное	objective clause
+придаточное предложение	subordinate clause
+прилагательное	adjective
+причастие	participle
+прописная буква	capital letter
+прошедшее время	past tense
+прямое дополнение	direct object
+пунктуация	punctuation
+разговорный	colloquial
+речь	speech
+семантика	semantics
+синоним	synonym
+синтаксис	syntax
+синтаксический	syntactic
+склонение	declension
+сленг	slang
+словарь, словарный запас, лексика	vocabulary
+слово	word
+сложное предложение	compound sentence
+сложное слово	compound word
+сокращение	contraction
+союз	conjunction
+спряжение	conjugation
+сравнение	simile
+страдательный залог	passive voice
+существительное	noun
+тире	dash
+точка	period
+точка с запятой	semicolon
+третье лицо	third person
+части речи	parts of speech
+фонология	phonology
+фраза	phrase
+эллипсис	ellipsis
+язык	language

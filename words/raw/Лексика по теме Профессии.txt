@@ -1,0 +1,61 @@
+Professions
+Профессии
+accountant	бухгалтер
+actor /actress	актер / актриса
+architect	архитектор
+astronomer	астроном
+author	автор (писатель)
+baker	пекарь
+bricklayer	каменщик
+bus driver	водитель автобуса
+butcher	мясник
+carpenter	плотник
+chef / cook	шеф-повар / повар
+cleaner	уборщик
+dentist	дантист
+designer	дизайнер
+doctor	врач
+dustman / refuse collector	мусорщик
+electrician	электрик
+engineer	инженер
+factory worker	заводской рабочий
+farmer	фермер
+fireman / fire fighter	пожарный
+fisherman	рыбак
+florist	флорист
+gardener	садовник
+hairdresser	парикмахер
+journalist	журналист
+judge	судья
+lawyer	адвокат
+lecturer	преподаватель
+librarian	библиотекарь
+lifeguard	спасатель (на водах)
+mechanic	механик
+model	модель
+newsreader	диктор
+nurse	медсестра
+optician	оптик, офтальмолог
+painter	художник / маляр
+pharmacist	фармацевт
+photographer	фотограф
+pilot	пилот
+plumber	водопроводчик
+politician	политик
+policeman / policewoman	полицейский (м. р. / ж. р.)
+postman	почтальон
+real estate agent	агент по недвижимости
+receptionist	регистратор / портье / секретарь
+scientist	ученый
+secretary	секретарь
+shop assistant	продавец
+soldier	солдат
+tailor	портной
+taxi driver	таксист
+teacher	учитель
+translator	переводчик
+traffic warden	инспектор дорожного движения
+travel agent	турагент
+veterinary doctor (vet)	ветеринарный врач (ветеринар)
+waiter / waitress	официант / официантка
+window cleaner	мойщик окон

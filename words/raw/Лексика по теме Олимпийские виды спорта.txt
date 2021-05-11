@@ -1,0 +1,78 @@
+summer olympic sports
+[ ˈsʌmər əˈlɪmpɪk spɔːts |
+летние олимпийские виды спорта
+archery	[ ˈɑːtʃəri ]	стрельба из лука
+artistic gymnastics	[ ɑːˈtɪstɪk dʒɪmˈnæstɪks ]	спортивная гимнастика
+athletics	[ æθˈletɪks ]	лёгкая атлетика
+badminton	[ ˈbædmɪntən ]	бадминтон
+basketball	[ ˈbɑːskɪtbɔːl ]	баскетбол
+bmx	[ biː em eks ]	bmx (велоспорт)
+boxing	[ ˈbɒksɪŋ ]	бокс
+canoe / kayak (sprint)	[ kəˈnuː ] [ ˈkaɪæk ] [ sprɪnt ]	гребля на байдарках и каноэ (спринт)
+diving	[ ˈdaɪvɪŋ ]	прыжки в воду
+dressage (equestrian)	[ ˈdresɑːʒ ] [ ɪˈkwestrɪən ]	выездка (конный спорт)
+eventing (equestrian)	[ ɪˈventɪŋ ] [ ɪˈkwestrɪən ]	троеборье (конный спорт)
+fencing	[ ˈfensɪŋ ]	фехтование
+field hockey	[ fiːld ˈhɒki ]	хоккей на траве
+football	[ ˈfʊtbɔːl ]	футбол
+freestyle (wrestling)	[ ˈfriːstaɪl ] [ ˈresl̩ɪŋ ]	вольная борьба
+greco-roman (wrestling)	[ ˌɡrekoˈromən ] [ ˈresl̩ɪŋ ]	греко-римская борьба
+judo	[ ˈdʒuːdəʊ ]	дзюдо
+jumping (equestrian)	[ ˈdʒʌmpɪŋ ] [ ɪˈkwestrɪən ]	конкур (конный спорт)
+handball	[ ˈhændbɔːl ]	гандбол
+modern pentathlon	[ ˈmɒdn̩ penˈtæθlən ]	современное пятиборье
+mountain biking	[ ˈmaʊntɪn ˈbaɪkɪŋ ]	маунтинбайк (велоспорт)
+rhythmic gymnastics	[ ˈrɪðmɪk dʒɪmˈnæstɪks ]	художественная гимнастика
+road cycling	[ rəʊd ˈsaɪkl̩ɪŋ ]	шоссейные гонки (велоспорт)
+swimming	[ ˈswɪmɪŋ ]	плавание
+synchronized swimming	[ ˈsɪŋkrənaɪzd ˈswɪmɪŋ ]	синхронное плавание
+track cycling	[ træk ˈsaɪkl̩ɪŋ ]	трековые гонки (велоспорт)
+trampoline	[ ˈtræmpəliːn ]	прыжки на батуте
+volleyball (beach)	[ ˈvɒlɪbɔːl ] [ biːtʃ ]	пляжный волейбол
+volleyball (indoor)	[ ˈvɒlɪbɔːl ] [ ˈɪndɔː ]	волейбол
+water polo	[ ˈwɔːtə ˈpəʊləʊ ]	водное поло
+rowing	[ ˈraʊɪŋ ]	академическая гребля
+sailing	[ ˈseɪlɪŋ ]	парусный спорт
+shooting	[ ˈʃuːtɪŋ ]	стрельба
+table tennis	[ ˈteɪbl̩ ˈtenɪs ]	настольный теннис
+taekwondo	[ ˈtæˌkwɑːnˈdəʊ ]	тхэквондо
+tennis	[ ˈtenɪs ]	теннис
+triathlon	[ traɪˈæθlən ]	триатлон
+weightlifting	[ ˈweɪtlɪftɪŋ ]	тяжёлая атлетика
+amateur	[ ˈæmətə ]	любитель
+anthem	[ ˈænθəm ]	гимн
+banned	[ bænd ]	запрещенный
+broadcaster	[ ˈbrɔːdkɑːstə ]	ведущий / комментатор
+compete	[ kəmˈpiːt ]	соревноваться
+contestant	[ kənˈtestənt ]	участник соревнований
+controversy	[ ˈkɒntrəvɜːsi ]	разногласие
+doping	[ ˈdəʊpɪŋ ]	допинг
+facilities	[ fəˈsɪlɪtɪz ]	(cпортивные) сооружения
+fanfare	[ ˈfænfeə ]	фанфары
+host	[ həʊst ]	страна-хозяйка олимпиады
+humanity	[ hjuːˈmænɪti ]	человечество
+mascot	[ ˈmæskət ]	талисман
+medal	[ ˈmedl̩ ]	медаль
+motto	[ ˈmɒtəʊ ]	девиз
+nationality	[ ˌnæʃəˈnælɪti ]	гражданство
+oath	[ əʊθ ]	клятва
+participant	[ pɑːˈtɪsɪpənt ]	участник
+partisanship	[ ˌpɑːtɪˈzænʃɪp ]	несправедливое судейство (обычно по политическим причинам)
+postpone	[ ˌpəust'pəun]	перенести (начало соревнований)
+preliminaries	[ prɪˈlɪmɪnərɪz ]	предварительные соревнования
+purity	[ ˈpjʊərɪti ]	чистота
+qualify	[ ˈkwɒlɪfaɪ ]	пройти квалификацию на соответствие минимальным требованиям
+representative	[ ˌreprɪˈzentətɪv ]	представитель
+security	[ sɪˈkjʊərɪti ]	охранник
+spectator	[ spekˈteɪtə ]	зритель
+sponsor	[ ˈspɒnsə ]	спонсор
+spokesman	[ ˈspəʊksmən ]	человек (часто - спортсмен), представляющий компанию на рынке или в сми
+sportsmanship	[ ˈspɔːtsmənʃɪp ]	спортивный дух честности и справедливости
+stamina	[ ˈstæmɪnə ]	выносливость
+standings	[ ˈstændɪŋz ]	положение в турнирной таблице
+substitute	[ ˈsʌbstɪtjuːt ]	запасной игрок, выходящий на замену
+swifter	[ ˈswɪftə ]	быстрее
+symbol	[ ˈsɪmbl̩ ]	символ
+torch	[ tɔːtʃ ]	факел
+venue	[ ˈvenjuː ]	место проведения игр, олимпийский объект (спортивная площадка и т. п.)
+victory	[ ˈvɪktəri ]	победа

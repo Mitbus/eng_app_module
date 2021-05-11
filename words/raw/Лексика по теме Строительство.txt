@@ -1,0 +1,234 @@
+Русский термин
+English Term
+арка	arch
+архитектура	architecture
+ацетон	acetone
+балка, брус	beam; girder
+батарея (отопления)	radiator
+бетон	concrete
+бетономешалка	concrete mixer
+болт	bolt; screw-bolt
+булыжник	cobble; cobblestone; sett
+бульдозер	bulldozer; dozer
+ведро	bucket; pail
+веранда	veranda(h); gallery
+верстак	workbench
+вертикальный	vertical; perpendicular
+верхний свет	skylight; fanlight
+взрыв	explosion; burst
+влага	moisture; wet; damp
+влажность	humidity; humidness; dampness; moistness
+водосточная канава	gutter; trough
+ворота	gate
+гайка	nut; screw-nut
+газосварка	gas welding
+галогеновая лампа	halogen bulb
+гипс	plaster; gypsum
+гипсокартон	gypsum plasterboard
+грохот	grate; grating
+грузовик	truck (AmE); lorry (BrE)
+грунтовка	primer
+дверь	door
+демонтаж	dismantling
+дерево	wood
+дизайн	design
+дом	house; building
+доска	board
+древесина	lumber; timber
+дрель	drill
+дренаж	drain; drainage
+дуга	bow; arc
+душ	shower
+дымоход	smokestack; stack
+дыра	hole
+дюбель	dowel; dowel pin; joggle
+железобетон	reinforced concrete
+жилье	housing; lodging; living accommodations
+забор	fence; fencing
+заклепка	rivet
+замазка	putty
+запорный кран	stopcock; cock; turncock
+засов	bar
+здание	building
+известь	lime; calcium hydroxide; calcium hydrate; lime hydrate
+изоляция	insulation; detachment
+инженер	engineer
+инструмент	tool
+интерьер	inside; interior
+ипотека	mortgage
+кабель	cable; line; transmission line
+каменщик	bricklayer
+камин	fireplace
+канифоль	rosin; resin
+карниз	eaves
+каска, шлем	helmet
+квартира	flat (BrE); apartment (AmE)
+кирпич	brick
+киянка	mallet
+клапан	valve
+клей	glue; adhesive (material / agent)
+клейстер	paste
+ковёр	carpet; rug; carpeting
+коврик	mat
+колодец	well
+колонна	column; pillar
+компрессор	compressor
+кондиционер	air conditioner
+контейнер	container
+контракт	contract
+контроль	supervision; supervising; superintendence; oversight
+котлован	ditch; trench
+кран (подъемный)	crane
+краска	paint; colouring material
+крыша	roof
+кувалда	sledgehammer
+лак	lacquer
+ламинат	laminate
+леса	scaffold
+лестница	stairway; staircase
+лестница (стремянка)	ladder
+линолеум	linoleum; lino
+лист	sheet; plate
+лифт	elevator (AmE); lift (BrE)
+лопата	shovel; spade
+люстра	chandelier
+маляр	painter
+маркиза	marchioness
+мастерок	trowel
+материал	material
+мешок	sack; bag
+мозаика	mosaic
+молоток	hammer
+монтаж	mounting; assembly
+мост	bridge
+мостовая	pavement
+навес	awning; sunshade; sunblind
+наклон	tilt; lean
+насос	pump
+настил	floor(ing)
+натяжной потолок	suspended ceiling
+наблюдение (видео)	surveillance
+негорючий	noncombustible; incombustible
+носильщик	carrier; bearer; porter
+обои	wallpaper
+огнеупорный	fireproof
+ограждение	barrier
+опора	support
+освещение	lighting; illumination
+отверстие	hole; opening
+оттенок	hue; shade
+офис	(business) office
+паз	socket
+панель управления	control / instrument panel / board
+пассаж	arcade
+паяльник	soldering-iron
+паять (=припой)	solder
+передний фасад	facade; frontage; frontal
+передняя часть	front; forepart
+переключатель	(electric(al)) switch
+перила	bannister; banister; balustrade; balusters; handrail
+петля	hinge; flexible joint
+план	plan; program; programme
+планка	plank
+пластиковая панель	plastic panel
+плесень	mold; mould; mildew
+плита (на кухне)	cooker; stove
+плита (пластина)	plate
+плитка (кафельная)	tile
+плотность	density; denseness
+поворот	bend; crook; twist; turn
+подпочва	subsoil; undersoil
+подрядчик	contractor
+подъезд	porch
+половица	board; plank
+полочка	ledge; shelf
+поперечина (балка)	crossbeam
+порог	threshold; limen
+порошок	powder
+поставщик	supplier; provider
+потолок	ceiling
+почва	ground; land; soil
+предельный (по срокам)	deadline
+приспособление	device
+прихожая	hall; anteroom; antechamber; entrance hall; foyer; lobby; vestibule
+проводимость	conduction; conductivity; conductance
+проводник	conductor
+проект (графический)	design
+прораб	foreman
+прямоугольный параллелепипед	cuboid
+пузырь	bubble
+пыль	dust
+пьедестал	pedestal; plinth; footstall
+расписание	schedule
+расстановка	layout
+рейка	railing; rail; lath
+розетка	socket
+ротонда	rotunda
+рулетка (мерная лента)	tape-measure
+сальник	gasket
+сварка	welding
+свая	pile
+сверло	bore bit; borer; rock drill; stone drill
+светодиод	light-emitting diode (LED); luminodiode
+светодиодный	LED
+свод	arch
+сетка	grid
+силикон	silicone
+сито	sieve; screen
+сифон	siphon; syphon
+скат	ramp; incline
+склон	gradient; slope
+слой	coating; coat
+слуховое окно	dormer; dormer window
+смесь	mixture; blend; premix
+снос	demolition
+соглашение, договор	agreement; contract
+сосуд	vessel
+спецовка	boilersuit
+ссуда	loan
+ставень	shutter
+сталь	steel
+статика	statics
+стекло	glass
+стекольщик	glass cutter; glass-cutter; glassworker; glazier; glazer
+стол	table
+столб	post; column; pillar
+стремя	stirrup; stirrup iron
+строитель	construction worker
+строительные леса	scaffolding; staging
+строительный раствор	mortar
+стройка	construction (site)
+стропило	rafter
+стык	joint
+субподрядчик	subcontractor
+техническое обслуживание	care; maintenance; upkeep
+толщина	thickness
+тоннель	tunnel
+трещина	rip; rent; snag; split; tear
+тротуар	walkway; sidewalk; pavement
+труба (для воды и т. д.)	pipe
+труба (дымохода)	chimney
+трубопровод	pipeline
+уборная (туалет)	toilet; lavatory; bathroom; water closet; closet; W.C.; loo
+уровень	level
+установка	installation; installment
+утварь	implement
+фанера	plywood; plyboard
+фонарь (крупный)	lantern
+форма для отливки	mold; mould; cast
+фунгициды	antifungal (agent); fungicide; antimycotic (agent)
+фундамент	foundation
+цемент	cement
+чаша	goblet
+чердак	loft; attic; garret
+черепица	tile
+шпатель	spatula
+шпатлевка	putty; filler
+шланг	hose; hosepipe
+штукатурка	stucco
+щеколда	latch
+экскаватор	(power) shovel; excavator; digger
+электрик	electrician; line(s)man
+эмаль	enamel
+энергосберегающая лампа	energy-saving lamp
+этаж	floor (BrE); stor(e)y (AmE)

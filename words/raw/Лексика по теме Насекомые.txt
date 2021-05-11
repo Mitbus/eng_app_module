@@ -1,0 +1,48 @@
+РУССКОЕ НАЗВАНИЕ
+ENGLISH
+насекомое	insect
+бабочка	butterfly
+блоха	flea
+божья коровка	lady-bird
+вошь	louse
+гусеница	caterpillar
+жужелица	tiger beetle
+жук	beetle
+жук-дровосек	capricorn beetle
+жук-короед, жук-дровосек	bark-beetle
+жук-носорог	rhinoceros beetle
+жук-олень, рогач	stag-beetle
+жук-плавунец	European diving beetle
+жук-усач	lion beetle
+жук-щелкун	click beetle
+жук-щитовик, жук-вонючка	stink beetle
+клещ	tick
+клоп	bug
+колорадский жук	Colorado beetle
+комар	mosquito, gnat
+куколка	chrysalis (pl. –ices), pupa (pl. -ae)
+майский жук	May (June) bug, cockchafer
+мокрица	pill bug
+моль	moth
+москит	mosquito
+мошкара	swarm of midges
+муравей	ant
+муха	fly
+навозник	dung beetle
+ночная бабочка	nocturnal moth
+овод	gadfly
+оса	wasp
+паук	spider
+пчела	bee
+светлячок	lightning bug
+скарабей	scarab
+скорпион	scorpion
+слепень	horse-fly, breeze
+сороконожка	centipede
+стрекоза	dragon-fly
+таракан (рыжий, прусак)	cockroach, croton
+термит	termite, white ant
+тля	plant louse, aphid
+трутень	drone
+чёрный таракан, пальмовый жук	black beetle
+шмель	bumble bee

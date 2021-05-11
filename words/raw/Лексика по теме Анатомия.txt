@@ -1,0 +1,133 @@
+English Word
+Transcription
+Русское название
+anatomy	[ əˈnætəmi ]	анатомия
+abdomen	[ ˈæbdəmən ]	живот
+accouchement	[ əˈkuːʃmɒŋ ]	роды
+ankle	[ ˈæŋkl̩ ]	голеностоп
+anus	[ ˈeɪnəs ]	задний проход
+appendix	[ əˈpendɪks ]	аппендикс
+arm	[ ɑːm ]	рука
+armpit	[ ˈɑːmpɪt ]	подмышка
+artery	[ ˈɑːtəri ]	артерия
+backbone	[ ˈbækbəʊn ]	позвоночник
+bald head	[ bɔːld hed ]	лысина
+beard	[ bɪəd ]	борода
+biceps	[ ˈbaɪseps ]	бицепс
+birth	[ bɜːθ ]	рождение
+blood	[ blʌd ]	кровь
+blood circulation	[ blʌd ˌsɜːkjʊˈleɪʃn̩ ]	кровообращение
+blood group	[ blʌd ɡruːp ]	группа крови
+blood vessel	[ blʌd ˈvesəl ]	кровеносный сосуд
+body	[ ˈbɒdi ]	тело
+bone	[ bəʊn ]	кость
+bowels	[ ˈbaʊəlz ]	кишечник
+brain	[ breɪn ]	мозг
+breast	[ brest ]	грудь (женская)
+breath	[ breθ ]	дыхание
+bronchus	[ ˈbrɒŋkəs ]	бронх
+build	[ bɪld ]	телосложение
+bust	[ bʌst ]	бюст
+buttocks	[ bʌtəks ]	ягодицы
+calf	[ kɑːf ]	икра ноги
+canine	[ ˈkeɪnaɪn ]	клык
+capillary	[ kəˈpɪləri ]	капилляр
+cerebrum	[ səˈriːbrəm ]	головной мозг
+cheek	[ tʃiːk ]	щека
+cheekbone	[ ˈtʃiːkbəʊn ]	скула
+chest	[ ʧest ]	грудная клетка
+chin	[ tʃɪn ]	подбородок
+clavicle	[ ˈkl̩ævɪkl ]	ключица
+corpse	[ kɔːps ]	труп
+digestion	[ dɪˈdʒestʃən ]	пищеварение
+dimple	[ ˈdɪmpl̩ ]	ямка на щеке
+ear	[ ɪə ]	ухо
+elbow	[ ˈelbəʊ ]	локоть
+enamel	[ ɪˈnæml̩ ]	эмаль (зубная)
+entrails	[ ˈentreɪlz ]	кишки
+eyebrow	[ ˈaɪbraʊ ]	бровь
+eyelash	[ ˈaɪlæʃ ]	ресница
+eyelid	[ ˈaɪlɪd ]	веко
+finger	[ ˈfɪŋɡə ]	палец на руке
+fist	[ fɪst ]	кулак
+flat-foot	[ ˈflætfʊt ]	плоскостопие
+foot (feet)	[ fʊt fiːt ]	нога, ступня (ноги, ступни)
+forearm	[ ˌfɔːˈrɑːm ]	предплечье
+forefinger	[ ˈfɔːfɪŋɡə ]	указательный палец
+forehead	[ ˈfɒrɪd ]	лоб
+fourth finger	[ ˈfɔːθ ˈfɪŋɡə ]	безымянный палец
+freckle	[ ˈfrekl̩ ]	веснушка
+fringe	[ frɪndʒ ]	челка
+gland	[ ɡlænd ]	лимфатический узел
+groin	[ [ ɡrɔɪn ]	пах
+gum	[ ɡʌm ]	десна
+haemoglobin	[ ˌhiːməˈɡləʊbɪn ]	гемоглобин
+haemorrhage	[ 'hemərɪʤ ]	кровотечение
+hair	[ heə ]	волосы
+hand	[ hænd ]	кисть
+head	[ hed ]	голова
+health	[ helθ ]	здоровье
+heart	[ hɑːt ]	сердце
+heel	[ hiːl ]	пятка
+immunity	[ ɪˈmjuːnɪti ]	иммунитет
+intestine	[ ɪnˈtestɪn ]	кишечник
+jaw	[ dʒɔː ]	челюсть
+kidney	[ ˈkɪdni ]	почка
+knee	[ niː ]	колено
+larynx	[ ˈlærɪŋks ]	гортань
+leg	[ leɡ ]	нога
+lip	[ lɪp ]	губа
+liver	[ ˈlɪvə ]	печень
+little toe	[ ˈlɪtl̩ təʊ ]	мизинец ноги
+little finger	[ ˈlɪtl̩ ˈfɪŋɡə ]	мизинец руки
+lung	[ lʌŋ ]	легкое
+middle finger	[ ˈmɪdl̩ ˈfɪŋɡə ]	средний палец
+milk-tooth	[ ˈmɪlk tuːθ ]	молочный зуб
+molar	[ ˈməʊlə ]	коренной зуб
+mole	[ məʊl ]	родинка
+moustache	[ məˈstɑːʃ ]	усы
+mouth	[ maʊθ ]	рот
+muscle	[ ˈmʌsl̩ ]	мышца
+muscles	[ ˈmʌsl̩z ]	мускулатура
+nail	[ neɪl ]	ноготь
+nape	[ neɪp ]	затылок
+navel	[ ˈneɪvl̩ ]	пупок
+neck	[ nek ]	шея
+nerve	[ nɜːv ]	нерв
+nose	[ nəʊz ]	нос
+nostril	[ ˈnɒstrəl ]	ноздря
+oesophagus	[ iːˈsɒfəɡəs ]	пищевод
+ovule	[ ˈovjuːl ]	яйцеклетка
+palm	[ pɑːm ]	ладонь
+pelvis	[ ˈpelvɪs ]	таз
+puberty	[ ˈpjuːbəti ]	половая зрелость
+pulse	[ pʌls ]	пульс
+pupil	[ ˈpjuːpl̩ ]	зрачок
+rhesus	[ ˈriːsəs ]	резус
+rib	[ rɪb ]	ребро
+ring-finger	[ ˈrɪŋ fɪŋɡə ]	безымянный палец левой руки
+saliva	[ səˈlaɪvə ]	слюна
+salivation	[ ˈsælɪveɪʃn̩ ]	слюноотделение
+scapula	[ ˈskæpjʊlə ]	лопатка
+sex	[ seks ]	пол
+shoulder	[ ˈʃəʊldə ]	плечо
+skeleton	[ ˈskelɪtn̩ ]	скелет
+skin	[ skɪn ]	кожа
+skull	[ skʌl ]	череп
+spine	[ spaɪn ]	позвоночный столб
+stomach	[ ˈstʌmək ]	желудок
+stubble	[ ˈstʌbl̩ ]	щетина
+temple	[ ˈtempl̩ ]	висок
+thigh	[ θaɪ ]	бедро
+thorax	[ ˈθɔːræks ]	грудная клетка
+throat	[ θrəʊt ]	горло
+thumb	[ θʌm ]	большой палец руки
+toe	[ təʊ ]	палец ноги
+tongue	[ tʌŋ ]	язык
+tonsil	[ ˈtɒnsɪl ]	миндалина
+tooth (teeth)	[ tuːθ ] [ tiːθ ]	зуб (зубы)
+urinary bladder	[ ˈjʊərɪnri ˈblædə ]	мочевой пузырь
+urine	[ ˈjʊərɪn ]	моча
+vein	[ veɪn ]	вена
+vertebra	[ ˈvɜːtɪbrə ]	позвонок
+wart	[ wɔːt ]	бородавка

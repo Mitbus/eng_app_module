@@ -1,0 +1,97 @@
+ENGLISH
+ПЕРЕВОД
+Action!	Мотор!
+action movie	боевик
+actor / actress	актер / актриса
+adventure film	приключенческий фильм
+alias	вымышленное имя
+animator	аниматор
+aspect ratio	соотношение сторон (формат)
+backstage, behind the scenes	за кулисами
+black-and-white film	черно-белый фильм
+box office	касса
+cameraman	оператор
+caption	титр
+cartoon	мультфильм
+cast	актерский состав
+character	персонаж
+cinema (BrE), movie theater (AmE)	кино(театр)
+clapper, clapboard, clapperboard, slate (film)	хлопушка
+close-up	крупный план
+colour film	цветной фильм
+comedy	комедия
+costume designer	дизайнер по костюмам
+crew	съемочная группа
+crime film	детектив
+crowd scene	массовка
+Cut!	Снято!
+director	режиссер
+documentary film	документальный фильм
+drama	драма
+drive-in-theatre	кинотеатр, куда можно въехать на автомобиле
+dubbed film (dubbed in Russian)	дублированый фильм (дублированый на русский язык)
+educational film	общеобразовательный фильм
+episode	эпизод / серия
+fade out	исчезать постепенно (об изображении)
+feature film	художественный фильм
+film	фильм / плёнка
+flash-back	воспоминания героя, возврат в прошлое
+full-length film	полнометражный фильм
+happy ending	счастливый конец
+historical film	исторический фильм
+horror film	фильм ужасов
+location	место натурных съемок
+long shot	общий план
+makeup	грим
+makeup artist	художник по гриму (гример)
+movie (AmE), motion picture	кинофильм, кинокартина
+musical	мюзикл
+mute film	немой фильм
+newsreel	кинотрейлер, киножурнал, хроникальный фильм
+offscreen narration	повествование за кадром
+open-air theatre	кинотеатр под открытым небом
+original soundtrack (OST)	оригинальный саундтрек
+plot	сюжет
+poster	афиша
+post-production	пост-продакшн — период обработки видеоматериала после съёмок эпизодов фильма (изготовление компьютерных эффектов, монтаж, озвучивание)
+producer	продюсер
+scene	сцена
+science fiction film	научно-фантастический фильм
+screen	экран
+screen version (of the novel)	экранизация (романа)
+script, screenplay	(кино)сценарий
+scriptwriter, screenwriter	(кино)сценарист, драматург
+series (TV series)	(теле)сериал
+sets	декорации
+set-decorator	декоратор
+short-length film	короткометражный фильм
+shot	кадр
+showing	показ
+sound effects	звуковые эффекты
+sound film	звуковй фильм
+star-studded film	фильм со звездами
+starring	в главных ролях
+still	кадр
+stunt	трюк
+stunt man	каскадер
+subtitle	субтитр, подзаголовок
+take	дубль (на съемке)
+the final scene	финальная сцена
+the main (leading) role	главная роль
+the opening scene	начальная сцена
+the supporting (minor) role	роль второго плана
+theatrical film	экранизация театральной постановки
+thriller	триллер
+to act / play	играть
+to book tickets	заказывать билеты
+to come out	выходить (о фильме)
+to go into production	запускать в производство
+to release a film	выпускать фильм на экраны
+to shoot a film	снимать кино
+tragedy	трагедия
+visual effects	визуальные эффекты
+western	вестерн
+X-rated film	фильм для взрослых
+2D / 2-D (2-dimensional)	2Д, двумерный
+3D / 3-D (3-dimensional)	3Д, трехмерный
+3D / 3-D (three-dimensional) film, S3D (stereoscopic 3D) film	трехмерное кино, стереокино
