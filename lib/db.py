@@ -31,10 +31,10 @@ class Db:
             self.conn.close()
 
     def init_db(self):
-        self.define_tables()
-        self.init_word_table()
+        self.__define_tables__()
+        self.__init_word_table__()
 
-    def define_tables(self):
+    def __define_tables__(self):
         # TODO: добавить в отчет сравнение векторного хранения и хранения с индексами. В среднем юзер изнает 1к-5к слов (3000*(32+32+1)), а в аблице 250к (250000*1+32)слов
         self.cursor.execute(
             '''
@@ -80,7 +80,7 @@ class Db:
             );
             ''')
     
-    def init_word_table(self):
+    def __init_word_table__(self):
         self.cursor.executemany(
             '''
             INSERT INTO words VALUES (?, ?)
@@ -89,6 +89,8 @@ class Db:
         )
     
     def change_diff(self, user_id: int, diff: int) -> None:
+        if type(user_id) != int or type(user_id) != int:
+            raise 'Invalid type'
         self.cursor.execute(
             f'''
             UPDATE user
@@ -97,13 +99,15 @@ class Db:
             ''',
             [diff, user_id]
         )
-        self._get_lesson(user_id)  # Пересчитываем урок с учетом измененной сложности
+        self.__get_lesson_forward__(user_id)  # Пересчитываем урок с учетом измененной сложности
 
     def create_user(self, id: int, unit: Unit) -> None:
         '''
         Перед регистрацией пользователя в базе должен быть проведен пробный урок,
         результаты которого уже записаны в бд
         '''
+        if type(id) != int or type(unit) != Unit:
+            raise 'Invalid type'
         self.cursor.execute(
             '''
             INSERT INTO user VALUES (?, 0, NULL, 10)
@@ -111,12 +115,12 @@ class Db:
             [id]
         )
         self.add_unit(id, unit)
-        self.total_users += 1
+        self.__total_users__ += 1
 
-    def _update_known_words(self, user_id: int, word: str, status: bool) -> None:
+    def __update_known_words__(self, user_id: int, word: str, status: bool) -> None:
        self.__update_words__(user_id, word, status, 'known_words')
 
-    def _update_interesting_words(self, user_id: int, word: str, status: bool) -> None:
+    def __update_interesting_words__(self, user_id: int, word: str, status: bool) -> None:
        self.__update_words__(user_id, word, status, 'interesting_words')
 
     def __update_words__(self, user_id: int, word: str, status: bool, table_name: str) -> None:
@@ -147,7 +151,7 @@ class Db:
                 [status, user_id, self.vocab_dict[word]]
             )
 
-    def user_list(self) -> List[int]:
+    def __user_list__(self) -> List[int]:
         self.cursor.execute(
             '''
             SELECT id FROM user
@@ -156,23 +160,27 @@ class Db:
         return list(map(lambda x: x[0], self.cursor.fetchall()))
 
     @property
-    def total_users(self):
-        if not hasattr(self, '_total_users'):
-            self._total_users = len(self.user_list())
-        return self._total_users
+    def __total_users__(self):
+        if not hasattr(self, '___total_users__'):
+            self.___total_users__ = len(self.__user_list__())
+        return self.___total_users__
 
-    @total_users.setter
-    def total_users(self, value):
-        self._total_users = value
+    @__total_users__.setter
+    def __total_users__(self, value):
+        self.___total_users__ = value
 
-    def get_recomendation(self, user_id: int, n=1, min_accuracy=0.1):
+    def get_recomendation(self, user_id: int, max_users: int, min_accuracy: int):
         '''
         Подбирает рекомендации на основе интересов пользователей, которые наиболее похожи на данного
         Значение схожести и количество похожих пользователей подбирается эмпириеским путем (default: n=1, min_accuracy=0.1)
         Данные рекомендации полезны, если пользователь хочет "попробовать что-то новое". Мы можем делать такие выводы исходя из того, что пользователь
         начал редко пользоваться приложением или ставить плохие оценки изученным словам
         '''
-        most_similar = self._get_most_similar(user_id, n=n)
+        if type(user_id) != int or type(max_users) != int or type(min_accuracy) != float:
+            raise 'Invalid type'
+        if max_users <= 0 or min_accuracy < 0 or min_accuracy > 1:
+            raise 'Invalid parameter value'
+        most_similar = self.__get_most_similar__(user_id, n=max_users)
         most_similar_ids = list(map(lambda x: x[1], filter(lambda x: x[0] >= min_accuracy, most_similar)))
         if len(most_similar_ids) == 0:
             raise 'There is no similar users'
@@ -198,19 +206,19 @@ class Db:
                     res)))
         if len(res) == 0:
             raise 'There is no new words from other users'  # Нет слов других пользователей, которыми бы не увлекался данный пользователь
-        size = self._get_difficult(user_id)
+        size = self.__get_difficult__(user_id)
         if len(res) <= size:
             shuffle(res)
             return res
         return sample(res, k=size)
 
-    def _get_most_similar(self, user_id: int, n=1):
+    def __get_most_similar__(self, user_id: int, n=1):
         '''
         Проводит сравнительный анализ веторов,
         возвращает пару (accuracy, индекс) n наиболее похожих по интересам (interesting_words) пользователей.
         Если значение n больше, чемм кол-во пользователей, то выдает ошибку
         '''
-        if self.total_users - 1 < n:
+        if self.__total_users__ - 1 < n:
             raise 'Not enough users in database'
         self.cursor.execute(
             '''
@@ -222,7 +230,7 @@ class Db:
         target_len = len(target)
         target = dict(target)
         best_n = []
-        for other_id in self.user_list():
+        for other_id in self.__user_list__():
             if other_id == user_id:
                 continue
             self.cursor.execute(
@@ -244,6 +252,8 @@ class Db:
         return nlargest(n, best_n)
 
     def get_lesson(self, user_id: int):
+        if type(user_id) != int:
+            raise 'Invalid type'
         self.cursor.execute(
             '''
             SELECT lesson FROM user
@@ -254,6 +264,8 @@ class Db:
         return jloads(lesson)
 
     def add_unit(self, user_id: int, unit: Unit) -> None:
+        if type(user_id) != int or type(unit) != Unit:
+            raise 'Invalid type'
         for uw in unit:
             if uw.word not in self.vocab_dict:
                 raise f'Word {uw.word} doesn\'t contains in vocab'
@@ -266,8 +278,8 @@ class Db:
         )
         cur_unit_id = self.cursor.fetchall()[0][0] + 1
         for uw in unit:
-            self._update_known_words(user_id, uw.word, uw.known)
-            self._update_interesting_words(user_id, uw.word, uw.interesting)
+            self.__update_known_words__(user_id, uw.word, uw.known)
+            self.__update_interesting_words__(user_id, uw.word, uw.interesting)
         words_ids = [self.vocab_dict[uw.word] for uw in unit]
         self.cursor.execute(
             '''
@@ -284,7 +296,7 @@ class Db:
             [cur_unit_id, user_id]
         )
         # Добавление нового занятия наперед
-        lesson = self._get_lesson(user_id)
+        lesson = self.__get_lesson_forward__(user_id)
         self.cursor.execute(
             '''
             UPDATE user
@@ -294,7 +306,7 @@ class Db:
             [jdumps(lesson), user_id]
         )
 
-    def _get_last_unit_words(self, user_id: int) -> List[int]:
+    def __get_last_unit_words__(self, user_id: int) -> List[int]:
         self.cursor.execute(
             '''
             SELECT last_unit_id FROM user
@@ -312,7 +324,7 @@ class Db:
         words = self.cursor.fetchall()[0][0]
         return jloads(words)
 
-    def _get_difficult(self, user_id: int):
+    def __get_difficult__(self, user_id: int):
         self.cursor.execute(
             '''
             SELECT difficult FROM user
@@ -321,7 +333,7 @@ class Db:
         )
         return self.cursor.fetchall()[0][0]
 
-    def _is_word_known(self, user_id: int, word_id: int) -> int:
+    def __is_word_known__(self, user_id: int, word_id: int) -> int:
         '''
         Если значения нет в таблице, то будет возвращено None
         '''
@@ -336,7 +348,7 @@ class Db:
             return None
         return res[0][0]
 
-    def _is_word_interesting(self, user_id: int, word_id: int) -> int:
+    def __is_word_interesting__(self, user_id: int, word_id: int) -> int:
         '''
         Если значения нет в таблице, то будет возвращено None
         '''
@@ -351,14 +363,14 @@ class Db:
             return None
         return res[0][0]
 
-    def _get_lesson(self, user_id: int):
+    def __get_lesson_forward__(self, user_id: int):
         '''
         Вычисляется наперед, после каждого add_unit
         Генерирует список английских слов, которые попадут в урок
         '''
         if type(user_id) != int:
             raise f'Unexpected user_id type. Expected {int} but got {type(user_id)}'
-        words = self._get_last_unit_words(user_id)
+        words = self.__get_last_unit_words__(user_id)
         if len(words) == 0:
             raise 'Error'
         in_format = ('?, ' * len(words))[:-2]
@@ -374,7 +386,7 @@ class Db:
                 filter(
                     lambda w: w[1] == 1, 
                     self.cursor.fetchall())))
-        size = self._get_difficult(user_id)
+        size = self.__get_difficult__(user_id)
         gen = []
         for w in map(lambda i: self.w2v_model.vocab[i], words):
             if w in interesting_words:
@@ -392,7 +404,7 @@ class Db:
             ru = self.translator.translate_en_ru(res_i)
             res_i_id = self.vocab_dict[res_i]
             # Двойное отрицание при проверке поскольку нельзя быть увереным насчет интереса к новому слову
-            if self._is_word_interesting(user_id, res_i_id) != 0 and self._is_word_known(user_id, res_i_id) != 1 and (res_i, ru) not in res:
+            if self.__is_word_interesting__(user_id, res_i_id) != 0 and self.__is_word_known__(user_id, res_i_id) != 1 and (res_i, ru) not in res:
                 size -= 1
                 res.append([res_i, ru])
         return res
