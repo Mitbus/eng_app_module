@@ -27,7 +27,8 @@ class Db:
         self.cursor = self.conn.cursor()
 
     def __del__(self):
-        self.conn.close()
+        if hasattr(self, 'conn'):
+            self.conn.close()
 
     def init_db(self):
         self.define_tables()
