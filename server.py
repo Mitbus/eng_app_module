@@ -28,18 +28,24 @@ def main():
     print('\rServer is running, press ctrl+c to stop ')
     while True:
         connection, address = server_socket.accept()
-        print(f'New connection from {address}')
+        print(f'\nNew connection from {address}')
         data = connection.recv(1024)
         print(f'Request: {data}')
         try:
             res = call_func(d, json.loads(data))
             if res is None:
-                connection.send(bytes('ok', encoding='UTF-8'))
+                res = bytes('ok', encoding='UTF-8')
+                print(f'Response: {res}')
+                connection.send(res)
             else:
-                connection.send(bytes(json.dumps(res), encoding='UTF-8'))
+                res = bytes(json.dumps(res), encoding='UTF-8')
+                print(f'Response: {res}')
+                connection.send(res)
         except Exception as e:
-            print(f'Exception on connection {address}: {e}\nInput: {data}')
-            connection.send(bytes(f'Error: {e}', encoding='UTF-8'))
+            print(f'Exception on connection {address}: {e}')
+            res = bytes(f'Error: {e}', encoding='UTF-8')
+            print(f'Response: {res}')
+            connection.send(res)
         connection.close()
 
 

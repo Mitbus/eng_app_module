@@ -19,6 +19,7 @@ class Db:
     def __init__(self, filename='users_statistic.db'):
         self.__conn__ = connect(filename)
         self.__cursor__ = self.__conn__.cursor()
+        self.c = self.__cursor__
         self.__translator__ = Translator()
         self.__w2v_model__ = Word2vec()
         self.__vocab_dict__ = {
@@ -262,9 +263,10 @@ class Db:
             WHERE id = ?
             ''', [user_id]
         )
-        if len(self.__cursor__.fetchall()) == 0:
-            raise ValueError('Undefined user_id')
-        lesson = self.__cursor__.fetchall()[0][0]
+        res = self.__cursor__.fetchall()
+        if res == []:
+            raise ValueError('User with user_id = {user_id} doesn\'t exists')
+        lesson = res[0][0]
         return jloads(lesson)
 
     def add_unit(self, user_id: int, unit: Unit) -> None:
@@ -376,7 +378,7 @@ class Db:
             raise TypeError('Invalid parameter type')
         words = self.__get_last_unit_words__(user_id)
         if len(words) == 0:
-            raise ValueError('Undefined user_id')
+            raise ValueError('User with user_id = {user_id} doesn\'t exists')
         in_format = ('?, ' * len(words))[:-2]
         self.__cursor__.execute(
             f'''
@@ -404,6 +406,8 @@ class Db:
             res_i = next(gen[idx], None)
             if res_i is None:
                 gen.pop(idx)
+                continue
+            if res_i not in self.__vocab_dict__:
                 continue
             res_i_id = self.__vocab_dict__[res_i]
             # Двойное отрицание при проверке поскольку нельзя быть увереным насчет интереса к новому слову

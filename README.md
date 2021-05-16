@@ -36,3 +36,12 @@
 * `["get_lesson", [1]]`
 * `["get_lesson", [2]]`
 * `["get_recomendation", [2, 1, 0.1]]`
+
+["init_db", []]
+["create_user", [1, [["one", true, true], ["two", true, true], ["five", false, false]]]]
+["create_user", [2, [["one", true, true], ["two", true, true], ["five", false, false]]]]
+["change_diff", [2, 3]]
+["add_unit", [1, [["hello", true, true], ["google", true, true], ["seven", false, false]]]]
+["get_lesson", [1]]
+["get_lesson", [2]]
+["get_recomendation", [2, 1, 0.1]]
