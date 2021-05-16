@@ -16,13 +16,13 @@ class Word2vec:
             if sim < similarity:
                 continue
             if self.is_word_correct(word):
-                yield word.replace('_', ' ')
+                yield word
 
     def predict_by_vector(self, vec, maxn=100):
         return (w for w in self.getSimilarWords(vec, maxn))
 
     def predict_by_word(self, word: str, maxn=100):
-        word = word.replace(' ', '_')
+        word = word
         if word in self.model.wv:
             vec = self.model.wv[word]
             return self.predict_by_vector(vec, maxn=maxn)
@@ -32,7 +32,7 @@ class Word2vec:
     def vocab(self):
         if not hasattr(self, '_vocab'):
             self._vocab = [
-                w.replace('_', ' ') for w in self.model.wv.vocab
+                w for w in self.model.wv.vocab
                 if self.is_word_correct(w)
             ]
         return self._vocab

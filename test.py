@@ -14,4 +14,4 @@ d.add_unit(1, u2)
 
 print(d.get_lesson(1))
 print(d.get_lesson(2))
-print(d.get_recomendation(2))
+print(d.get_recomendation(2, 1, 0.1))
