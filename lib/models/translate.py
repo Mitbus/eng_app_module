@@ -1,8 +1,13 @@
 from argostranslate import package, translate
-
+from os.path import (
+    normpath,
+    join,
+    dirname,
+    abspath
+)
 
 class Translator:
-    def __init__(self, path='../data/translate-en_ru-1_1.argosmodel'):
+    def __init__(self, path=normpath(join(dirname(abspath(__file__)), '../data', 'translate-en_ru-1_1.argosmodel'))):
         self.langs = self.get_installed()
         if 'English' not in self.langs or 'Russian' not in self.langs:
             package.install_from_path(path)
