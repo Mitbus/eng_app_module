@@ -760,41 +760,61 @@ words = [
 'ease'
 ]
 
-sz=10 #500
+sz = 100
+users = 100
 t = True
 f = False
-u = lib.unit(*[(words[i],random.choice([t,f]),random.choice([t,f])) for i in range(10)])
 d = lib.Db()
 
 d.init_db()
 
 ct = time.time()
-for i in range(sz):
+for i in range(users):
+    u = lib.unit(*[(w,random.choice([t,f]),random.choice([t,f])) for w in random.sample(words,sz)])
     d.create_user(i+1, u)
 print(time.time()-ct)
 
 ct = time.time()
-for i in range(sz):
+for i in range(users):
     d.change_diff(i+1, 5)
 print(time.time()-ct)
 
-u = lib.unit(*[(words[i],random.choice([t,f]),random.choice([t,f])) for i in range(10, 20)])
+sz = 500
 ct = time.time()
-for i in range(sz):
+for i in range(users):
+    u = lib.unit(*[(w,random.choice([t,f]),random.choice([t,f])) for w in random.sample(words,sz)])
     d.add_unit(i+1, u)
 print(time.time()-ct)
 
 ct = time.time()
-for i in range(sz):
+for i in range(users):
     d.change_diff(i+1, 10)
 print(time.time()-ct)
 
 ct = time.time()
-for i in range(sz):
+for i in range(users):
     print(d.get_lesson(i+1))
 print(time.time()-ct)
 
 ct = time.time()
-for i in range(sz):
-    print(d.get_recomendation(i+1, 1, 0.1))
+for i in range(users):
+    try:
+        print(d.get_recomendation(i+1, 1, 0.1))
+    except Exception as e:
+        print(e)
 print(time.time()-ct)
+
+ct = time.time()
+for i in range(users, 2*users):
+    try:
+        u = lib.unit(*[(w,random.choice([t,f]),random.choice([t,f])) for w in random.sample(words,sz)])
+        d.create_user(i+1, u)
+        u = lib.unit(*[(w,random.choice([t,f]),random.choice([t,f])) for w in random.sample(words,sz)])
+        d.add_unit(i+1, u)
+        d.change_diff(i+1, 10)
+        print(d.get_lesson(i+1))
+        print(d.get_recomendation(i+1, 1, 0.1))
+    except Exception as e:
+        print(e)
+print(time.time()-ct)
+
