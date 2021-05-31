@@ -36,7 +36,6 @@ class Db:
         self.__init_word_table__()
 
     def __define_tables__(self):
-        # TODO: добавить в отчет сравнение векторного хранения и хранения с индексами. В среднем юзер изнает 1к-5к слов (3000*(32+32+1)), а в аблице 250к (250000*1+32)слов
         self.__cursor__.execute(
             '''
             CREATE TABLE IF NOT EXISTS user (
@@ -219,7 +218,7 @@ class Db:
         '''
         Проводит сравнительный анализ веторов,
         возвращает пару (accuracy, индекс) n наиболее похожих по интересам (interesting_words) пользователей.
-        Если значение n больше, чемм кол-во пользователей, то выдает ошибку
+        Если значение n больше, чем кол-во пользователей, то выдает ошибку
         '''
         if self.__total_users__ - 1 < n:
             raise ValueError('Not enough users in database')
@@ -250,7 +249,7 @@ class Db:
                     both_values += 1
                     if target[el] == other[el]:
                         same_interesting += 1
-            accuracy = same_interesting / (len(other) + target_len - both_values)
+            accuracy = same_interesting / (len(other) + target_len - both_values)  # фактически, accuracy совпадает с мерой Жаккара
             best_n.append((accuracy, other_id))
         return nlargest(n, best_n)
 
