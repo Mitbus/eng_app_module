@@ -63,7 +63,7 @@ for f in files:
     with open('words/dict/' +f[0]) as ff:
         res = set()
         for el in ff.read().split('\n'):
-            if el in m.model.wv:
+            if m.is_word_correct(el):
                 res.add(el)
                 includes += 1
             else:

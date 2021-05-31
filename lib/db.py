@@ -273,7 +273,7 @@ class Db:
             raise TypeError('Invalid parameter type')
         for uw in unit:
             if uw.word not in self.__vocab_dict__:
-                raise ValueError(f'Word {uw.word} doesn\'t contains in vocab')
+                raise ValueError(f'Word "{uw.word}" doesn\'t contains in vocab')
         self.__cursor__.execute(
             '''
             SELECT last_unit_id FROM user

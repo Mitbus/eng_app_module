@@ -29,7 +29,6 @@ class Word2vec:
             if sim < similarity:
                 continue
             if self.is_word_correct(word):
-                print(word, self.word_synset(word), word in self.word_dict)
                 yield word
 
     def predict_by_vector(self, vec, maxn=100):
