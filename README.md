@@ -3,7 +3,7 @@
 
 1. установить все зависимости из requirements.txt (`pip3 install -r lib/requirements.txt`)
 
-2. положить в `lib/put_to_~/gensim-data/word2vec-google-news-300` архив из диска: `https://disk.yandex.ru/d/0gciCaFpwuBNdA?w=1` (время от времени архив будет обновляться)
+2. положить в `lib/models` модель из диска: `https://disk.yandex.ru/d/0gciCaFpwuBNdA?w=1`
 
 3. переместить соержимое `put_to_~` в домашную директорию (`home/[username]`)
 

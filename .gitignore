@@ -1,2 +1,5 @@
 
 lib/put_to_~/gensim-data/word2vec-google-news-300/word2vec-google-news-300.gz
+users_statistic.db
+lib/models/merged_model.wv.vectors.npy
+lib/models/merged_model

@@ -1,6 +1,6 @@
 class Word2vec:
     def __init__(self):
-        import gensim.downloader as api
+        from gensim.models import Word2Vec
         from nltk.corpus import stopwords, words, wordnet
         import re
         try:
@@ -16,7 +16,12 @@ class Word2vec:
             self.word_dict = set(words.words())
             self.word_synset = wordnet.synsets
             self.stop = set(map(lambda x: x.lower(), stopwords.words('english')))
-        self.model = api.load('word2vec-google-news-300')
+        try:
+            self.model = Word2Vec.load('merged_model')
+        except Exception as e:
+            import gensim.downloader as api
+            print(e)
+            self.model = api.load('word2vec-google-news-300')
         self.incorr_symbols = re.compile(f'[^a-z\'_-]')
 
     def is_word_correct(self, word):

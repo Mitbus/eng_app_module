@@ -59,11 +59,12 @@ files = [
 
 del_counter = 0
 includes = 0
+vocab_set = set(m.vocab)
 for f in files:
     with open('words/dict/' +f[0]) as ff:
         res = set()
         for el in ff.read().split('\n'):
-            if m.is_word_correct(el):
+            if el in vocab_set:
                 res.add(el)
                 includes += 1
             else:
