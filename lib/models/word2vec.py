@@ -1,8 +1,12 @@
+from os.path import join
+from gensim.downloader import base_dir
+from gensim.models import Word2Vec
+from nltk.corpus import stopwords, words, wordnet
+import re
+
+
 class Word2vec:
     def __init__(self):
-        from gensim.models import Word2Vec
-        from nltk.corpus import stopwords, words, wordnet
-        import re
         try:
             self.word_dict = set(words.words())
             self.word_synset = wordnet.synsets
@@ -17,7 +21,7 @@ class Word2vec:
             self.word_synset = wordnet.synsets
             self.stop = set(map(lambda x: x.lower(), stopwords.words('english')))
         try:
-            self.model = Word2Vec.load('merged_model')
+            self.model = Word2Vec.load(join(base_dir, 'eng_app_models', 'merged_model'))
         except Exception as e:
             import gensim.downloader as api
             print(e)

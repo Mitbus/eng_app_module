@@ -91,6 +91,8 @@ class Db:
     def change_diff(self, user_id: int, diff: int) -> None:
         if type(user_id) != int or type(user_id) != int:
             raise TypeError('Invalid parameter type')
+        if diff < 1 or diff > 100:
+            raise ValueError('The correct value for the "diff" parameter must be between 1 and 100')
         self.__cursor__.execute(
             f'''
             UPDATE user

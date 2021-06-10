@@ -3,7 +3,7 @@
 
 1. установить все зависимости из requirements.txt (`pip3 install -r lib/requirements.txt`)
 
-2. положить в `lib/models` модель из диска: `https://disk.yandex.ru/d/0gciCaFpwuBNdA?w=1`
+2. положить в `lib/put_to_~/gensim-data/eng_app_models` модель из диска (3 файла): `https://disk.yandex.ru/d/0gciCaFpwuBNdA?w=1` (этот шаг можно пропустить, тогда при первом запуске будет загружена предобученная модель `word2vec-google-news-300`)
 
 3. переместить соержимое `put_to_~` в домашную директорию (`home/[username]`)
 
